@@ -1,0 +1,394 @@
+{
+  "date": "2026-10-06",
+  "published_at": "2026-10-06T21:59:28.473620+00:00",
+  "stories": [
+    {
+      "headline": "Anduril and Navy Announce $6.6 Billion Investment for New Submarine Component Shipyard",
+      "summary": "Anduril is establishing a new shipyard to manufacture parts for Virginia-class submarines in Baltimore County, Md., the company and the White House announced today. The new facility, dubbed Arsenal-2, comes with a $6.6 billion investment, including $3.7 billion in private capital and up to $2.9 billion from the Navy.",
+      "why_it_matters": "By partnering with a major defense tech startup on a software-defined shipyard, the U.S. Navy is attempting to bypass legacy industrial bottlenecks and accelerate Virginia-class attack submarine delivery rates.",
+      "category": "industry",
+      "companies": [
+        "Anduril",
+        "General Dynamics",
+        "Huntington Ingalls Industries"
+      ],
+      "topics": [
+        "Shipbuilding",
+        "Submarines",
+        "Defense Procurement",
+        "Manufacturing"
+      ],
+      "sources": [
+        {
+          "publisher": "Breaking Defense",
+          "url": "https://breakingdefense.com/2026/10/anduril-establishes-new-shipyard-to-manufacture-components-for-virginia-class-subs/",
+          "access": "free",
+          "published_at": "2026-10-06T13:07:44+00:00",
+          "kind": "reporting"
+        },
+        {
+          "publisher": "CNBC",
+          "url": "https://www.cnbc.com/2026/10/06/anduril-navy-submarine-shipyard-contract.html",
+          "access": "free",
+          "published_at": "2026-10-06T13:00:07+00:00",
+          "kind": "reporting"
+        },
+        {
+          "publisher": "CNBC",
+          "url": "https://www.cnbc.com/amp/2026/10/06/anduril-navy-submarine-shipyard-contract.html",
+          "access": "free",
+          "published_at": "2026-10-06T13:00:07+00:00",
+          "kind": "reporting"
+        },
+        {
+          "publisher": "DefenseScoop",
+          "url": "https://defensescoop.com/2026/10/06/white-house-anduril-announce-new-shipyard-baltimore-county/",
+          "access": "free",
+          "published_at": "2026-10-06T13:48:46+00:00",
+          "kind": "reporting"
+        },
+        {
+          "publisher": "Defense News",
+          "url": "https://www.defensenews.com/industry/techwatch/2026/10/06/anduril-us-navy-invest-66-billion-to-boost-submarine-parts-production/",
+          "access": "unknown",
+          "published_at": "2026-10-06T14:15:29+00:00",
+          "kind": "reporting"
+        }
+      ],
+      "score": 95
+    },
+    {
+      "headline": "Boeing Awarded $14.7 Billion Contract to Triple PAC-3 MSE Seeker Production",
+      "summary": "Boeing was awarded an undefinitized contract action worth approximately $14.7 billion by Lockheed Martin to scale production and deliver PAC-3 Missile Segment Enhancement seekers. The contract award enables Boeing to triple PAC-3 MSE seeker production under the previously announced seven-year framework agreement with the U.S. Department of War.",
+      "why_it_matters": "Securing this multi-billion-dollar commitment underwrites a massive manufacturing ramp-up for critical air defense interceptor components, helping address severe inventory strains across Western militaries.",
+      "category": "industry",
+      "companies": [
+        "Boeing",
+        "Lockheed Martin"
+      ],
+      "topics": [
+        "Missiles",
+        "Air Defense",
+        "Defense Procurement",
+        "Manufacturing"
+      ],
+      "sources": [
+        {
+          "publisher": "Boeing Newsroom",
+          "url": "https://boeing.mediaroom.com/2026-10-05-Boeing-receives-seven-year-contract-to-accelerate-PAC-3-MSE-seeker-output",
+          "access": "free",
+          "published_at": "2026-10-05T21:55:35+00:00",
+          "kind": "company announcement"
+        },
+        {
+          "publisher": "Breaking Defense",
+          "url": "https://breakingdefense.com/2026/10/boeing-nabs-potential-14-7-billion-pac-3-seeker-contract/",
+          "access": "free",
+          "published_at": "2026-10-06T03:39:36+00:00",
+          "kind": "reporting"
+        },
+        {
+          "publisher": "Defense News",
+          "url": "https://www.defensenews.com/industry/techwatch/2026/10/06/boeing-locks-in-7-year-deal-to-triple-pac-3-mse-seeker-output/",
+          "access": "unknown",
+          "published_at": "2026-10-06T00:19:22+00:00",
+          "kind": "reporting"
+        }
+      ],
+      "score": 90
+    },
+    {
+      "headline": "Northrop Grumman Completes First Autonomous Flight of Talon Blue CCA",
+      "summary": "Northrop Grumman's YFQ-48A Talon Blue completed its first fully autonomous flight, including taxi, takeoff, in-flight maneuvers, and landing. Developed through company investment, Talon Blue combines modular design and advanced manufacturing to lower cost and support faster production without compromising mission capability.",
+      "why_it_matters": "By advancing a self-funded loyal wingman drone design after missing initial procurement rounds, Northrop aims to position itself strongly for upcoming increments of the Air Force's uncrewed fighter fleet.",
+      "category": "industry",
+      "companies": [
+        "Northrop Grumman"
+      ],
+      "topics": [
+        "Drones",
+        "Autonomy",
+        "Aviation",
+        "Research and Development"
+      ],
+      "sources": [
+        {
+          "publisher": "Air & Space Forces Magazine",
+          "url": "https://www.airandspaceforces.com/northrops-talon-blue-cca-first-flight/",
+          "access": "free",
+          "published_at": "2026-10-05T22:38:57+00:00",
+          "kind": "reporting"
+        },
+        {
+          "publisher": "Northrop Grumman",
+          "url": "https://news.northropgrumman.com/autonomous-systems/northrop-grumman-advances-autonomous-airpower-with-first-talon-blue-flight",
+          "access": "free",
+          "published_at": "2026-10-03T12:20:32+00:00",
+          "kind": "company announcement"
+        },
+        {
+          "publisher": "Defense News",
+          "url": "https://www.defensenews.com/industry/techwatch/2026/10/06/northrop-grummans-yfq-48a-cca-completes-first-fully-autonomous-flight/",
+          "access": "unknown",
+          "published_at": "2026-10-06T15:46:33+00:00",
+          "kind": "reporting"
+        },
+        {
+          "publisher": "Breaking Defense",
+          "url": "https://breakingdefense.com/2026/10/northrop-logs-first-flight-for-self-funded-drone-wingman/",
+          "access": "free",
+          "published_at": "2026-10-05T22:02:34+00:00",
+          "kind": "reporting"
+        },
+        {
+          "publisher": "Aviation Week (related reading)",
+          "url": "https://aviationweek.com/defense/northrop-completes-first-flight-self-funded-cca-demonstrator",
+          "access": "paywalled",
+          "kind": "supplemental reading; full text not accessed",
+          "published_at": "2026-10-04T07:11:20+00:00",
+          "used_as_evidence": false
+        }
+      ],
+      "score": 85
+    },
+    {
+      "headline": "Ursa Major Secures $137 Million Navy Contracts for Novel Missile Propulsion",
+      "summary": "Two new U.S. Navy munitions programs are moving ahead with Ursa Major announcing Oct. 5 it received contracts for both the Compact Air-to-Air Missile (CAAM) and the Naval Modular Missile (NMM). The two contracts, valued at $137 million combined, are for new solid rocket motor propulsion for the two missiles.",
+      "why_it_matters": "Securing these major propulsion contracts positions Ursa Major as a key merchant supplier for next-generation defense systems, competing directly with established primes in high-rate tactical motor manufacturing.",
+      "category": "industry",
+      "companies": [
+        "Ursa Major",
+        "Lockheed Martin",
+        "Anduril",
+        "RTX"
+      ],
+      "topics": [
+        "Procurement",
+        "Missiles",
+        "Manufacturing",
+        "Supply Chains"
+      ],
+      "sources": [
+        {
+          "publisher": "Aviation Week",
+          "url": "https://aviationweek.com/defense/missile-defense-weapons/ursa-major-wins-us-navy-air-air-surface-air-contracts",
+          "access": "free",
+          "published_at": "2026-10-05T20:00:38+00:00",
+          "kind": "reporting"
+        }
+      ],
+      "score": 85
+    },
+    {
+      "headline": "Army Awards Anduril Contract Worth Up to $1.8 Billion to Expand NGC2",
+      "summary": "The Army awarded Anduril a contract worth up to $1.8 billion over five years to expand the service's Next Generation Command and Control ecosystem to additional units, the company said Monday. The contract includes a $162.8 million base period, which is focused on expanding NGC2's common data layer to I Corps.",
+      "why_it_matters": "This multi-year award signals a major operational scaling of software-defined command networks from division prototyping to corps-wide implementation in complex Pacific scenarios.",
+      "category": "industry",
+      "companies": [
+        "Anduril"
+      ],
+      "topics": [
+        "Command and Control",
+        "Software",
+        "Artificial Intelligence",
+        "Defense Procurement"
+      ],
+      "sources": [
+        {
+          "publisher": "DefenseScoop",
+          "url": "https://defensescoop.com/2026/10/06/army-awards-anduril-1-8b-contract-expand-ngc2/",
+          "access": "free",
+          "published_at": "2026-10-06T17:08:46+00:00",
+          "kind": "reporting"
+        }
+      ],
+      "score": 82
+    },
+    {
+      "headline": "Pentagon Names Four Directed-Energy Vendors for Homeland Counter-Drone Pilot",
+      "summary": "The Pentagon named four directed-energy weapons for a homeland counter-drone pilot, the first systems the military will field and test at U.S. bases under a program ordered by Congress. The four systems selected are AeroVironment's Palletized High-Energy Laser, Epirus' Leonidas high-powered microwave, Kord's Firefly high-energy laser and Boeing's Compact Laser Weapon System.",
+      "why_it_matters": "Evaluating directed-energy solutions operationally allows the military to test cost-per-engagement metrics for countering drone swarms in domestic airspace.",
+      "category": "industry",
+      "companies": [
+        "AeroVironment",
+        "Epirus",
+        "Boeing"
+      ],
+      "topics": [
+        "Drones",
+        "Directed Energy",
+        "Air Defense",
+        "Procurement"
+      ],
+      "sources": [
+        {
+          "publisher": "Defense News",
+          "url": "https://www.defensenews.com/industry/techwatch/2026/10/06/pentagon-names-4-directed-energy-weapons-for-counter-drone-program-at-us-bases/",
+          "access": "unknown",
+          "published_at": "2026-10-06T18:29:50+00:00",
+          "kind": "reporting"
+        },
+        {
+          "publisher": "Breaking Defense",
+          "url": "https://breakingdefense.com/2026/10/pentagon-picks-4-vendors-for-counter-drone-directed-energy-pilot-program/",
+          "access": "free",
+          "published_at": "2026-10-05T22:02:40+00:00",
+          "kind": "reporting"
+        }
+      ],
+      "score": 80
+    },
+    {
+      "headline": "Tinuiti Launches Bliss Point MCP Server for Open AI Agent Measurement",
+      "summary": "Tinuiti announced the launch of the Bliss Point Model Context Protocol (MCP) Server, becoming one of the first agencies to open its proprietary measurement layer directly to AI agents. Powered by the Bliss Point Marketing Operating System, the new connection gives marketers governed access to clean, cross-channel media performance and measurement intelligence through compatible AI agents and enterprise AI environments.",
+      "why_it_matters": "By bypassing traditional walled gardens via open protocols, agencies can position their analytics infrastructure as core utility layers inside enterprise AI workflows.",
+      "category": "marketing",
+      "companies": [
+        "Tinuiti",
+        "e.l.f."
+      ],
+      "topics": [
+        "Buyer Experiences",
+        "AI",
+        "Brand Platforms",
+        "Novel Product Demonstrations"
+      ],
+      "sources": [
+        {
+          "publisher": "ADWEEK",
+          "url": "https://www.adweek.com/adweek-wire/tinuiti-unveils-bliss-point-mcp-server-pioneering-open-measurement-access-for-ai-agents/?itm_source=homepage&itm_medium=adweek-wire-edge&itm_campaign=1",
+          "access": "free",
+          "published_at": "2026-10-06T05:57:36+00:00",
+          "kind": "reporting"
+        }
+      ],
+      "score": 80
+    },
+    {
+      "headline": "Germany to Set Up First Drone Regiment Next Year Modeled After Ukraine War Lessons",
+      "summary": "Germany plans to stand up its first dedicated drone regiment next year, Defense Minister Boris Pistorius announced, as Berlin attempts to institutionalize lessons from the war in Ukraine after years of domestic foot-dragging on unmanned warfare. Ground forces will begin forming the regiment in 2027, consolidating reconnaissance, deep-strike capabilities, unmanned ground vehicles, electronic warfare, and counter-drone defenses under a unified command.",
+      "why_it_matters": "European land forces are moving rapidly to organizational models that treat aerial drones and ground robotics as equal, institutionalized pillars of frontline combat rather than experimental add-ons.",
+      "category": "industry",
+      "companies": [],
+      "topics": [
+        "Drones",
+        "Autonomy",
+        "Ground Robotics",
+        "Military Strategy"
+      ],
+      "sources": [
+        {
+          "publisher": "Defense News",
+          "url": "https://www.defensenews.com/global/europe/2026/10/05/germany-to-set-up-first-drone-regiment-next-year-modeled-after-ukraine-war-lessons/",
+          "access": "unknown",
+          "published_at": "2026-10-05T14:01:14+00:00",
+          "kind": "reporting"
+        }
+      ],
+      "score": 78
+    },
+    {
+      "headline": "Sig Sauer M8 Next Generation Squad Weapon Set for December Fielding",
+      "summary": "Fielding of the M8 carbine will begin in December with some units at Fort Bragg, North Carolina, company executives confirmed to Military Times Monday. The new rifle is more than a pound lighter than the M7 and sports a barrel that's 3.5 inches shorter.",
+      "why_it_matters": "Quickly pivoting to an improved weapon design following user complaints demonstrates manufacturer responsiveness to ergonomic and weight critiques in infantry small arms programs.",
+      "category": "industry",
+      "companies": [
+        "Sig Sauer"
+      ],
+      "topics": [
+        "Small Arms",
+        "Infantry Equipment",
+        "Manufacturing",
+        "Procurement"
+      ],
+      "sources": [
+        {
+          "publisher": "Defense News",
+          "url": "https://www.defensenews.com/industry/techwatch/2026/10/06/its-official-us-armys-improved-m8-rifle-to-begin-fielding-in-december/",
+          "access": "unknown",
+          "published_at": "2026-10-06T19:46:03+00:00",
+          "kind": "reporting"
+        }
+      ],
+      "score": 75
+    },
+    {
+      "headline": "Kyndryl and WPP Expand Strategic Partnership for Enterprise Transformation",
+      "summary": "Kyndryl and WPP announced an expanded agreement under which they will redefine the traditional customer-supplier relationship. The expanded partnership focuses on three key areas: the transformation of WPP's business platforms and support model, an expanded marketing partnership naming WPP as Kyndryl's preferred global marketing partner, and joint go-to-market initiatives to drive customer growth through modernization and core business transformation.",
+      "why_it_matters": "This alliance demonstrates how B2B enterprises can blend IT infrastructure modernization with creative network capabilities, creating shared operational models that redefine traditional vendor boundaries.",
+      "category": "marketing",
+      "companies": [
+        "Kyndryl",
+        "WPP"
+      ],
+      "topics": [
+        "Enterprise Campaigns",
+        "AI",
+        "Buyer Experiences",
+        "Partnerships"
+      ],
+      "sources": [
+        {
+          "publisher": "PR Newswire",
+          "url": "https://www.prnewswire.com/news-releases/kyndryl-and-wpp-expand-strategic-partnership-to-drive-enterprise-transformation-marketing-growth-and-joint-go-to-market-innovation-302898781.html",
+          "access": "free",
+          "published_at": "2026-10-06T08:00:00+00:00",
+          "kind": "distributed press release"
+        }
+      ],
+      "score": 75
+    },
+    {
+      "headline": "Directive Launches InfluenceOS Framework to Measure B2B Thought Leadership",
+      "summary": "B2B performance marketing agency Directive has launched Directive InfluenceOS, a framework designed to help business-to-business brands identify, activate and measure the people who shape how buyers find and evaluate them. The framework treats influence as an ongoing channel rather than a campaign, and the agency says it moves away from the follower counts, reach and engagement metrics that typically define influencer programs.",
+      "why_it_matters": "This pivot away from vanity metrics toward pipeline-tied thought leadership addresses a chronic attribution gap in B2B marketing budgets.",
+      "category": "marketing",
+      "companies": [
+        "Directive"
+      ],
+      "topics": [
+        "Enterprise Campaigns",
+        "Buyer Experiences",
+        "Brand Platforms"
+      ],
+      "sources": [
+        {
+          "publisher": "ADWEEK",
+          "url": "https://www.adweek.com/adweek-wire/directive-b2b-influencer-marketing-framework/?itm_source=homepage&itm_medium=adweek-wire-edge&itm_campaign=1",
+          "access": "free",
+          "published_at": "2026-10-06T09:03:19+00:00",
+          "kind": "reporting"
+        }
+      ],
+      "score": 70
+    },
+    {
+      "headline": "commercetools Appoints Katy Hiller as Chief Marketing Officer",
+      "summary": "commercetools announced the appointment of Katy Hiller as Chief Marketing Officer (CMO), strengthening its executive leadership team as the company enters its next phase of global growth. Hiller brings more than 20 years of B2B technology marketing experience spanning growth, go-to-market strategies and building high-performance marketing organizations.",
+      "why_it_matters": "Bringing in experienced B2B tech CMOs signals an operational scaling phase for platforms targeting autonomous and agentic commerce transformations.",
+      "category": "marketing",
+      "companies": [
+        "commercetools",
+        "Unily",
+        "Sonatype"
+      ],
+      "topics": [
+        "Buyer Experiences",
+        "AI",
+        "Enterprise Campaigns"
+      ],
+      "sources": [
+        {
+          "publisher": "PR Newswire",
+          "url": "https://www.prnewswire.com/news-releases/commercetools-appoints-katy-hiller-as-chief-marketing-officer-302896780.html",
+          "access": "free",
+          "published_at": "2026-10-06T11:00:00+00:00",
+          "kind": "distributed press release"
+        }
+      ],
+      "score": 65
+    }
+  ],
+  "coverage_start": "2026-10-02T15:59:28.473620+00:00",
+  "coverage_end": "2026-10-06T21:59:28.473620+00:00"
+}
