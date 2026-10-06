@@ -1,0 +1,50 @@
+{
+  "notes": "This is a conservative pilot. NASA feeds are enabled; other feeds are technical candidates only and must be checked for access and permission before enabling. Do not enable SpaceNews or Defence IQ under their restricted non-commercial feed terms. No paywall scraping is performed.",
+  "sources": [
+    {
+      "publisher": "NASA",
+      "feed_url": "https://www.nasa.gov/news-release/feed/",
+      "category": "industry",
+      "kind": "government announcement",
+      "enabled": true,
+      "rights_reviewed": true,
+      "review_note": "Public NASA news releases; do not imply NASA endorsement. Text-only, no logos or images."
+    },
+    {
+      "publisher": "NASA",
+      "feed_url": "https://www.nasa.gov/technology/feed/",
+      "category": "industry",
+      "kind": "government announcement",
+      "enabled": true,
+      "rights_reviewed": true,
+      "review_note": "Public NASA technology information. Same publisher as NASA releases, not independent corroboration."
+    },
+    {
+      "publisher": "Breaking Defense",
+      "feed_url": "https://feeds.feedburner.com/BreakingDefense/",
+      "category": "industry",
+      "kind": "reporting",
+      "enabled": false,
+      "rights_reviewed": false,
+      "review_note": "Feed candidate; confirm current availability and permitted automated/public use."
+    },
+    {
+      "publisher": "Defense News",
+      "feed_url": "https://www.defensenews.com/arc/outboundfeeds/rss/?outputType=xml",
+      "category": "industry",
+      "kind": "reporting",
+      "enabled": false,
+      "rights_reviewed": false,
+      "review_note": "Publisher offers RSS; confirm exact endpoint and permitted public summary use."
+    },
+    {
+      "publisher": "Marketing Week",
+      "feed_url": "https://www.marketingweek.com/feed/",
+      "category": "marketing",
+      "kind": "reporting",
+      "enabled": false,
+      "rights_reviewed": false,
+      "review_note": "Feed candidate; verify permitted use. Subscription-only articles may have insufficient feed text."
+    }
+  ]
+}
