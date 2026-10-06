@@ -115,6 +115,9 @@ def expanded_collect(sources,cutoff):
 
 legacy.collect = expanded_collect
 
+from restricted_links import install as install_restricted_links
+install_restricted_links(legacy, wide)
+
 if __name__ == "__main__":
     try:
         legacy.main()
