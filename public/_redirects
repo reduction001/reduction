@@ -1,2 +1,3 @@
-/rtx /index.html 200
-/rtx/ /index.html 200
+# /rtx is now served by public/rtx.html, not by the root homepage.
+# Only canonicalize the optional trailing slash.
+/rtx/ /rtx 301
