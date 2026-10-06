@@ -1,0 +1,302 @@
+{
+  "lookback_days": 7,
+  "max_discovered": 1800,
+  "max_extraction_attempts": 100,
+  "discovery_workers": 3,
+  "evidence_workers": 3,
+  "approved_text_domains": [
+    "nasa.gov",
+    "defensenews.com",
+    "breakingdefense.com",
+    "marketingweek.com"
+  ],
+  "blocked_text_domains": [
+    "spacenews.com",
+    "defenceiq.com"
+  ],
+  "notes": "Discovery can find any indexed publisher. Article-text acquisition is limited to approved domains, respects robots.txt and skips detected paywalls. User approval is not proof of publisher permission. Add domains only after appropriate access/terms review. US and UK English editions improve international marketing discovery, but are not exhaustive global coverage. Emerging-company names here are monitoring seeds, not a ranking or validated investment recommendation.",
+  "queries": [
+    {
+      "name": "Airbus",
+      "query": "Airbus (aircraft OR defense OR manufacturing)",
+      "category": "industry",
+      "editions": [
+        "US"
+      ]
+    },
+    {
+      "name": "Boeing",
+      "query": "Boeing (aircraft OR defense OR production)",
+      "category": "industry",
+      "editions": [
+        "US"
+      ]
+    },
+    {
+      "name": "Lockheed Martin",
+      "query": "\"Lockheed Martin\"",
+      "category": "industry",
+      "editions": [
+        "US"
+      ]
+    },
+    {
+      "name": "Northrop Grumman",
+      "query": "\"Northrop Grumman\"",
+      "category": "industry",
+      "editions": [
+        "US"
+      ]
+    },
+    {
+      "name": "RTX",
+      "query": "(RTX OR Raytheon OR \"Pratt & Whitney\" OR \"Collins Aerospace\") (defense OR aerospace OR aviation)",
+      "category": "industry",
+      "editions": [
+        "US"
+      ]
+    },
+    {
+      "name": "Anduril",
+      "query": "Anduril",
+      "category": "industry",
+      "editions": [
+        "US"
+      ]
+    },
+    {
+      "name": "Shield AI",
+      "query": "\"Shield AI\"",
+      "category": "industry",
+      "editions": [
+        "US"
+      ]
+    },
+    {
+      "name": "Saronic",
+      "query": "Saronic",
+      "category": "industry",
+      "editions": [
+        "US"
+      ]
+    },
+    {
+      "name": "Emerging space",
+      "query": "(\"space startup\" OR \"launch startup\") (contract OR launch OR funding)",
+      "category": "industry",
+      "editions": [
+        "US"
+      ]
+    },
+    {
+      "name": "Emerging defense",
+      "query": "(\"defense startup\" OR \"defence startup\" OR \"defense tech\") (contract OR funding OR production)",
+      "category": "industry",
+      "editions": [
+        "US"
+      ]
+    },
+    {
+      "name": "Commercial aviation",
+      "query": "(airline OR aviation) (fleet OR aircraft OR engine OR manufacturing)",
+      "category": "industry",
+      "editions": [
+        "US"
+      ]
+    },
+    {
+      "name": "Military aircraft",
+      "query": "(\"US Air Force\" OR \"US Navy\") (aircraft OR fighter OR bomber)",
+      "category": "industry",
+      "editions": [
+        "US"
+      ]
+    },
+    {
+      "name": "Missiles and air defense",
+      "query": "(missile OR \"air defense\") (Pentagon OR \"United States\" OR US)",
+      "category": "industry",
+      "editions": [
+        "US"
+      ]
+    },
+    {
+      "name": "Space systems",
+      "query": "(\"Space Force\" OR NASA) (satellite OR launch OR contract)",
+      "category": "industry",
+      "editions": [
+        "US"
+      ]
+    },
+    {
+      "name": "Drones and autonomy",
+      "query": "(drone OR autonomous) (Pentagon OR military OR defense)",
+      "category": "industry",
+      "editions": [
+        "US"
+      ]
+    },
+    {
+      "name": "Maritime",
+      "query": "(\"US Navy\" OR naval) (shipbuilding OR autonomous OR submarine)",
+      "category": "industry",
+      "editions": [
+        "US"
+      ]
+    },
+    {
+      "name": "Defense cyber",
+      "query": "(cybersecurity OR \"electronic warfare\") (Pentagon OR defense)",
+      "category": "industry",
+      "editions": [
+        "US"
+      ]
+    },
+    {
+      "name": "Defense manufacturing",
+      "query": "(defense OR aerospace) (manufacturing OR factory OR production)",
+      "category": "industry",
+      "editions": [
+        "US"
+      ]
+    },
+    {
+      "name": "Supply chains",
+      "query": "(aerospace OR defense) (\"supply chain\" OR shortage OR supplier)",
+      "category": "industry",
+      "editions": [
+        "US"
+      ]
+    },
+    {
+      "name": "Procurement",
+      "query": "(Pentagon OR \"Department of Defense\") (procurement OR acquisition OR reform)",
+      "category": "industry",
+      "editions": [
+        "US"
+      ]
+    },
+    {
+      "name": "Budgets and policy",
+      "query": "(\"defense budget\" OR \"Pentagon budget\") (Congress OR procurement)",
+      "category": "industry",
+      "editions": [
+        "US"
+      ]
+    },
+    {
+      "name": "Regulation",
+      "query": "(FAA OR export) (aviation OR aerospace OR defense) (rule OR regulation OR certification)",
+      "category": "industry",
+      "editions": [
+        "US"
+      ]
+    },
+    {
+      "name": "Mergers and earnings",
+      "query": "(aerospace OR defense) (acquisition OR merger OR earnings)",
+      "category": "industry",
+      "editions": [
+        "US"
+      ]
+    },
+    {
+      "name": "Technical milestones",
+      "query": "(aerospace OR defense) (breakthrough OR prototype OR \"first flight\" OR demonstration)",
+      "category": "industry",
+      "editions": [
+        "US"
+      ]
+    },
+    {
+      "name": "B2B campaigns",
+      "query": "(\"B2B\" OR \"business-to-business\") (campaign OR advertising OR activation)",
+      "category": "marketing",
+      "editions": [
+        "US",
+        "GB"
+      ]
+    },
+    {
+      "name": "Enterprise brands",
+      "query": "(\"enterprise software\" OR \"business technology\") (campaign OR rebrand OR advertising)",
+      "category": "marketing",
+      "editions": [
+        "US",
+        "GB"
+      ]
+    },
+    {
+      "name": "Industrial creativity",
+      "query": "(industrial OR manufacturing OR logistics) (\"brand campaign\" OR activation OR rebrand)",
+      "category": "marketing",
+      "editions": [
+        "US",
+        "GB"
+      ]
+    },
+    {
+      "name": "Buyer experiences",
+      "query": "(B2B OR enterprise) (experience OR experiential OR demonstration) (campaign OR marketing)",
+      "category": "marketing",
+      "editions": [
+        "US",
+        "GB"
+      ]
+    },
+    {
+      "name": "B2B effectiveness",
+      "query": "B2B (effectiveness OR \"case study\") (campaign OR advertising)",
+      "category": "marketing",
+      "editions": [
+        "US",
+        "GB"
+      ]
+    },
+    {
+      "name": "B2B awards",
+      "query": "(B2B OR \"business-to-business\") (\"Cannes Lions\" OR \"D&AD\" OR award)",
+      "category": "marketing",
+      "editions": [
+        "US",
+        "GB"
+      ]
+    },
+    {
+      "name": "Aerospace marketing",
+      "query": "(aerospace OR defense OR aviation) (\"brand campaign\" OR marketing OR advertising)",
+      "category": "marketing",
+      "editions": [
+        "US",
+        "GB"
+      ]
+    },
+    {
+      "name": "Finance business campaigns",
+      "query": "(\"business banking\" OR \"commercial banking\" OR \"business insurance\") (campaign OR advertising)",
+      "category": "marketing",
+      "editions": [
+        "US",
+        "GB"
+      ]
+    },
+    {
+      "name": "Agency campaign work",
+      "query": "(site:thedrum.com OR site:campaignlive.co.uk OR site:adage.com OR site:adweek.com) (B2B OR enterprise OR industrial) (campaign OR activation)",
+      "category": "marketing",
+      "editions": [
+        "US",
+        "GB"
+      ]
+    },
+    {
+      "name": "Brand platform launches",
+      "query": "(B2B OR enterprise) (\"brand platform\" OR positioning OR \"brand launch\")",
+      "category": "marketing",
+      "editions": [
+        "US",
+        "GB"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,2 @@
+googlenewsdecoder==0.2.1
+trafilatura>=2.0,<3
