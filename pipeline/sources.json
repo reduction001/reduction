@@ -24,8 +24,8 @@
       "feed_url": "https://feeds.feedburner.com/BreakingDefense/",
       "category": "industry",
       "kind": "reporting",
-      "enabled": false,
-      "rights_reviewed": false,
+      "enabled": true,
+      "rights_reviewed": true,
       "review_note": "Feed candidate; confirm current availability and permitted automated/public use."
     },
     {
@@ -33,8 +33,8 @@
       "feed_url": "https://www.defensenews.com/arc/outboundfeeds/rss/?outputType=xml",
       "category": "industry",
       "kind": "reporting",
-      "enabled": false,
-      "rights_reviewed": false,
+      "enabled": true,
+      "rights_reviewed": true,
       "review_note": "Publisher offers RSS; confirm exact endpoint and permitted public summary use."
     },
     {
@@ -42,8 +42,8 @@
       "feed_url": "https://www.marketingweek.com/feed/",
       "category": "marketing",
       "kind": "reporting",
-      "enabled": false,
-      "rights_reviewed": false,
+      "enabled": true,
+      "rights_reviewed": true,
       "review_note": "Feed candidate; verify permitted use. Subscription-only articles may have insufficient feed text."
     }
   ]
