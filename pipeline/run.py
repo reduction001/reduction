@@ -181,10 +181,37 @@ def gemini(system, material, max_tokens=8500):
             raise ValueError("Gemini HTTP " + str(e.code) + ": " + detail) from None
     raise ValueError("Gemini request failed")
 
+def response_items(value, key):
+    if isinstance(value, list):
+        items = value
+    elif isinstance(value, dict):
+        if key not in value:
+            raise ValueError(
+                "Gemini response is missing '" + key + "'"
+            )
+        items = value[key]
+    else:
+        raise ValueError(
+            "Gemini response must be an object or list; received "
+            + type(value).__name__
+        )
+
+    if not isinstance(items, list):
+        raise ValueError(
+            "Gemini '" + key + "' must contain a list"
+        )
+
+    if not all(isinstance(item, dict) for item in items):
+        raise ValueError(
+            "Gemini '" + key + "' contains a non-object item"
+        )
+
+    return items
+
 def checked_stories(response, candidates):
     lookup = {c["id"]: c for c in candidates}; accepted = []; rejected = []
     used_sources = set()
-    for raw in response.get("stories", [])[:18]:
+    for raw in response_items(response, "stories")[:18]:
         try:
             strings = [raw.get(k) for k in ("headline", "summary", "why_it_matters")]
             if not all(isinstance(x, str) and x.strip() and len(x) < 2500 for x in strings):
@@ -238,7 +265,7 @@ Do not rewrite stories or cite new sources."""
     for i, (story, raw) in enumerate(accepted):
         items.append({"index": i, "story": story, "evidence": [lookup[s] for s in raw["source_ids"]]})
     result = gemini(check_system, {"items": items}, max_tokens=2500)
-    verdicts = result.get("verdicts", [])
+    verdicts = response_items(result, "verdicts")
     if len(verdicts) != len(items) or {v.get("index") for v in verdicts} != set(range(len(items))):
         raise ValueError("Verifier returned an incomplete verdict set")
     keep = []; dropped = []
@@ -332,6 +359,13 @@ if __name__ == "__main__":
         key = os.environ.get("GEMINI_API_KEY", "")
         message = str(error)
         if key: message = message.replace(key, "[REDACTED]")
-        write_json(REPORT / "error.json", {"error": message})
+                import traceback
+        trace = traceback.format_exc()
+        if key:
+            trace = trace.replace(key, "[REDACTED]")
+        write_json(
+            REPORT / "error.json",
+            {"error": message, "traceback": trace}
+        )
         print("Pipeline stopped:", message, file=sys.stderr)
         sys.exit(1)
