@@ -36,15 +36,6 @@
       "enabled": true,
       "rights_reviewed": true,
       "review_note": "Publisher offers RSS; confirm exact endpoint and permitted public summary use."
-    },
-    {
-      "publisher": "Marketing Week",
-      "feed_url": "https://www.marketingweek.com/feed/",
-      "category": "marketing",
-      "kind": "reporting",
-      "enabled": true,
-      "rights_reviewed": true,
-      "review_note": "Feed candidate; verify permitted use. Subscription-only articles may have insufficient feed text."
     }
   ]
 }
