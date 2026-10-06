@@ -1,0 +1,86 @@
+name: Test Gemini connection
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+
+    steps:
+      - name: Check Gemini API connection
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+        run: |
+          python3 - <<'PY'
+          import json
+          import os
+          import sys
+          import urllib.request
+          import urllib.error
+
+          key = os.environ.get("GEMINI_API_KEY", "").strip()
+          if not key:
+              sys.exit("GEMINI_API_KEY is missing or empty. Check your repository secret.")
+
+          model = "gemini-3.5-flash-lite"
+          url = (
+              "https://generativelanguage.googleapis.com/v1beta/models/"
+              + model + ":generateContent"
+          )
+          payload = {
+              "contents": [{
+                  "parts": [{
+                      "text": "Reply with exactly: Reduction connection successful"
+                  }]
+              }],
+              "generationConfig": {
+                  "maxOutputTokens": 256
+              }
+          }
+          request = urllib.request.Request(
+              url,
+              data=json.dumps(payload).encode("utf-8"),
+              headers={
+                  "Content-Type": "application/json",
+                  "x-goog-api-key": key
+              },
+              method="POST"
+          )
+
+          try:
+              with urllib.request.urlopen(request, timeout=90) as response:
+                  result = json.load(response)
+          except urllib.error.HTTPError as error:
+              raw = error.read().decode("utf-8", errors="replace")
+              try:
+                  message = json.loads(raw).get("error", {}).get(
+                      "message", "API request failed"
+                  )
+              except json.JSONDecodeError:
+                  message = "API request failed"
+              print("HTTP status:", error.code)
+              print("Message:", message.replace(key, "[REDACTED]"))
+              sys.exit(1)
+          except urllib.error.URLError as error:
+              sys.exit("Network connection failed: " + str(error.reason))
+
+          candidates = result.get("candidates", [])
+          text = "".join(
+              part.get("text", "")
+              for candidate in candidates
+              for part in candidate.get("content", {}).get("parts", [])
+              if not part.get("thought", False)
+          ).strip()
+
+          if not text:
+              sys.exit("Gemini returned no text. Connection test did not pass.")
+
+          print("Model:", model)
+          print("Response:", text)
+          print("Connection test passed.")
+          PY
