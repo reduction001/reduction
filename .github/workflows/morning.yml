@@ -1,0 +1,82 @@
+name: Reduction morning pipeline
+
+on:
+  workflow_dispatch:
+    inputs:
+      publish:
+        description: 'Publish a validated edition (leave unchecked for the first run)'
+        required: true
+        type: boolean
+        default: false
+  schedule:
+    - cron: '37,52 10,11 * * 1-5'
+
+permissions:
+  contents: write
+
+concurrency:
+  group: reduction-publication
+  cancel-in-progress: false
+
+jobs:
+  briefing:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Decide whether to run
+        id: gate
+        env:
+          EVENT: ${{ github.event_name }}
+          AUTO_PUBLISH: ${{ vars.AUTO_PUBLISH }}
+          MANUAL_PUBLISH: ${{ inputs.publish }}
+        run: |
+          python - <<'PY'
+          import datetime, os
+          from zoneinfo import ZoneInfo
+          local = datetime.datetime.now(ZoneInfo('America/New_York'))
+          manual = os.environ['EVENT'] == 'workflow_dispatch'
+          automatic = os.environ.get('AUTO_PUBLISH') == 'true'
+          run = manual or (automatic and local.weekday() < 5 and local.hour == 6)
+          publish = run and (automatic if not manual else os.environ.get('MANUAL_PUBLISH') == 'true')
+          with open(os.environ['GITHUB_OUTPUT'], 'a') as f:
+              f.write(f'run={str(run).lower()}\n')
+              f.write(f'publish={str(publish).lower()}\n')
+          print('Run:', run, 'Publish:', publish, 'New York time:', local.isoformat())
+          PY
+      - name: Build briefing
+        if: steps.gate.outputs.run == 'true'
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          GEMINI_MODEL: gemini-3.5-flash-lite
+          PUBLISH: ${{ steps.gate.outputs.publish }}
+        run: |
+          if [ "$PUBLISH" = "true" ]; then
+            python pipeline/run.py --publish
+          else
+            python pipeline/run.py
+          fi
+      - name: Save diagnostics and draft
+        if: always() && steps.gate.outputs.run == 'true'
+        uses: actions/upload-artifact@v4
+        with:
+          name: reduction-run-${{ github.run_number }}
+          path: run-output/
+          retention-days: 7
+          if-no-files-found: warn
+      - name: Commit published edition
+        if: steps.gate.outputs.publish == 'true'
+        run: |
+          if [ ! -f run-output/published.txt ]; then
+            echo 'No new edition to commit.'
+            exit 0
+          fi
+          git config user.name 'Reduction publisher'
+          git config user.email 'reduction-publisher@users.noreply.github.com'
+          git add public/data pipeline/state.json
+          git diff --cached --quiet && exit 0
+          git commit -m "Publish Reduction $(cat run-output/published.txt)"
+          git push origin HEAD:main
