@@ -353,19 +353,31 @@ def main():
     print("Edition written for publication:", TODAY)
 
 if __name__ == "__main__":
-    try: main()
+    try:
+        main()
     except Exception as error:
+        import traceback
+
         REPORT.mkdir(exist_ok=True)
         key = os.environ.get("GEMINI_API_KEY", "")
         message = str(error)
-        if key: message = message.replace(key, "[REDACTED]")
-                import traceback
         trace = traceback.format_exc()
+
         if key:
+            message = message.replace(key, "[REDACTED]")
             trace = trace.replace(key, "[REDACTED]")
+
         write_json(
             REPORT / "error.json",
-            {"error": message, "traceback": trace}
+            {
+                "error": message,
+                "traceback": trace
+            }
         )
-        print("Pipeline stopped:", message, file=sys.stderr)
+
+        print(
+            "Pipeline stopped:",
+            message,
+            file=sys.stderr
+        )
         sys.exit(1)
