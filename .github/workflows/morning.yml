@@ -9,7 +9,7 @@ on:
         type: boolean
         default: false
   schedule:
-    - cron: '37,52 10,11 * * 1-5'
+    - cron: '37,52 5,11 * * 1-5'
 
 permissions:
   contents: write
@@ -21,7 +21,7 @@ concurrency:
 jobs:
   briefing:
     runs-on: ubuntu-latest
-    timeout-minutes: 15
+    timeout-minutes: 25
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-python@v5
@@ -47,6 +47,9 @@ jobs:
               f.write(f'publish={str(publish).lower()}\n')
           print('Run:', run, 'Publish:', publish, 'New York time:', local.isoformat())
           PY
+        - name: Install wider-discovery tools
+        if: steps.gate.outputs.run == 'true'
+        run: python -m pip install -r pipeline/requirements-wide.txt
       - name: Build briefing
         if: steps.gate.outputs.run == 'true'
         env:
@@ -55,9 +58,9 @@ jobs:
           PUBLISH: ${{ steps.gate.outputs.publish }}
         run: |
           if [ "$PUBLISH" = "true" ]; then
-            python pipeline/run.py --publish
+            python pipeline/wide_run.py --publish
           else
-            python pipeline/run.py
+            python pipeline/wide_run.py
           fi
       - name: Save diagnostics and draft
         if: always() && steps.gate.outputs.run == 'true'
