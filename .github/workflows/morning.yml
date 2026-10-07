@@ -9,7 +9,7 @@ on:
         type: boolean
         default: false
   schedule:
-    - cron: '37,52 5,11 * * 1-5'
+    - cron: '17,47 10,11,12 * * 1-5'
 
 permissions:
   contents: write
@@ -40,7 +40,10 @@ jobs:
           local = datetime.datetime.now(ZoneInfo('America/New_York'))
           manual = os.environ['EVENT'] == 'workflow_dispatch'
           automatic = os.environ.get('AUTO_PUBLISH') == 'true'
-          run = manual or (automatic and local.weekday() < 5 and local.hour == 6)
+          run = manual or (
+              automatic
+              and local.weekday() < 5
+              and local.hour >= 6
           publish = run and (automatic if not manual else os.environ.get('MANUAL_PUBLISH') == 'true')
           with open(os.environ['GITHUB_OUTPUT'], 'a') as f:
               f.write(f'run={str(run).lower()}\n')
