@@ -121,6 +121,9 @@ install_restricted_links(legacy, wide)
 from robust_editor import install as install_robust_editor
 install_robust_editor(legacy)
 
+from editorial_policy import install as install_editorial_policy
+install_editorial_policy(legacy, wide)
+
 if __name__ == "__main__":
     try:
         legacy.main()
