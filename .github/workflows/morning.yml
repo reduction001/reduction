@@ -44,6 +44,7 @@ jobs:
               automatic
               and local.weekday() < 5
               and local.hour >= 6
+          )
           publish = run and (automatic if not manual else os.environ.get('MANUAL_PUBLISH') == 'true')
           with open(os.environ['GITHUB_OUTPUT'], 'a') as f:
               f.write(f'run={str(run).lower()}\n')
