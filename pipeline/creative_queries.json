@@ -1,0 +1,92 @@
+[
+  {
+    "name": "B2B campaign launches",
+    "query": "(\"B2B\" OR \"business-to-business\") (\"campaign launch\" OR \"brand campaign\" OR \"advertising campaign\")",
+    "category": "marketing",
+    "editions": [
+      "US",
+      "GB"
+    ]
+  },
+  {
+    "name": "Enterprise creative executions",
+    "query": "(Salesforce OR IBM OR Workday OR ServiceNow OR Cisco OR SAP) (\"brand campaign\" OR \"advertising campaign\" OR \"campaign film\")",
+    "category": "marketing",
+    "editions": [
+      "US",
+      "GB"
+    ]
+  },
+  {
+    "name": "Industrial brand work",
+    "query": "(industrial OR manufacturing OR logistics) (\"brand campaign\" OR \"brand identity\" OR \"creative campaign\")",
+    "category": "marketing",
+    "editions": [
+      "US",
+      "GB"
+    ]
+  },
+  {
+    "name": "B2B experiences",
+    "query": "(B2B OR enterprise) (activation OR experiential OR installation OR \"trade show\") (creative OR campaign OR experience)",
+    "category": "marketing",
+    "editions": [
+      "US",
+      "GB"
+    ]
+  },
+  {
+    "name": "B2B product demonstrations",
+    "query": "(B2B OR enterprise OR industrial) (\"product demonstration\" OR \"product demo\") (creative OR campaign OR film)",
+    "category": "marketing",
+    "editions": [
+      "US",
+      "GB"
+    ]
+  },
+  {
+    "name": "Creative publication campaigns",
+    "query": "(site:thedrum.com OR site:campaignlive.co.uk OR site:adage.com OR site:adweek.com) (B2B OR enterprise OR industrial) (campaign OR activation OR film)",
+    "category": "marketing",
+    "editions": [
+      "US",
+      "GB"
+    ]
+  },
+  {
+    "name": "Creative case studies",
+    "query": "(site:lbbonline.com OR site:dandad.org OR site:canneslions.com) (B2B OR enterprise OR industrial) (campaign OR \"case study\" OR activation)",
+    "category": "marketing",
+    "editions": [
+      "US",
+      "GB"
+    ]
+  },
+  {
+    "name": "Business finance creative",
+    "query": "(\"business banking\" OR \"commercial banking\" OR \"business insurance\") (\"advertising campaign\" OR \"brand campaign\" OR activation)",
+    "category": "marketing",
+    "editions": [
+      "US",
+      "GB"
+    ]
+  },
+  {
+    "name": "Aerospace creative work",
+    "query": "(aerospace OR defense OR aviation) (\"advertising campaign\" OR \"brand campaign\" OR \"brand identity\" OR activation)",
+    "category": "marketing",
+    "editions": [
+      "US",
+      "GB"
+    ]
+  },
+  {
+    "name": "B2B creative brand platforms",
+    "query": "(B2B OR enterprise) (\"brand platform\" OR \"brand identity\" OR \"campaign film\") (launch OR creative OR agency)",
+    "category": "marketing",
+    "editions": [
+      "US",
+      "GB"
+    ]
+  }
+]
