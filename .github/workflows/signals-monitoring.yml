@@ -1,0 +1,32 @@
+name: Brand signals monitoring
+on:
+  push:
+    branches: [feature/brand-dashboards]
+    paths: [pipeline/signals_monitor.py, .github/workflows/signals-monitoring.yml]
+  workflow_dispatch:
+  schedule:
+    - cron: '23 11 * * 1'
+permissions:
+  contents: write
+concurrency:
+  group: dashboard-writes-${{ github.ref }}
+  cancel-in-progress: false
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - run: python pipeline/signals_monitor.py
+      - name: Commit collected signals
+        run: |
+          git config user.name 'Reduction monitor'
+          git config user.email 'reduction-monitor@users.noreply.github.com'
+          git add public/dashboards/data/powerade-signals.json public/dashboards/powerade/index.html
+          if ! git diff --cached --quiet; then
+            git commit -m 'Refresh brand news and Wikipedia signals'
+            git pull --rebase
+            git push
+          fi
