@@ -1,0 +1,10 @@
+name: Retired standalone financial writer
+on: workflow_dispatch
+permissions:
+  contents: read
+jobs:
+  retired:
+    if: ${{ false }}
+    runs-on: ubuntu-latest
+    steps:
+      - run: echo 'Use dashboard-refresh.yml instead'

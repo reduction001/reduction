@@ -1,0 +1,81 @@
+{
+  "attempted_at": "2026-10-09T01:27:40.645722+00:00",
+  "steps": [
+    {
+      "step": "render_dashboard_content.py",
+      "exit_code": 0
+    },
+    {
+      "step": "signals_monitor.py",
+      "exit_code": 0
+    },
+    {
+      "step": "youtube_monitor.py",
+      "exit_code": 0
+    },
+    {
+      "step": "financial_monitor.py",
+      "exit_code": 0
+    },
+    {
+      "step": "render_social_search.py",
+      "exit_code": 0
+    },
+    {
+      "step": "refine_dashboard.py",
+      "exit_code": 0
+    }
+  ],
+  "sources": {
+    "Powerade news": {
+      "last_success": "2026-10-09T01:27:39.053512+00:00",
+      "age_days": 0.0,
+      "state": "current",
+      "latest_error": null
+    },
+    "Gatorade news": {
+      "last_success": "2026-10-09T01:27:39.053512+00:00",
+      "age_days": 0.0,
+      "state": "current",
+      "latest_error": null
+    },
+    "BODYARMOR news": {
+      "last_success": "2026-10-09T01:27:39.053512+00:00",
+      "age_days": 0.0,
+      "state": "current",
+      "latest_error": null
+    },
+    "Wikipedia": {
+      "last_success": "2026-10-09T00:16:29.351110+00:00",
+      "age_days": 0.05,
+      "state": "current",
+      "latest_error": null
+    },
+    "YouTube": {
+      "last_success": "2026-10-09T01:27:40.111263+00:00",
+      "age_days": 0.0,
+      "state": "current",
+      "latest_error": null
+    },
+    "Parent financial collection": {
+      "last_success": "2026-10-09T00:27:02.065641+00:00",
+      "age_days": 0.04,
+      "state": "current",
+      "latest_error": null
+    },
+    "Editorial": {
+      "reviewed_at": "2026-10-08",
+      "state": "reviewed_snapshot",
+      "automatic_editorial_updates": false
+    }
+  },
+  "publication_allowed": false,
+  "scope": "Collector and rendering rehearsal; editorial review, ticker and hosting verification remain unfinished",
+  "editorial_review": {
+    "reviewed_at": "2026-10-08",
+    "lens_reviewed_at": "2026-10-08",
+    "pending_items": 0,
+    "overdue": false,
+    "automatic_approval": false
+  }
+}

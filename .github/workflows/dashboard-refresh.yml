@@ -1,0 +1,57 @@
+name: Unified dashboard refresh and QA
+on:
+  push:
+    branches: [feature/brand-dashboards]
+    paths: ['pipeline/**', public/dashboards/brands.json, public/dashboards/data/powerade-editorial.json, public/dashboards/data/powerade-review-queue.json, .github/workflows/dashboard-refresh.yml]
+  workflow_dispatch:
+  schedule:
+    - cron: '53 11 * * 1'
+permissions:
+  contents: write
+concurrency:
+  group: dashboard-writes-${{ github.ref }}
+  cancel-in-progress: false
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    timeout-minutes: 25
+    env:
+      YOUTUBE_API_KEY: ${{ secrets.YOUTUBE_API_KEY }}
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - run: pip install cairosvg
+      - run: python pipeline/repair_logo_collection.py
+      - run: python pipeline/refresh_dashboard.py
+      - run: python pipeline/editorial_monitor.py
+      - run: python pipeline/refine_dashboard.py
+      - run: python pipeline/finish_dashboard_details.py
+      - run: python pipeline/test_editorial_governance.py
+      - run: python pipeline/test_dashboard_refresh.py
+      - run: pip install playwright
+      - run: python -m playwright install --with-deps chromium
+      - run: python pipeline/dashboard_qa.py
+      - name: Commit only tested dashboard output and state
+        run: |
+          git fetch origin "$GITHUB_REF_NAME"
+          if [ "$(git rev-parse HEAD)" != "$(git rev-parse origin/$GITHUB_REF_NAME)" ]; then exit 1; fi
+          if ! git diff --quiet -- .github/workflows/; then exit 1; fi
+          git config user.name 'Reduction monitor'
+          git config user.email 'reduction-monitor@users.noreply.github.com'
+          git add public/dashboards/ pipeline/refine_dashboard.py pipeline/editorial-source-state.json pipeline/dashboard_qa.py pipeline/test_dashboard_refresh.py pipeline/finish_dashboard_details.py
+          if git diff --cached --name-only | grep -q '^.github/workflows/'; then exit 1; fi
+          if ! git diff --cached --quiet; then
+            git commit -m 'Refresh validated dashboard with repaired logo collection'
+            git push
+          fi
+      - name: Upload full-refresh QA artifacts
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: unified-refresh-preview-and-readiness
+          path: qa-artifacts/
+          retention-days: 7

@@ -1,0 +1,55 @@
+{
+  "reviewed_at": "2026-10-08",
+  "status": "editorial_seed_not_yet_rendered",
+  "profile": {
+    "name": "Powerade",
+    "parent": "The Coca-Cola Company",
+    "ticker": "KO",
+    "us_proposition": "Sports hydration; the US site promotes 50% more electrolytes, with the comparison qualified on the original source.",
+    "global_platform": "Pause is Power",
+    "platform_scope": "Global platform; do not assume every North American execution uses it.",
+    "brand_mission": null,
+    "brand_values": null,
+    "parent_purpose": "Refresh the world and make a difference. Parent-company purpose, not a separately verified Powerade mission.",
+    "sources": [
+      "https://www.powerade.com/",
+      "https://www.coca-colacompany.com/media-center/powerade-unveils-new-campaign-featuring-lamine-yamal-and-rodrygo-goes",
+      "https://investors.coca-colacompany.com/news-events/press-releases/detail/1172/the-coca-cola-company-names-rob-gehring-president-of-north-america-operating-unit"
+    ]
+  },
+  "leadership": {
+    "parent_ceo": "Henrique Braun",
+    "north_america_interim": "John Murphy",
+    "interim_since": "2026-08-01",
+    "north_america_incoming": "Rob Gehring",
+    "incoming_effective": "2026-12-01",
+    "scope": "Parent-company and regional leadership, not verified dedicated Powerade brand leadership.",
+    "source": "https://investors.coca-colacompany.com/news-events/press-releases/detail/1172/the-coca-cola-company-names-rob-gehring-president-of-north-america-operating-unit"
+  },
+  "financials": {
+    "period": "Q2 2026",
+    "published_at": "2026-07-28",
+    "parent_global_net_revenue_usd_billions": 13.4,
+    "parent_global_net_revenue_growth_percent": 7,
+    "powerade_global_unit_case_volume_growth_percent": 8,
+    "coca_cola_sports_drinks_global_unit_case_volume_growth_percent": 5,
+    "powerade_revenue": null,
+    "north_america_powerade_sales": null,
+    "total_market_sales": null,
+    "limitations": "Volume growth is not revenue growth. The sports-drinks figure covers Coca-Cola's portfolio, not the entire market. Global figures are not North American figures. Missing figures were not established from this release. This dated seed is not an automated financial feed or stock quote.",
+    "source": "https://investors.coca-colacompany.com/news-events/press-releases/detail/1168/coca-cola-reports-second-quarter-2026-results-and-raises-full-year-guidance"
+  },
+  "lens": {
+    "headline": "One brand. More than one performance story.",
+    "interpretation": "The sourced global platform centers on permission to pause. The monitored US uploads use Power Your Legacy and It Takes More. The question is how these expressions connect\u2014not whether different lines alone prove a fragmented strategy.",
+    "what_changed": "A global recovery platform alongside US creative framed around legacy and competitive stakes.",
+    "why_it_matters": "Does the work make hydration, recovery and ambition feel like one coherent view of performance?",
+    "implication": "Track whether new US executions connect the product benefit to that worldview, rather than adding another disconnected line.",
+    "limitations": "Reduction editorial hypothesis based on the reviewed platform source and official upload titles, not a full creative-content analysis or a finding of campaign effectiveness.",
+    "sources": [
+      "https://www.coca-colacompany.com/media-center/powerade-unveils-new-campaign-featuring-lamine-yamal-and-rodrygo-goes",
+      "https://www.youtube.com/user/PoweradeUS"
+    ],
+    "reviewed_at": "2026-10-08"
+  }
+}

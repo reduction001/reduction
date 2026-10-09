@@ -1,0 +1,76 @@
+{
+  "updated": "2026-10-09T01:27:40.111263+00:00",
+  "policy": "official-us-english-audio-v2",
+  "channel_id": "UCpyW-dwss6B71XiPFk7R5eA",
+  "channel_source": "https://www.youtube.com/user/PoweradeUS",
+  "videos": [
+    {
+      "id": "_T6t1gY4krA",
+      "title": "POWER YOUR LEGACY | POWERADE | FIFA WORLD CUP 2026\u2122 (:30)",
+      "channel": "POWERADE US",
+      "channel_id": "UCpyW-dwss6B71XiPFk7R5eA",
+      "published": "2026-04-23T15:08:42Z",
+      "url": "https://www.youtube.com/watch?v=_T6t1gY4krA",
+      "embeddable": true,
+      "audio_language": "en",
+      "provenance": "Official POWERADE US upload / English audio metadata"
+    },
+    {
+      "id": "UGdkDx-3TH8",
+      "title": "POWER YOUR LEGACY | POWERADE | FIFA WORLD CUP 2026\u2122",
+      "channel": "POWERADE US",
+      "channel_id": "UCpyW-dwss6B71XiPFk7R5eA",
+      "published": "2026-04-23T15:08:40Z",
+      "url": "https://www.youtube.com/watch?v=UGdkDx-3TH8",
+      "embeddable": true,
+      "audio_language": "en",
+      "provenance": "Official POWERADE US upload / English audio metadata"
+    },
+    {
+      "id": "VKwJtWkKHQg",
+      "title": "NEW POWERADE Power Water",
+      "channel": "POWERADE US",
+      "channel_id": "UCpyW-dwss6B71XiPFk7R5eA",
+      "published": "2026-02-03T16:58:00Z",
+      "url": "https://www.youtube.com/watch?v=VKwJtWkKHQg",
+      "embeddable": true,
+      "audio_language": "en",
+      "provenance": "Official POWERADE US upload / English audio metadata"
+    },
+    {
+      "id": "o_N0z9Sc8_0",
+      "title": "It Takes More Because There\u2019s More on the Line | POWERADE",
+      "channel": "POWERADE US",
+      "channel_id": "UCpyW-dwss6B71XiPFk7R5eA",
+      "published": "2025-09-02T15:23:37Z",
+      "url": "https://www.youtube.com/watch?v=o_N0z9Sc8_0",
+      "embeddable": true,
+      "audio_language": "en",
+      "provenance": "Official POWERADE US upload / English audio metadata"
+    },
+    {
+      "id": "ScsT5A6fqSg",
+      "title": "It Takes More Because There\u2019s More on the Line (ASU) | POWERADE",
+      "channel": "POWERADE US",
+      "channel_id": "UCpyW-dwss6B71XiPFk7R5eA",
+      "published": "2025-09-02T15:20:41Z",
+      "url": "https://www.youtube.com/watch?v=ScsT5A6fqSg",
+      "embeddable": true,
+      "audio_language": "en",
+      "provenance": "Official POWERADE US upload / English audio metadata"
+    },
+    {
+      "id": "_b26UZ5ZIHs",
+      "title": "It Takes More Because There\u2019s More on the Line (LSU) | POWERADE",
+      "channel": "POWERADE US",
+      "channel_id": "UCpyW-dwss6B71XiPFk7R5eA",
+      "published": "2025-09-02T15:19:27Z",
+      "url": "https://www.youtube.com/watch?v=_b26UZ5ZIHs",
+      "embeddable": true,
+      "audio_language": "en",
+      "provenance": "Official POWERADE US upload / English audio metadata"
+    }
+  ],
+  "review_queue": [],
+  "scope": "Official US channel uploads; not evidence of active paid advertising. Audio language is uploader-declared metadata, not transcript verification."
+}
