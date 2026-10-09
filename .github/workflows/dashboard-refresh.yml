@@ -2,7 +2,7 @@ name: Unified dashboard refresh and QA
 on:
   push:
     branches: [feature/brand-dashboards]
-    paths: [pipeline/refresh_dashboard.py, pipeline/test_dashboard_refresh.py, .github/workflows/dashboard-refresh.yml]
+    paths: ['pipeline/**', public/dashboards/brands.json, public/dashboards/data/powerade-editorial.json, public/dashboards/data/powerade-review-queue.json, .github/workflows/dashboard-refresh.yml]
   workflow_dispatch:
   schedule:
     - cron: '53 11 * * 1'
@@ -25,27 +25,23 @@ jobs:
         with:
           python-version: '3.12'
       - run: python pipeline/refresh_dashboard.py
+      - run: python pipeline/editorial_monitor.py
+      - run: python pipeline/refine_dashboard.py
       - run: python pipeline/test_dashboard_refresh.py
       - run: pip install playwright
       - run: python -m playwright install --with-deps chromium
       - run: python pipeline/dashboard_qa.py
-      - name: Refuse untested remote changes and commit only validated output
+      - name: Commit only tested dashboard output and editorial state
         run: |
           git fetch origin "$GITHUB_REF_NAME"
-          if [ "$(git rev-parse HEAD)" != "$(git rev-parse origin/$GITHUB_REF_NAME)" ]; then
-            echo 'Branch advanced during QA; rerun against the new head instead of rebasing untested output'
-            exit 1
-          fi
-          if ! git diff --quiet -- .github/workflows/; then
-            echo 'Unexpected workflow mutation; refusing commit'
-            exit 1
-          fi
+          if [ "$(git rev-parse HEAD)" != "$(git rev-parse origin/$GITHUB_REF_NAME)" ]; then exit 1; fi
+          if ! git diff --quiet -- .github/workflows/; then exit 1; fi
           git config user.name 'Reduction monitor'
           git config user.email 'reduction-monitor@users.noreply.github.com'
-          git add public/dashboards/ pipeline/refine_dashboard.py
+          git add public/dashboards/ pipeline/refine_dashboard.py pipeline/editorial-source-state.json
           if git diff --cached --name-only | grep -q '^.github/workflows/'; then exit 1; fi
           if ! git diff --cached --quiet; then
-            git commit -m 'Refresh validated dashboard data and presentation'
+            git commit -m 'Refresh validated dashboard and editorial review queue'
             git push
           fi
       - name: Upload full-refresh QA artifacts
