@@ -1,0 +1,27 @@
+name: Dashboard browser QA
+on:
+  push:
+    branches: [feature/brand-dashboards]
+    paths: [pipeline/dashboard_qa.py, .github/workflows/dashboard-qa.yml]
+  workflow_dispatch:
+permissions:
+  contents: read
+jobs:
+  qa:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - run: pip install playwright
+      - run: python -m playwright install --with-deps chromium
+      - run: python pipeline/dashboard_qa.py
+      - name: Upload private-build QA artifacts
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: dashboard-preview-and-readiness
+          path: qa-artifacts/
+          retention-days: 7
