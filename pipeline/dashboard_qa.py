@@ -1,7 +1,7 @@
 import datetime as dt,http.server,json,pathlib,re,threading,shutil,subprocess,tempfile
 from playwright.sync_api import sync_playwright
 root=pathlib.Path(__file__).resolve().parents[1];public=root/'public';out=root/'qa-artifacts';out.mkdir(exist_ok=True)
-base=public/'dashboards';checks=[];warnings=[]
+base=public/'dashboards';checks=[];warnings=[];market_quote_checks={}
 def check(name,ok):
     checks.append({'check':name,'passed':bool(ok)})
     if not ok:raise AssertionError(name)
@@ -69,10 +69,24 @@ try:
                 for image in page.locator('.video-card:visible img').all():image.scroll_into_view_if_needed()
                 page.wait_for_function("Array.from(document.querySelectorAll('.video-card:not([hidden]) img')).every(i=>i.complete && i.naturalWidth>0)",timeout=20000)
             page.evaluate('window.scrollTo(0,0)')
-            check(name+' no empty Trends frames',page.locator('iframe[src*="/dashboards/widgets/"]').count()==0)
+            check(name+' no empty Trends frames',page.locator('iframe[src*="/dashboards/widgets/trends-"]').count()==0)
             check(name+' regional source links',page.locator('a[href^="https://trends.google.com/trends/explore?"]').count()>=4)
             for frame in page.locator('iframe').all():check(name+' iframe has accessible title',bool(frame.get_attribute('title')))
             if errors:warnings.append(name+' browser errors: '+'; '.join(errors))
+            page.locator('#brand-logo').scroll_into_view_if_needed()
+            page.wait_for_function("document.querySelector('#brand-logo').complete && document.querySelector('#brand-logo').naturalWidth>0")
+            check(name+' brand logo loaded',page.locator('#brand-logo').count()==1)
+            check(name+' parent ticker source present',page.locator('#parent-quote').count()==1)
+            observed=False
+            for frame in page.frames:
+                if 'tradingview.com/embed-widget/' in frame.url or 'tradingview-widget.com/embed-widget/' in frame.url:
+                    try:
+                        quote=frame.locator('body').inner_text(timeout=3000)
+                        if ('KO' in quote or 'Coca-Cola' in quote) and re.search(r'\d+[.,]\d{2}',quote):observed=True
+                    except Exception:pass
+            market_quote_checks[name]=observed
+            if not observed:warnings.append(name+': provider stock quote was not visibly verified; source link is available. Do not label the ticker connection complete.')
+            page.evaluate('window.scrollTo(0,0)')
             page.screenshot(path=str(out/(name+'.png')),full_page=True)
             page.close()
         page=browser.new_page()
@@ -89,11 +103,23 @@ try:
         page.locator('#config').fill(json.dumps([{'slug':'powerade','name':'Powerade','enabled':True}]))
         with page.expect_download():page.locator('#export').click()
         check('Admin exports without publishing','not published' in page.locator('#status').inner_text())
+        page.goto('http://127.0.0.1:8765/dashboards/admin/editorial.html')
+        page.wait_for_function("document.querySelector('#editorial').value.length>0")
+        original=page.locator('#editorial').input_value()
+        page.locator('#editorial').fill('invalid json');page.locator('#export').click()
+        check('Editorial editor rejects invalid JSON',bool(page.locator('#status').inner_text()))
+        invalid=json.loads(original);invalid['lens']['sources']=['http://example.com']
+        page.locator('#editorial').fill(json.dumps(invalid));page.locator('#export').click()
+        check('Editorial editor rejects non-HTTPS sources','HTTPS' in page.locator('#status').inner_text())
+        page.locator('#editorial').fill(original)
+        with page.expect_download():page.locator('#export').click()
+        check('Editorial export does not approve or publish','No publication or approval' in page.locator('#status').inner_text())
+        check('Editorial export preserves review date',json.loads(page.locator('#editorial').input_value())['reviewed_at']==json.loads(original)['reviewed_at'])
         browser.close()
 except Exception as err:
     warnings.append('QA stopped: '+str(err))
     raise
 finally:
     server.shutdown()
-    report={'tested_at':dt.datetime.now(dt.timezone.utc).isoformat(),'checks':checks,'warnings':warnings,'publication_allowed':False,'unresolved':['Visual review of screenshots','External embed content and consent behavior','Financial dataset freshness','Automated editorial/brand sales updates','Hosting deploy behavior for bot refresh commits','Full product scope acceptance']}
+    report={'market_quote_checks':market_quote_checks,'tested_at':dt.datetime.now(dt.timezone.utc).isoformat(),'checks':checks,'warnings':warnings,'publication_allowed':False,'unresolved':['Visual review of screenshots','External embed content and consent behavior','Financial dataset freshness','Automated editorial/brand sales updates','Hosting deploy behavior for bot refresh commits','Full product scope acceptance']}
     (out/'readiness.json').write_text(json.dumps(report,indent=2))

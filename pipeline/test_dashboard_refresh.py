@@ -28,9 +28,9 @@ with tempfile.TemporaryDirectory() as temp:
     run(clone,'financial_monitor.py',True);after_f=load('powerade-parent-financials.json')
     assert before_f['periods']==after_f['periods'],'SEC last-good facts lost'
     assert after_f.get('error'),'SEC missing failure notice'
-    for name in ['render_dashboard_content.py','render_social_search.py','financial_monitor.py','refine_dashboard.py']:run(clone,name)
+    for name in ['render_dashboard_content.py','render_social_search.py','financial_monitor.py','refine_dashboard.py','finish_dashboard_details.py']:run(clone,name)
     first=(clone/'public/dashboards/powerade/index.html').read_bytes()
-    for name in ['render_dashboard_content.py','render_social_search.py','financial_monitor.py','refine_dashboard.py']:run(clone,name)
+    for name in ['render_dashboard_content.py','render_social_search.py','financial_monitor.py','refine_dashboard.py','finish_dashboard_details.py']:run(clone,name)
     second=(clone/'public/dashboards/powerade/index.html').read_bytes()
     assert first==second,'Combined rendering sequence is not idempotent'
     assert b'video-play' in second and b'reduction-lens' in second,'Final presentation lost'

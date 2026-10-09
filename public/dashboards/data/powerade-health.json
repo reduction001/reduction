@@ -1,5 +1,5 @@
 {
-  "attempted_at": "2026-10-09T01:09:37.707333+00:00",
+  "attempted_at": "2026-10-09T01:27:40.645722+00:00",
   "steps": [
     {
       "step": "render_dashboard_content.py",
@@ -28,38 +28,38 @@
   ],
   "sources": {
     "Powerade news": {
-      "last_success": "2026-10-09T01:09:36.075274+00:00",
+      "last_success": "2026-10-09T01:27:39.053512+00:00",
       "age_days": 0.0,
       "state": "current",
       "latest_error": null
     },
     "Gatorade news": {
-      "last_success": "2026-10-09T01:09:36.075274+00:00",
+      "last_success": "2026-10-09T01:27:39.053512+00:00",
       "age_days": 0.0,
       "state": "current",
       "latest_error": null
     },
     "BODYARMOR news": {
-      "last_success": "2026-10-09T01:09:36.075274+00:00",
+      "last_success": "2026-10-09T01:27:39.053512+00:00",
       "age_days": 0.0,
       "state": "current",
       "latest_error": null
     },
     "Wikipedia": {
       "last_success": "2026-10-09T00:16:29.351110+00:00",
-      "age_days": 0.04,
+      "age_days": 0.05,
       "state": "current",
       "latest_error": null
     },
     "YouTube": {
-      "last_success": "2026-10-09T01:09:37.132138+00:00",
+      "last_success": "2026-10-09T01:27:40.111263+00:00",
       "age_days": 0.0,
       "state": "current",
       "latest_error": null
     },
     "Parent financial collection": {
       "last_success": "2026-10-09T00:27:02.065641+00:00",
-      "age_days": 0.03,
+      "age_days": 0.04,
       "state": "current",
       "latest_error": null
     },

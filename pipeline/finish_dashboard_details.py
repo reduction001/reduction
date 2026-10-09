@@ -2,16 +2,9 @@ import html,json,pathlib,re,urllib.parse,urllib.request
 root=pathlib.Path(__file__).resolve().parents[1];base=root/'public/dashboards';esc=lambda x:html.escape(str(x))
 assets=base/'assets';assets.mkdir(exist_ok=True);logo=assets/'powerade-logo.png'
 provenance=base/'data/powerade-logo.json'
-if not logo.exists():
-    params={'action':'query','titles':'File:Powerade-logo-2019.svg','prop':'imageinfo','iiprop':'url|extmetadata','iiurlwidth':240,'format':'json'}
-    req=urllib.request.Request('https://commons.wikimedia.org/w/api.php?'+urllib.parse.urlencode(params),headers={'User-Agent':'ReductionMonitor/1.0 (https://reduction.nyc)'})
-    with urllib.request.urlopen(req,timeout=30) as r:result=json.load(r)
-    info=next(iter(result['query']['pages'].values()))['imageinfo'][0];url=info['thumburl']
-    if urllib.parse.urlparse(url).netloc!='upload.wikimedia.org':raise ValueError('Unexpected asset host')
-    with urllib.request.urlopen(urllib.request.Request(url,headers={'User-Agent':'ReductionMonitor/1.0 (https://reduction.nyc)'}),timeout=30) as r:payload=r.read(1500000)
-    if not payload.startswith(bytes([137,80,78,71,13,10,26,10])):raise ValueError('Logo thumbnail is not PNG')
-    logo.write_bytes(payload)
-    provenance.write_text(json.dumps({'source':'https://commons.wikimedia.org/wiki/File:Powerade-logo-2019.svg','asset_label':'Powerade-logo-2019.svg','thumbnail_url':url,'license_metadata':info.get('extmetadata',{}),'scope':'Sourced 2019 logo file; not a verification of current brand guidelines or endorsement'},indent=2))
+if not logo.exists() or not logo.read_bytes().startswith(bytes([137,80,78,71,13,10,26,10])):
+    import subprocess,sys
+    subprocess.run([sys.executable,str(root/'pipeline/acquire_powerade_logo.py')],check=True)
 e=json.loads((base/'data/powerade-editorial.json').read_text());p=e['profile'];lead=e['leadership']
 page=base/'powerade/index.html';text=page.read_text()
 def link(u,label):return '<a href="'+esc(u)+'" target="_blank" rel="noopener">'+esc(label)+' ↗</a>'
@@ -35,7 +28,7 @@ code=code.replace('iframe[src*="/dashboards/widgets/"]','iframe[src*="/dashboard
 if 'market_quote_checks={}' not in code:code=code.replace('checks=[];warnings=[]','checks=[];warnings=[];market_quote_checks={}')
 if "brand logo loaded" not in code:
     marker="            page.screenshot(path=str(out/(name+'.png')),full_page=True)"
-    block='''            page.locator('#brand-logo').scroll_into_view_if_needed()
+    block=r'''            page.locator('#brand-logo').scroll_into_view_if_needed()
             page.wait_for_function("document.querySelector('#brand-logo').complete && document.querySelector('#brand-logo').naturalWidth>0")
             check(name+' brand logo loaded',page.locator('#brand-logo').count()==1)
             check(name+' parent ticker source present',page.locator('#parent-quote').count()==1)
@@ -54,7 +47,7 @@ if "brand logo loaded" not in code:
     code=code.replace(marker,block+marker)
 if "Editorial editor rejects invalid JSON" not in code:
     marker='        browser.close()'
-    block='''        page.goto('http://127.0.0.1:8765/dashboards/admin/editorial.html')
+    block=r'''        page.goto('http://127.0.0.1:8765/dashboards/admin/editorial.html')
         page.wait_for_function("document.querySelector('#editorial').value.length>0")
         original=page.locator('#editorial').input_value()
         page.locator('#editorial').fill('invalid json');page.locator('#export').click()
