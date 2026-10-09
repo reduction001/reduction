@@ -1,0 +1,30 @@
+name: Render social and search fallbacks
+on:
+  push:
+    branches: [feature/brand-dashboards]
+    paths: [pipeline/render_social_search.py, .github/workflows/social-search.yml]
+  workflow_dispatch:
+permissions:
+  contents: write
+concurrency:
+  group: dashboard-writes-${{ github.ref }}
+  cancel-in-progress: false
+jobs:
+  render:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - run: python pipeline/render_social_search.py
+      - name: Commit source modules
+        run: |
+          git config user.name 'Reduction monitor'
+          git config user.email 'reduction-monitor@users.noreply.github.com'
+          git add public/dashboards/
+          if ! git diff --cached --quiet; then
+            git commit -m 'Render official social links and regional Trends modules'
+            git pull --rebase
+            git push
+          fi
