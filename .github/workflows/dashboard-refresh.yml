@@ -24,6 +24,8 @@ jobs:
       - uses: actions/setup-python@v5
         with:
           python-version: '3.12'
+      - run: pip install cairosvg
+      - run: python pipeline/repair_logo_collection.py
       - run: python pipeline/refresh_dashboard.py
       - run: python pipeline/editorial_monitor.py
       - run: python pipeline/refine_dashboard.py
@@ -40,10 +42,10 @@ jobs:
           if ! git diff --quiet -- .github/workflows/; then exit 1; fi
           git config user.name 'Reduction monitor'
           git config user.email 'reduction-monitor@users.noreply.github.com'
-          git add public/dashboards/ pipeline/refine_dashboard.py pipeline/editorial-source-state.json pipeline/dashboard_qa.py pipeline/test_dashboard_refresh.py
+          git add public/dashboards/ pipeline/refine_dashboard.py pipeline/editorial-source-state.json pipeline/dashboard_qa.py pipeline/test_dashboard_refresh.py pipeline/finish_dashboard_details.py
           if git diff --cached --name-only | grep -q '^.github/workflows/'; then exit 1; fi
           if ! git diff --cached --quiet; then
-            git commit -m 'Refresh validated dashboard with logo ticker and governance tests'
+            git commit -m 'Refresh validated dashboard with repaired logo collection'
             git push
           fi
       - name: Upload full-refresh QA artifacts
