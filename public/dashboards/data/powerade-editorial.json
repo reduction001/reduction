@@ -11,7 +11,11 @@
     "brand_mission": null,
     "brand_values": null,
     "parent_purpose": "Refresh the world and make a difference. Parent-company purpose, not a separately verified Powerade mission.",
-    "sources": ["https://www.powerade.com/", "https://www.coca-colacompany.com/media-center/powerade-unveils-new-campaign-featuring-lamine-yamal-and-rodrygo-goes", "https://investors.coca-colacompany.com/news-events/press-releases/detail/1172/the-coca-cola-company-names-rob-gehring-president-of-north-america-operating-unit"]
+    "sources": [
+      "https://www.powerade.com/",
+      "https://www.coca-colacompany.com/media-center/powerade-unveils-new-campaign-featuring-lamine-yamal-and-rodrygo-goes",
+      "https://investors.coca-colacompany.com/news-events/press-releases/detail/1172/the-coca-cola-company-names-rob-gehring-president-of-north-america-operating-unit"
+    ]
   },
   "leadership": {
     "parent_ceo": "Henrique Braun",
@@ -36,12 +40,16 @@
     "source": "https://investors.coca-colacompany.com/news-events/press-releases/detail/1168/coca-cola-reports-second-quarter-2026-results-and-raises-full-year-guidance"
   },
   "lens": {
-    "headline": "Make the pause a platform. Not just a line.",
-    "interpretation": "Powerade has a global permission-to-pause platform and reported global volume growth partly attributed by Coca-Cola to World Cup activation. Reduction's strategic hypothesis: the opportunity is to connect the emotional permission to recover with visible hydration rituals across sport and everyday activity, rather than treating the platform and product benefit as separate stories.",
-    "what_changed": "Coca-Cola reported Powerade volume growth of 8% globally in Q2 2026 and attributed a portion to its World Cup campaign.",
-    "why_it_matters": "The brand has both an emotional platform and reported commercial momentum; their relationship is worth monitoring, not assuming.",
-    "implication": "Track whether upcoming North American creative makes recovery tangible through product use, athlete behavior and repeatable rituals.",
-    "limitations": "Editorial hypothesis, not demonstrated causation or a recommendation based on measured North American campaign effectiveness. Global World Cup growth does not establish that Pause is Power caused growth.",
-    "sources": ["https://www.coca-colacompany.com/media-center/powerade-unveils-new-campaign-featuring-lamine-yamal-and-rodrygo-goes", "https://investors.coca-colacompany.com/news-events/press-releases/detail/1168/coca-cola-reports-second-quarter-2026-results-and-raises-full-year-guidance", "https://www.powerade.com/"]
+    "headline": "One brand. More than one performance story.",
+    "interpretation": "The sourced global platform centers on permission to pause. The monitored US uploads use Power Your Legacy and It Takes More. The question is how these expressions connect\u2014not whether different lines alone prove a fragmented strategy.",
+    "what_changed": "A global recovery platform alongside US creative framed around legacy and competitive stakes.",
+    "why_it_matters": "Does the work make hydration, recovery and ambition feel like one coherent view of performance?",
+    "implication": "Track whether new US executions connect the product benefit to that worldview, rather than adding another disconnected line.",
+    "limitations": "Reduction editorial hypothesis based on the reviewed platform source and official upload titles, not a full creative-content analysis or a finding of campaign effectiveness.",
+    "sources": [
+      "https://www.coca-colacompany.com/media-center/powerade-unveils-new-campaign-featuring-lamine-yamal-and-rodrygo-goes",
+      "https://www.youtube.com/user/PoweradeUS"
+    ],
+    "reviewed_at": "2026-10-08"
   }
 }
