@@ -1,30 +1,10 @@
-name: Render dashboard editorial content
-on:
-  push:
-    branches: [feature/brand-dashboards]
-    paths: [pipeline/render_dashboard_content.py, public/dashboards/data/powerade-editorial.json, public/dashboards/brands.json, .github/workflows/dashboard-content.yml]
-  workflow_dispatch:
+name: Retired dashboard content writer
+on: workflow_dispatch
 permissions:
-  contents: write
-concurrency:
-  group: dashboard-writes-${{ github.ref }}
-  cancel-in-progress: false
+  contents: read
 jobs:
-  render:
+  retired:
+    if: ${{ false }}
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
-      - uses: actions/setup-python@v5
-        with:
-          python-version: '3.12'
-      - run: python pipeline/render_dashboard_content.py
-      - name: Commit rendered content
-        run: |
-          git config user.name 'Reduction monitor'
-          git config user.email 'reduction-monitor@users.noreply.github.com'
-          git add public/dashboards/
-          if ! git diff --cached --quiet; then
-            git commit -m 'Render Powerade profile financial context and Lens'
-            git pull --rebase
-            git push
-          fi
+      - run: echo 'Use dashboard-refresh.yml instead'

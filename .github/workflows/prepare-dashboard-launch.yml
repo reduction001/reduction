@@ -1,30 +1,10 @@
-name: Prepare dashboard launch
-on:
-  push:
-    branches: [feature/brand-dashboards]
-    paths: [pipeline/prepare_dashboard_launch.py, .github/workflows/prepare-dashboard-launch.yml]
-  workflow_dispatch:
+name: Retired dashboard launch preparation writer
+on: workflow_dispatch
 permissions:
-  contents: write
-concurrency:
-  group: dashboard-writes-${{ github.ref }}
-  cancel-in-progress: false
+  contents: read
 jobs:
-  prepare:
+  retired:
+    if: ${{ false }}
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
-      - uses: actions/setup-python@v5
-        with:
-          python-version: '3.12'
-      - run: python pipeline/prepare_dashboard_launch.py
-      - name: Commit homepage integration
-        run: |
-          git config user.name 'Reduction monitor'
-          git config user.email 'reduction-monitor@users.noreply.github.com'
-          git add public/index.html public/_redirects
-          if ! git diff --cached --quiet; then
-            git commit -m 'Connect homepage to brand dashboards'
-            git pull --rebase
-            git push
-          fi
+      - run: echo 'Use dashboard-refresh.yml instead'
