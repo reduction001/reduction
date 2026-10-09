@@ -37,7 +37,7 @@ try:
         except Exception as err:report['warnings'].append('Health fingerprint unavailable: '+clean(err));check('Hosted data fingerprint available',False)
         page.close()
         for name,width,height in [('desktop',1440,1000),('mobile',390,844)]:
-            page=context.new_page(viewport={'width':width,'height':height});responses=[];failed=[];errors=[]
+            page=context.new_page();page.set_viewport_size({'width':width,'height':height});responses=[];failed=[];errors=[]
             page.on('response',lambda r,rows=responses:rows.append({'url':safe_url(r.url),'status':r.status}) if provider(r.url) else None)
             page.on('requestfailed',lambda r,rows=failed:rows.append({'url':safe_url(r.url),'failure':clean(r.failure)}) if provider(r.url) else None)
             page.on('pageerror',lambda err,rows=errors:rows.append(clean(err)))
@@ -80,6 +80,9 @@ try:
             result.update({'responses':responses[:50],'failed_provider_requests':failed[:30],'browser_errors':errors[:20]});report['viewports'][name]=result
             page.close()
         browser.close()
+except Exception as err:
+    report['script_error']=clean(err)
+    raise
 finally:
     (out/'hosted-preview-readiness.json').write_text(json.dumps(report,indent=2))
 failed_checks=[c['check'] for c in report['checks'] if not c['passed']]
