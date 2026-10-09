@@ -1,60 +1,76 @@
 {
-  "updated": "2026-10-09T00:13:23.477063+00:00",
+  "updated": "2026-10-09T00:21:04.832147+00:00",
+  "policy": "official-us-english-audio-v2",
+  "channel_id": "UCpyW-dwss6B71XiPFk7R5eA",
+  "channel_source": "https://www.youtube.com/user/PoweradeUS",
   "videos": [
     {
-      "id": "XnltVi5CHSc",
-      "title": "Gatorade VS Powerade What Happened..",
-      "channel": "Corporate Casebook",
-      "channel_id": "UC-f1M814fgHlsbtLLP3XnAw",
-      "published": "2026-09-26T13:00:08Z",
-      "url": "https://www.youtube.com/watch?v=XnltVi5CHSc",
-      "provenance": "Campaign discovery / unverified uploader"
+      "id": "_T6t1gY4krA",
+      "title": "POWER YOUR LEGACY | POWERADE | FIFA WORLD CUP 2026\u2122 (:30)",
+      "channel": "POWERADE US",
+      "channel_id": "UCpyW-dwss6B71XiPFk7R5eA",
+      "published": "2026-04-23T15:08:42Z",
+      "url": "https://www.youtube.com/watch?v=_T6t1gY4krA",
+      "embeddable": true,
+      "audio_language": "en",
+      "provenance": "Official POWERADE US upload / English audio metadata"
     },
     {
-      "id": "Mx0rGkHCAtg",
-      "title": "The Billion-Dollar Sports Drink War: Why Gatorade Beat Powerade",
-      "channel": "ExposedBrands",
-      "channel_id": "UCwe4rnDXGmDVo7wbn-D3rRA",
-      "published": "2026-09-04T13:33:03Z",
-      "url": "https://www.youtube.com/watch?v=Mx0rGkHCAtg",
-      "provenance": "Campaign discovery / unverified uploader"
+      "id": "UGdkDx-3TH8",
+      "title": "POWER YOUR LEGACY | POWERADE | FIFA WORLD CUP 2026\u2122",
+      "channel": "POWERADE US",
+      "channel_id": "UCpyW-dwss6B71XiPFk7R5eA",
+      "published": "2026-04-23T15:08:40Z",
+      "url": "https://www.youtube.com/watch?v=UGdkDx-3TH8",
+      "embeddable": true,
+      "audio_language": "en",
+      "provenance": "Official POWERADE US upload / English audio metadata"
     },
     {
-      "id": "CEoG1-iFqXo",
-      "title": "Powerade Changed Athlete Contracts for Mental Health?",
-      "channel": "90secondsmarketing",
-      "channel_id": "UCXTA4mP85DuCv4cjXdIXzEw",
-      "published": "2026-08-18T23:30:11Z",
-      "url": "https://www.youtube.com/watch?v=CEoG1-iFqXo",
-      "provenance": "Campaign discovery / unverified uploader"
+      "id": "VKwJtWkKHQg",
+      "title": "NEW POWERADE Power Water",
+      "channel": "POWERADE US",
+      "channel_id": "UCpyW-dwss6B71XiPFk7R5eA",
+      "published": "2026-02-03T16:58:00Z",
+      "url": "https://www.youtube.com/watch?v=VKwJtWkKHQg",
+      "embeddable": true,
+      "audio_language": "en",
+      "provenance": "Official POWERADE US upload / English audio metadata"
     },
     {
-      "id": "N6vtaLeYeL0",
-      "title": "Powerade Active Water Keliling Kota Bareng Mobile Showcase",
-      "channel": "StickEarn Indonesia",
-      "channel_id": "UCU-K6erHrp4RIbrPReKNVWw",
-      "published": "2026-08-07T06:25:31Z",
-      "url": "https://www.youtube.com/watch?v=N6vtaLeYeL0",
-      "provenance": "Campaign discovery / unverified uploader"
+      "id": "o_N0z9Sc8_0",
+      "title": "It Takes More Because There\u2019s More on the Line | POWERADE",
+      "channel": "POWERADE US",
+      "channel_id": "UCpyW-dwss6B71XiPFk7R5eA",
+      "published": "2025-09-02T15:23:37Z",
+      "url": "https://www.youtube.com/watch?v=o_N0z9Sc8_0",
+      "embeddable": true,
+      "audio_language": "en",
+      "provenance": "Official POWERADE US upload / English audio metadata"
     },
     {
-      "id": "jHfZvZcD_BE",
-      "title": "Top 3 Successful PR Campaigns in 2026!  #pr #Powerade #Hasbro #IKEA #PRCampaigns #MarketingStrategy",
-      "channel": "Max Bogomolov",
-      "channel_id": "UCPrrmH-WhYRpD0QW6dCKdxw",
-      "published": "2026-07-14T12:00:35Z",
-      "url": "https://www.youtube.com/watch?v=jHfZvZcD_BE",
-      "provenance": "Campaign discovery / unverified uploader"
+      "id": "ScsT5A6fqSg",
+      "title": "It Takes More Because There\u2019s More on the Line (ASU) | POWERADE",
+      "channel": "POWERADE US",
+      "channel_id": "UCpyW-dwss6B71XiPFk7R5eA",
+      "published": "2025-09-02T15:20:41Z",
+      "url": "https://www.youtube.com/watch?v=ScsT5A6fqSg",
+      "embeddable": true,
+      "audio_language": "en",
+      "provenance": "Official POWERADE US upload / English audio metadata"
     },
     {
-      "id": "GzzmZt5wRX0",
-      "title": "Powerade vs Gatorade: \u00bfQui\u00e9n Tiene Mejor Marketing?",
-      "channel": "Andrea Morton ",
-      "channel_id": "UC3pU1Rixblr4Iic9FYponjw",
-      "published": "2026-07-12T16:09:51Z",
-      "url": "https://www.youtube.com/watch?v=GzzmZt5wRX0",
-      "provenance": "Campaign discovery / unverified uploader"
+      "id": "_b26UZ5ZIHs",
+      "title": "It Takes More Because There\u2019s More on the Line (LSU) | POWERADE",
+      "channel": "POWERADE US",
+      "channel_id": "UCpyW-dwss6B71XiPFk7R5eA",
+      "published": "2025-09-02T15:19:27Z",
+      "url": "https://www.youtube.com/watch?v=_b26UZ5ZIHs",
+      "embeddable": true,
+      "audio_language": "en",
+      "provenance": "Official POWERADE US upload / English audio metadata"
     }
   ],
-  "scope": "US search settings / English relevance preference, not verified North American campaign delivery"
+  "review_queue": [],
+  "scope": "Official US channel uploads; not evidence of active paid advertising. Audio language is uploader-declared metadata, not transcript verification."
 }
