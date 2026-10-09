@@ -12,19 +12,38 @@ concurrency:
 jobs:
   refine:
     runs-on: ubuntu-latest
+    timeout-minutes: 15
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-python@v5
         with:
           python-version: '3.12'
-      - run: python pipeline/refine_dashboard.py
-      - name: Commit refinements and integration
+      - name: Generate corrected dashboard without committing workflow mutations
+        run: |
+          python pipeline/refine_dashboard.py
+          git restore .github/workflows/
+      - name: Commit generated dashboard files only
         run: |
           git config user.name 'Reduction monitor'
           git config user.email 'reduction-monitor@users.noreply.github.com'
-          git add public/dashboards/ .github/workflows/
+          git add public/dashboards/
+          if git diff --cached --name-only | grep -q '^.github/workflows/'; then
+            echo 'Refusing to push workflow changes from Actions'
+            exit 1
+          fi
           if ! git diff --cached --quiet; then
             git commit -m 'Apply thumbnail media news grouping and source hierarchy'
             git pull --rebase
             git push
           fi
+      - run: pip install playwright
+      - run: python -m playwright install --with-deps chromium
+      - name: Test corrected output
+        run: python pipeline/dashboard_qa.py
+      - name: Upload recovery QA report and previews
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: recovery-dashboard-preview-and-readiness
+          path: qa-artifacts/
+          retention-days: 7
