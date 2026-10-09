@@ -1,4 +1,4 @@
-import datetime as dt,http.server,json,pathlib,re,threading
+import datetime as dt,http.server,json,pathlib,re,threading,shutil,subprocess,tempfile
 from playwright.sync_api import sync_playwright
 root=pathlib.Path(__file__).resolve().parents[1];public=root/'public';out=root/'qa-artifacts';out.mkdir(exist_ok=True)
 base=public/'dashboards';checks=[];warnings=[]
@@ -20,6 +20,17 @@ if not f.get('periods'):warnings.append('SEC collector has no successful financi
 e=json.loads((base/'data/powerade-editorial.json').read_text())
 quarter=f.get('periods',{}).get('quarter',{})
 if quarter.get('filed','')<e['financials']['published_at']:warnings.append('SEC quarterly facts predate the editorial earnings release; label as latest available in this dataset, not latest reported quarter')
+with tempfile.TemporaryDirectory() as temp:
+    clone=pathlib.Path(temp)
+    shutil.copytree(root/'pipeline',clone/'pipeline')
+    shutil.copytree(root/'public',clone/'public')
+    shutil.copytree(root/'.github',clone/'.github')
+    script=clone/'pipeline/refine_dashboard.py'
+    subprocess.run(['python',str(script)],check=True)
+    first=(clone/'public/dashboards/powerade/index.html').read_bytes()
+    subprocess.run(['python',str(script)],check=True)
+    second=(clone/'public/dashboards/powerade/index.html').read_bytes()
+    check('Refinement rendering is idempotent',first==second)
 handler=lambda *args,**kwargs:http.server.SimpleHTTPRequestHandler(*args,directory=str(public),**kwargs)
 server=http.server.ThreadingHTTPServer(('127.0.0.1',8765),handler)
 threading.Thread(target=server.serve_forever,daemon=True).start()
@@ -36,8 +47,30 @@ try:
             check(name+' no nested cards',page.locator('article.card article.card').count()==0)
             check(name+' no horizontal document overflow',page.evaluate('document.documentElement.scrollWidth <= window.innerWidth + 2'))
             check(name+' profile rendered',page.get_by_text('Global platform: Pause is Power',exact=True).count()==1)
-            check(name+' financial snapshot rendered',page.get_by_text('Q2 2026 / GLOBAL',exact=True).count()==1)
-            check(name+' six-or-fewer video embeds',page.locator('#youtube-discovery iframe').count()<=6)
+            check(name+' financial snapshot rendered',page.get_by_text('LATEST REVIEWED RELEASE / Q2 2026',exact=True).count()==1)
+            check(name+' initial video count',page.locator('.video-card:visible').count()==min(3,len(y['videos'])))
+            check(name+' no player before interaction',page.locator('#youtube-discovery iframe').count()==0)
+            for image in page.locator('.video-card:visible img').all():
+                image.scroll_into_view_if_needed()
+                image.evaluate('(img)=>{img.loading="eager"}')
+            page.wait_for_function("Array.from(document.querySelectorAll('.video-card:not([hidden]) img')).every(i=>i.complete && i.naturalWidth>0)",timeout=20000)
+            check(name+' thumbnail images loaded',page.locator('.video-card:visible img').count()==min(3,len(y['videos'])))
+            if len(y['videos'])>3:
+                page.locator('#show-videos').click()
+                check(name+' expands all videos',page.locator('.video-card:visible').count()==len(y['videos']))
+                page.locator('#show-videos').click()
+                check(name+' collapses extra videos',page.locator('.video-card:visible').count()==3)
+            if y['videos']:
+                page.locator('.video-play:visible').first.click()
+                check(name+' click creates player',page.locator('#youtube-discovery iframe').count()==1)
+                check(name+' external watch links preserved',page.locator('#youtube-discovery a[href^="https://www.youtube.com/watch"]').count()==len(y['videos']))
+                warnings.append(name+': click-to-player works; actual video playback and consent remain manual-review items')
+                page.reload(wait_until='domcontentloaded')
+                for image in page.locator('.video-card:visible img').all():image.scroll_into_view_if_needed()
+                page.wait_for_function("Array.from(document.querySelectorAll('.video-card:not([hidden]) img')).every(i=>i.complete && i.naturalWidth>0)",timeout=20000)
+            page.evaluate('window.scrollTo(0,0)')
+            check(name+' no empty Trends frames',page.locator('iframe[src*="/dashboards/widgets/"]').count()==0)
+            check(name+' regional source links',page.locator('a[href^="https://trends.google.com/trends/explore?"]').count()>=4)
             for frame in page.locator('iframe').all():check(name+' iframe has accessible title',bool(frame.get_attribute('title')))
             if errors:warnings.append(name+' browser errors: '+'; '.join(errors))
             page.screenshot(path=str(out/(name+'.png')),full_page=True)
@@ -56,11 +89,6 @@ try:
         page.locator('#config').fill(json.dumps([{'slug':'powerade','name':'Powerade','enabled':True}]))
         with page.expect_download():page.locator('#export').click()
         check('Admin exports without publishing','not published' in page.locator('#status').inner_text())
-        for filename in ['trends-us-interest.html','trends-us-queries.html','trends-ca-interest.html','trends-ca-queries.html']:
-            page.goto('http://127.0.0.1:8765/dashboards/widgets/'+filename,wait_until='domcontentloaded')
-            page.wait_for_timeout(8000)
-            if page.locator('iframe').count()==0:warnings.append(filename+': no child chart iframe; embed may be unavailable')
-            check(filename+' has source fallback',page.locator('a[href^="https://trends.google.com/"]').count()>=1)
         browser.close()
 except Exception as err:
     warnings.append('QA stopped: '+str(err))
