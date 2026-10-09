@@ -48,7 +48,7 @@ if 'views' in w:
     body+='<p class="status">Global English Wikipedia attention, not regional search demand. Monthly refresh. Last success: '+esc(w['updated'])+'</p>'
     if w.get('error'):body+='<p>Latest attempt failed; prior data retained.</p>'
     body+='</article>'
-    text=re.sub(r'<article class="card"><h2>Attention pulse</h2>.*?</article>',lambda m:'<article class="card">'+body+'</article>',text,flags=re.S)
+    text=re.sub(r'<article class="card"><h2>Attention pulse</h2>.*?</article>',lambda m:body,text,flags=re.S)
 page.write_text(text)
 failed=[b for b in ['Powerade','Gatorade','BODYARMOR','wiki'] if data.get(b,{}).get('error')]
 print('Failed sources:',','.join(failed) or 'none')
