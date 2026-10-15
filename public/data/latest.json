@@ -1,323 +1,226 @@
 {
-  "date": "2026-10-08",
-  "published_at": "2026-10-08T10:35:30.910700+00:00",
+  "date": "2026-10-15",
+  "published_at": "2026-10-15T21:18:16.950257+00:00",
   "stories": [
     {
-      "headline": "Saronic Breaks Ground on Port Alpha Shipyard in Texas",
-      "summary": "Autonomous maritime systems maker Saronic has broken ground on Port Alpha, a major new shipyard facility in Texas aimed at revolutionizing U.S. shipbuilding. Situated on 835 acres at the Port of Brownsville, the project represents a private capital investment of more than $3 billion.",
-      "why_it_matters": "This massive clean-sheet manufacturing facility significantly expands domestic capacity for producing both autonomous and manned naval vessels at scale.",
+      "headline": "Lockheed Martin and Avio Partner for Solid Rocket Motor Production",
+      "summary": "Avio USA has entered a strategic cooperation agreement to build and qualify solid rocket motors for Lockheed Martin's Extended Range GMLRS and Precision Strike Missile rounds. The partnership establishes a vital second motor source to help bypass long-standing munitions industry bottlenecks.",
+      "why_it_matters": "Qualifying alternative domestic rocket motor suppliers is crucial for major primes seeking to scale missile manufacturing capacity and mitigate historical supply constraints.",
       "category": "industry",
       "companies": [
-        "Saronic"
+        "Avio",
+        "Lockheed Martin"
       ],
       "topics": [
-        "Naval",
-        "Autonomous Systems",
-        "Manufacturing",
-        "Procurement"
+        "Missiles",
+        "Supply Chain",
+        "Defense Manufacturing"
       ],
       "sources": [
         {
-          "publisher": "Naval News",
-          "url": "https://www.navalnews.com/naval-news/2026/10/saronic-breaks-ground-on-port-alpha-shipyard-in-texas/",
+          "publisher": "Breaking Defense",
+          "url": "https://breakingdefense.com/2026/10/avio-lockheed-sign-agreement-for-solid-rocket-motor-production/",
           "access": "free",
-          "published_at": "2026-10-08T07:43:36+00:00",
+          "published_at": "2026-10-13T20:50:50+00:00",
           "kind": "reporting"
         }
       ],
       "score": 88
     },
     {
-      "headline": "Rafael and Raytheon Deliver First All-American Iron Dome Interceptor",
-      "summary": "A Raytheon-Rafael joint venture facility in East Camden, Arkansas, has delivered the first Tamir interceptor for Israel's Iron Dome air defense system built and assembled entirely in the United States. The milestone follows the opening of the plant in November 2025 to scale production capacity.",
-      "why_it_matters": "Shifting complete missile assembly to domestic U.S. soil strengthens the allied defense industrial base and secures local manufacturing channels for programs like the U.S. Marine Corps' SkyHunter.",
+      "headline": "Automation Alley Secures $7.5M Task Order for Secure Distributed Additive Manufacturing",
+      "summary": "Automation Alley has been awarded a Phase I $7.5 million task order under the Industrial Base Analysis Sustainment program to modernize defense supply chain sustainment through secure additive manufacturing. The company will lead the design and validation of an IP-protected digital streaming environment for weapons components in partnership with Markforged and Fraunhofer USA.",
+      "why_it_matters": "Distributed manufacturing networks help eliminate long lead times and supply chain chokepoints by producing physical defense components securely on demand.",
       "category": "industry",
       "companies": [
-        "RTX",
-        "Rafael Advanced Defense Systems"
+        "Automation Alley",
+        "Markforged",
+        "Fraunhofer USA"
       ],
       "topics": [
-        "Missiles",
-        "Manufacturing",
+        "Additive Manufacturing",
         "Supply Chain",
+        "Defense Procurement"
+      ],
+      "sources": [
+        {
+          "publisher": "PR Newswire",
+          "url": "https://www.prnewswire.com/news-releases/automation-alley-awarded-contract-to-advance-secure-distributed-additive-manufacturing-forthe-us-departmentof-war-302909514.html",
+          "access": "free",
+          "published_at": "2026-10-15T13:09:00+00:00",
+          "kind": "distributed press release"
+        }
+      ],
+      "score": 85
+    },
+    {
+      "headline": "France to Develop Next-Gen Combat Aircraft Domestically After FCAS Collapse",
+      "summary": "France will develop a next-generation combat aircraft domestically as a successor to the Rafale, after a joint project with Germany and Spain for a future combat air system collapsed earlier this year, Air and Space Force Chief of Staff Jérôme Bellanger said. The country now conceives the future fighter, dubbed Avion de Combat du Futur or ACF, as a national project, with a target of flying conventional missions in 2040, Bellanger told the National Assembly's defense committee in a hearing here on Wednesday.",
+      "why_it_matters": "The structural fracture of the multi-national FCAS program shifts European defense procurement toward sovereign national strategies. This pivot will require French prime contractors to independently manage advanced stealth, connectivity, and engine complexities under strict nuclear deterrence deadlines.",
+      "category": "industry",
+      "companies": [
+        "Dassault Aviation",
+        "Airbus",
+        "Safran",
+        "Thales"
+      ],
+      "topics": [
+        "Aviation",
         "Procurement"
       ],
       "sources": [
         {
-          "publisher": "Defence Industry Europe",
-          "url": "https://defence-industry.eu/rafael-and-raytheon-deliver-first-iron-dome-interceptor-made-entirely-in-america-to-israel/",
-          "access": "free",
-          "published_at": "2026-10-08T08:10:58+00:00",
-          "kind": "reporting"
-        },
-        {
-          "publisher": "The Defence Blog",
-          "url": "https://defence-blog.com/first-u-s-built-iron-dome-interceptor-delivered-to-israel/",
-          "access": "free",
-          "published_at": "2026-10-08T07:08:07+00:00",
-          "kind": "reporting"
-        }
-      ],
-      "score": 86
-    },
-    {
-      "headline": "StandardAero Secures US Air Force Contract for F100-220 Engine Predictive Maintenance",
-      "summary": "StandardAero has secured a US Air Force contract to apply its Maintenance Insight predictive maintenance, readiness and reliability diagnostic tools to the F100-220 engine programme. The award extends Maintenance Insight's coverage to a fifth engine type in the USAF fleet.",
-      "why_it_matters": "The contract expands the military deployment of advanced AI and digital twin diagnostics, showcasing a scalable model for modernizing defense fleet sustainment.",
-      "category": "industry",
-      "companies": [
-        "StandardAero"
-      ],
-      "topics": [
-        "Procurement",
-        "Artificial Intelligence",
-        "MRO",
-        "Aviation"
-      ],
-      "sources": [
-        {
-          "publisher": "AviTrader Aviation News",
-          "url": "https://avitrader.com/2026/10/08/standardaero-gains-new-us-air-force-maintenance-contract/",
-          "access": "free",
-          "published_at": "2026-10-08T10:01:30+00:00",
-          "kind": "reporting"
-        }
-      ],
-      "score": 85
-    },
-    {
-      "headline": "Romania Signs Historic Contract for 12 Airbus H225M Helicopters Under EU Defense Program",
-      "summary": "Romania has signed a formal contract to acquire 12 Airbus H225M multirole helicopters to accelerate its military readiness and modernize its armed forces. The procurement agreement is supported by the European Commission's Security Action for Europe loan instrument and builds on an industrial partnership with local manufacturer IAR.",
-      "why_it_matters": "The deployment of EU defense financial instruments demonstrates how regional funding mechanisms are directly accelerating major aerospace acquisitions for European militaries. This deal cements Airbus's long-term industrial footprint in Eastern Europe while creating sustainable high-skilled maintenance and manufacturing pipelines locally.",
-      "category": "industry",
-      "companies": [
-        "Airbus",
-        "Airbus Helicopters",
-        "IAR"
-      ],
-      "topics": [
-        "Aviation",
-        "Procurement",
-        "Manufacturing",
-        "Supply Chains"
-      ],
-      "sources": [
-        {
-          "publisher": "Aviation News.eu",
-          "url": "https://aviationnews.eu/news/2026/10/romania-signs-historic-contract-for-12-airbus-h225m-helicopters-under-eu-defense-program/",
-          "access": "free",
-          "published_at": "2026-10-08T01:24:35+00:00",
-          "kind": "reporting"
-        },
-        {
-          "publisher": "Breaking Defense",
-          "url": "https://breakingdefense.com/2026/10/romania-orders-12-airbus-h225m-multirole-helicopters/",
-          "access": "free",
-          "published_at": "2026-10-07T14:11:07+00:00",
-          "kind": "reporting"
-        }
-      ],
-      "score": 85
-    },
-    {
-      "headline": "Airbus Concludes Autonomous Taxiing Trials with A350 at Paris Charles de Gaulle",
-      "summary": "Airbus has completed a three-year research program into autonomous aircraft taxiing after conducting 30 hours of tests with an A350 at Paris Charles de Gaulle Airport in July 2026. The tests demonstrated the ability of the aircraft to navigate airport taxiways automatically, detect obstacles and stop when necessary.",
-      "why_it_matters": "These advanced ground navigation trials mark a key step toward reducing pilot workload and mitigating ground congestion and runway incursions at complex airports.",
-      "category": "industry",
-      "companies": [
-        "Airbus"
-      ],
-      "topics": [
-        "Autonomous Systems",
-        "Aviation",
-        "Research & Development"
-      ],
-      "sources": [
-        {
-          "publisher": "Air Data News",
-          "url": "https://www.airdatanews.com/airbus-completes-autonomous-taxi-trials-with-a350-at-paris-charles-de-gaulle/",
-          "access": "free",
-          "published_at": "2026-10-08T09:53:51+00:00",
+          "publisher": "Defense News",
+          "url": "https://www.defensenews.com/global/europe/2026/10/15/france-to-go-it-alone-on-next-gen-combat-aircraft-after-fcas-collapse/",
+          "access": "unknown",
+          "published_at": "2026-10-15T15:30:54+00:00",
           "kind": "reporting"
         }
       ],
       "score": 82
     },
     {
-      "headline": "Mitsubishi Heavy Industries Launches Seventh Taigei-Class Submarine for JMSDF",
-      "summary": "Japan's Mitsubishi Heavy Industries launched the seventh Taigei-class diesel-electric attack submarine, named Shogei, for the Japan Maritime Self-Defense Force. The 3,000-tonne vessel features higher-output Kawasaki diesel engines and is scheduled for delivery in March 2028.",
-      "why_it_matters": "This launch marks an incremental advancement in Japan's naval modernization efforts as Tokyo balances conventional submarine upgrades with broader studies into future propulsion options.",
+      "headline": "HII Awarded $56M AUKUS Contract for Submarine Engineering and Design",
+      "summary": "HII announced that its Newport News Shipbuilding division was awarded a $56 million contract by the U.S. Navy for shipbuilding engineering and design in support of the trilateral Australia, United Kingdom, and United States partnership. Under the contract, in support of Foreign Military Sales requirements, NNS will continue supporting the United Kingdom and Australia, including technology insertion, engineering, supply chain and workforce development support, and digital transformation.",
+      "why_it_matters": "This contract cements HII's central role in executing the trilateral AUKUS framework by directly aligning American shipbuilding expertise with allied submarine development. It highlights the growing commercial importance of cross-border defense industrial collaboration and engineering support services.",
       "category": "industry",
       "companies": [
-        "Mitsubishi Heavy Industries"
+        "Huntington Ingalls Industries"
       ],
       "topics": [
         "Naval",
         "Procurement",
-        "Manufacturing"
+        "Supply Chain"
       ],
       "sources": [
         {
           "publisher": "Naval News",
-          "url": "https://www.navalnews.com/naval-news/2026/10/japan-launches-seventh-taigei-class-submarine-as-nuclear-propulsion-debate-grows/",
+          "url": "https://www.navalnews.com/naval-news/2026/10/aukus-hii-awarded-contract-for-engineering-and-design-support/",
           "access": "free",
-          "published_at": "2026-10-08T06:41:43+00:00",
+          "published_at": "2026-10-15T14:48:24+00:00",
           "kind": "reporting"
         }
       ],
       "score": 80
     },
     {
-      "headline": "Royal Air Maroc Signs Fleet-Wide Deal to Integrate Starlink In-Flight Connectivity",
-      "summary": "Royal Air Maroc has confirmed plans to install Starlink internet on 41 aircraft starting in early 2027. The airline states it will become the first African carrier to offer this high-speed, low-latency in-flight connectivity technology.",
-      "why_it_matters": "The commercial adoption highlights how major network operators are upgrading passenger experiences to capture business and transit travelers across competitive regional corridors.",
-      "category": "industry",
+      "headline": "OnAudience Launches MCP Integration for Agentic Advertising Workflows",
+      "summary": "OnAudience has introduced OnAudience MCP, a Model Context Protocol integration that connects AI assistants directly to proprietary audience data and technology. The tool enables media planning teams to translate written briefs and discover audience segments through natural-language conversations within Claude.",
+      "why_it_matters": "Integrating proprietary audience data natively into agentic AI environments reduces friction in programmatic planning and speeds up the path to DSP activation.",
+      "category": "marketing",
       "companies": [
-        "SpaceX",
-        "Royal Air Maroc"
+        "OnAudience"
       ],
       "topics": [
-        "Procurement",
-        "Aviation",
-        "Commercial Networks"
+        "AI Agents",
+        "Programmatic Advertising",
+        "Audience Data"
       ],
       "sources": [
         {
-          "publisher": "Business Insider Africa",
-          "url": "https://africa.businessinsider.com/local/markets/elon-musks-starlink-lands-royal-air-maroc-deal-to-connect-41-aircraft-in-african/9xymeln",
+          "publisher": "ADWEEK",
+          "url": "https://www.adweek.com/adweek-wire/onaudience-launches-onaudience-mcp-bringing-audience-data-directly-into-agentic-advertising-workflows/",
           "access": "free",
-          "published_at": "2026-10-08T09:25:06+00:00",
+          "published_at": "2026-10-14T12:32:17+00:00",
+          "kind": "reporting"
+        }
+      ],
+      "score": 80
+    },
+    {
+      "headline": "US Air Force Explores Commercial 'C-sUAS as a Service' Model for Air Bases",
+      "summary": "Air Combat Command is looking for defense firms capable of providing a private counter-drone service, complete with the personnel to operate it, for defending air bases across the Air Force. The government envisions an initial prototype deployment at two designated Continental United States Air Force installations, with option mechanisms to scale across additional ACC installations upon proven performance, the document states.",
+      "why_it_matters": "Outsourcing critical point defense capabilities to commercial providers introduces innovative service-level contracting models to base security. This shift allows the Air Force to rapidly scale resilient protection architectures by leveraging mature technologies instead of lengthy developmental programs.",
+      "category": "industry",
+      "companies": [],
+      "topics": [
+        "Procurement",
+        "Drones"
+      ],
+      "sources": [
+        {
+          "publisher": "Air & Space Forces Magazine",
+          "url": "https://www.airandspaceforces.com/acc-commercial-counter-drone-services-air-base-defense/",
+          "access": "free",
+          "published_at": "2026-10-15T15:26:56+00:00",
           "kind": "reporting"
         }
       ],
       "score": 78
     },
     {
-      "headline": "Bharat Forge Lands Long-Term Aerospace Component Contract from Pratt & Whitney Canada",
-      "summary": "Bharat Forge has secured a long-term contract from Pratt & Whitney Canada to supply mission-critical aerospace engine components. The parts will be manufactured at Bharat Forge's specialized aerospace facility in India.",
-      "why_it_matters": "The agreement broadens global aero-engine supply chain partnerships and highlights ongoing efforts by major prime contractors to decentralize manufacturing sourcing.",
+      "headline": "Thales Australia Unveils BladeHaul Extra-Large Cargo UGV",
+      "summary": "Thales Australia unveiled its BladeHaul extra-large, heavy-duty UGV on Oct. 6, the opening day of the Land Forces 2026 exhibition being held in Perth, Western Australia. Official specs list a payload capacity of 10-plus tons for this cargo UGV, and a driving range comparable to that of the Bushmaster's 600-plus kilometers.",
+      "why_it_matters": "Adapting proven protected mobility vehicle mechanicals into a heavy unmanned logistics platform addresses critical requirements for contested littoral environments. The multi-mission flexibility of a 1MW mobile power and payload system expands how ground forces can deploy remote sensors, effectors, and supplies.",
       "category": "industry",
       "companies": [
-        "Bharat Forge",
-        "RTX"
+        "Thales Australia",
+        "3ME Technology"
       ],
       "topics": [
-        "Supply Chain",
-        "Manufacturing",
-        "Aviation"
+        "Autonomy",
+        "Drones",
+        "Naval"
       ],
       "sources": [
         {
-          "publisher": "Logistics Insider",
-          "url": "https://www.logisticsinsider.in/bharat-forge-wins-pratt-whitney-canada-aerospace-contract/",
-          "access": "free",
-          "published_at": "2026-10-08T06:56:31+00:00",
+          "publisher": "Defense News",
+          "url": "https://www.defensenews.com/land/2026/10/15/thales-australia-tackles-heavy-battlefield-logistics-with-new-big-rig-robot/",
+          "access": "unknown",
+          "published_at": "2026-10-15T12:00:00+00:00",
+          "kind": "reporting"
+        }
+      ],
+      "score": 77
+    },
+    {
+      "headline": "US Army Developing Wearable Drone Detection Tech for Soldiers",
+      "summary": "The Army is in the early stages of developing and testing a wearable or lightweight device that could alert soldiers to the presence of hostile drones without substantially adding to their combat load, officials said in a briefing with reporters on Wednesday. Perry said such a sensor might integrate with software to provide identification, which would then allow the soldier or unit to take action.",
+      "why_it_matters": "Developing low-power, lightweight acoustic detection gear directly addresses soldier survivability in contested environments without creating additional physical burdens. This focus on individual situational awareness opens new avenues for wearable defense electronics integration.",
+      "category": "industry",
+      "companies": [],
+      "topics": [
+        "Procurement",
+        "Drones",
+        "Autonomy"
+      ],
+      "sources": [
+        {
+          "publisher": "Defense News",
+          "url": "https://www.defensenews.com/industry/techwatch/2026/10/15/us-army-eyes-developing-soldier-worn-drone-detection-gear/",
+          "access": "unknown",
+          "published_at": "2026-10-15T20:00:00+00:00",
           "kind": "reporting"
         }
       ],
       "score": 75
     },
     {
-      "headline": "Fisica Awarded Space Force DARC Contract for Global Sensor Network Expansion",
-      "summary": "Fisica has secured a contract to support the U.S. Space Force's Deep Space Advanced Radar Capability program for global sensor network expansion. The award covers the design, assembly, testing, and installation of advanced radar antenna systems for the program's second site in the United Kingdom.",
-      "why_it_matters": "Securing follow-on contracts for high-stakes military space infrastructure proves how successful execution on initial prototype phases can de-risk major awards for specialized defense technology providers. This expansion deepens allied space domain awareness capabilities across critical geostrategic locations.",
+      "headline": "GA Telesis Initiates First Boeing 737 MAX 8 Disassembly Program",
+      "summary": "GA Telesis announced its first Boeing 737 MAX 8 aircraft disassembly program, accelerating GA Telesis's aggressive expansion to dominate the next-generation commercial aircraft aftermarket. The Boeing 737 MAX 8 disassembly program will introduce a high-demand portfolio of components, including avionics, flight controls, landing gear equipment, hydraulic and pneumatic systems, nacelle components, and other critical assemblies.",
+      "why_it_matters": "Expanding component recovery to next-generation narrowbodies challenges traditional aftermarket models that usually wait for fleets to mature. This proactive asset strategy helps commercial operators mitigate persistent supply chain constraints and extended OEM lead times.",
       "category": "industry",
       "companies": [
-        "Fisica, Inc."
+        "GA Telesis"
       ],
       "topics": [
-        "Space",
-        "Procurement",
-        "Cyber"
+        "Aviation",
+        "Supply Chain",
+        "Manufacturing"
       ],
       "sources": [
         {
           "publisher": "PR Newswire",
-          "url": "https://www.prnewswire.com/news-releases/fisica-inc-awarded-space-force-darc-contract-in-support-of-us-and-allied-sda-mission-302901525.html",
+          "url": "https://www.prnewswire.com/news-releases/ga-telesis-strengthens-next-generation-aircraft-aftermarket-dominance-with-first-boeing-737-max-8-disassembly-program-302910245.html",
           "access": "free",
-          "published_at": "2026-10-07T18:40:00+00:00",
+          "published_at": "2026-10-15T14:41:00+00:00",
           "kind": "distributed press release"
         }
       ],
-      "score": 75
-    },
-    {
-      "headline": "Common Ventures and Breville Launch Global 'Kitchen Sync' Campaign",
-      "summary": "Breville has rolled out a global product launch campaign called 'Kitchen Sync' created by Common Ventures for its Kitchen Wizz 12 and Paradice 12 food processors. The creative execution employs rhythmic movement and energy across digital and broadcast channels to reposition arduous food preparation as an enjoyable experience.",
-      "why_it_matters": "Shifting consumer product marketing from utility-focused feature lists to expressive, rhythm-driven brand platforms demonstrates how creative execution can elevate commoditized household hardware. B2B and enterprise marketers can leverage this sensory approach to turn functional product demonstrations into engaging lifestyle narratives.",
-      "category": "marketing",
-      "companies": [
-        "Breville",
-        "Common Ventures",
-        "Mint Films"
-      ],
-      "topics": [
-        "Enterprise Campaigns",
-        "Buyer Experiences",
-        "Product Demonstrations"
-      ],
-      "sources": [
-        {
-          "publisher": "LBB - Little Black Book",
-          "url": "https://lbbonline.com/news/common-ventures-breville-the-kitchen-sync",
-          "access": "free",
-          "published_at": "2026-10-07T23:36:06+00:00",
-          "kind": "reporting"
-        }
-      ],
-      "score": 70
-    },
-    {
-      "headline": "Dentsu Italy Introduces 'Beauty++' Observatory Exploring Beauty Industry Ecosystems",
-      "summary": "Dentsu Italy has launched a multidisciplinary research initiative named 'Beauty++' that uses Milano Beauty Week to study consumer engagement evolution. The observatory analyzes cross-category brand activations to understand how wellness, culture, and commerce intersect within modern consumer journeys.",
-      "why_it_matters": "Using large-scale cultural festivals as living laboratories allows agencies to map the shifting dynamics between live experiential platforms and digital media amplification. For B2B strategists, decoding how lifestyle brands integrate multi-touchpoint ecosystems provides a blueprint for building lasting brand equity beyond transactional activations.",
-      "category": "marketing",
-      "companies": [
-        "Dentsu Italy",
-        "Cosmetica Italia"
-      ],
-      "topics": [
-        "Buyer Experiences",
-        "Original Brand Platforms",
-        "Meaningful Activations"
-      ],
-      "sources": [
-        {
-          "publisher": "LBB - Little Black Book",
-          "url": "https://lbbonline.com/news/dentsu-italy-explores-how-beauty-brands-are-redefining-consumer-engagement",
-          "access": "free",
-          "published_at": "2026-10-07T11:55:36+00:00",
-          "kind": "reporting"
-        }
-      ],
-      "score": 68
-    },
-    {
-      "headline": "Kerala Tourism Launches Pre-Season B2B Campaign Targeting Domestic Growth",
-      "summary": "Kerala Tourism has initiated a comprehensive pre-season B2B roadshow and partnership campaign across Western and Northern Indian states. The outreach engages travel trade representatives to showcase multi-offering experiential tour packages for the upcoming holiday season.",
-      "why_it_matters": "Structured B2B roadshows enable tourism boards to secure direct commercial commitments from regional travel operators ahead of peak demand cycles. Crafting multi-destination itineraries helps regional brands capture higher-value travelers looking for specialized lifestyle and heritage experiences.",
-      "category": "marketing",
-      "companies": [
-        "Kerala Tourism"
-      ],
-      "topics": [
-        "Enterprise Campaigns",
-        "Buyer Experiences",
-        "Original Brand Platforms"
-      ],
-      "sources": [
-        {
-          "publisher": "Saachi Baat",
-          "url": "https://saachibaat.com/sports/kerala-tourism-eyes-increased-tourist-footfall-during-dussehra-diwali-season/",
-          "access": "free",
-          "published_at": "2026-10-08T03:29:57+00:00",
-          "kind": "reporting"
-        }
-      ],
-      "score": 65
+      "score": 74
     }
   ],
-  "coverage_start": "2026-10-07T07:59:23.117672+00:00",
-  "coverage_end": "2026-10-08T10:35:30.910700+00:00",
-  "today_in_a_sentence": "Defense and aerospace developments feature heavily, including Saronic breaking ground on a $3 billion shipyard in Texas, Raytheon and Rafael delivering the first all-American Iron Dome interceptor, and Romania procuring 12 Airbus helicopters. Additionally, consumer brands have launched new initiatives, such as Breville rolling out its global 'Kitchen Sync' campaign created by Common Ventures and Dentsu Italy introducing the 'Beauty++' observatory."
+  "coverage_start": "2026-10-08T04:35:30.910700+00:00",
+  "coverage_end": "2026-10-15T21:18:16.950257+00:00",
+  "today_in_a_sentence": "Lockheed Martin and Avio partnered to build solid rocket motors to bypass industry bottlenecks, while France announced plans to develop a next-generation combat aircraft domestically. Additionally, Automation Alley secured a $7.5 million task order for secure additive manufacturing, and HII received a $56 million contract for AUKUS submarine engineering."
 }

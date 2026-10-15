@@ -1,0 +1,226 @@
+{
+  "date": "2026-10-15",
+  "published_at": "2026-10-15T21:18:16.950257+00:00",
+  "stories": [
+    {
+      "headline": "Lockheed Martin and Avio Partner for Solid Rocket Motor Production",
+      "summary": "Avio USA has entered a strategic cooperation agreement to build and qualify solid rocket motors for Lockheed Martin's Extended Range GMLRS and Precision Strike Missile rounds. The partnership establishes a vital second motor source to help bypass long-standing munitions industry bottlenecks.",
+      "why_it_matters": "Qualifying alternative domestic rocket motor suppliers is crucial for major primes seeking to scale missile manufacturing capacity and mitigate historical supply constraints.",
+      "category": "industry",
+      "companies": [
+        "Avio",
+        "Lockheed Martin"
+      ],
+      "topics": [
+        "Missiles",
+        "Supply Chain",
+        "Defense Manufacturing"
+      ],
+      "sources": [
+        {
+          "publisher": "Breaking Defense",
+          "url": "https://breakingdefense.com/2026/10/avio-lockheed-sign-agreement-for-solid-rocket-motor-production/",
+          "access": "free",
+          "published_at": "2026-10-13T20:50:50+00:00",
+          "kind": "reporting"
+        }
+      ],
+      "score": 88
+    },
+    {
+      "headline": "Automation Alley Secures $7.5M Task Order for Secure Distributed Additive Manufacturing",
+      "summary": "Automation Alley has been awarded a Phase I $7.5 million task order under the Industrial Base Analysis Sustainment program to modernize defense supply chain sustainment through secure additive manufacturing. The company will lead the design and validation of an IP-protected digital streaming environment for weapons components in partnership with Markforged and Fraunhofer USA.",
+      "why_it_matters": "Distributed manufacturing networks help eliminate long lead times and supply chain chokepoints by producing physical defense components securely on demand.",
+      "category": "industry",
+      "companies": [
+        "Automation Alley",
+        "Markforged",
+        "Fraunhofer USA"
+      ],
+      "topics": [
+        "Additive Manufacturing",
+        "Supply Chain",
+        "Defense Procurement"
+      ],
+      "sources": [
+        {
+          "publisher": "PR Newswire",
+          "url": "https://www.prnewswire.com/news-releases/automation-alley-awarded-contract-to-advance-secure-distributed-additive-manufacturing-forthe-us-departmentof-war-302909514.html",
+          "access": "free",
+          "published_at": "2026-10-15T13:09:00+00:00",
+          "kind": "distributed press release"
+        }
+      ],
+      "score": 85
+    },
+    {
+      "headline": "France to Develop Next-Gen Combat Aircraft Domestically After FCAS Collapse",
+      "summary": "France will develop a next-generation combat aircraft domestically as a successor to the Rafale, after a joint project with Germany and Spain for a future combat air system collapsed earlier this year, Air and Space Force Chief of Staff Jérôme Bellanger said. The country now conceives the future fighter, dubbed Avion de Combat du Futur or ACF, as a national project, with a target of flying conventional missions in 2040, Bellanger told the National Assembly's defense committee in a hearing here on Wednesday.",
+      "why_it_matters": "The structural fracture of the multi-national FCAS program shifts European defense procurement toward sovereign national strategies. This pivot will require French prime contractors to independently manage advanced stealth, connectivity, and engine complexities under strict nuclear deterrence deadlines.",
+      "category": "industry",
+      "companies": [
+        "Dassault Aviation",
+        "Airbus",
+        "Safran",
+        "Thales"
+      ],
+      "topics": [
+        "Aviation",
+        "Procurement"
+      ],
+      "sources": [
+        {
+          "publisher": "Defense News",
+          "url": "https://www.defensenews.com/global/europe/2026/10/15/france-to-go-it-alone-on-next-gen-combat-aircraft-after-fcas-collapse/",
+          "access": "unknown",
+          "published_at": "2026-10-15T15:30:54+00:00",
+          "kind": "reporting"
+        }
+      ],
+      "score": 82
+    },
+    {
+      "headline": "HII Awarded $56M AUKUS Contract for Submarine Engineering and Design",
+      "summary": "HII announced that its Newport News Shipbuilding division was awarded a $56 million contract by the U.S. Navy for shipbuilding engineering and design in support of the trilateral Australia, United Kingdom, and United States partnership. Under the contract, in support of Foreign Military Sales requirements, NNS will continue supporting the United Kingdom and Australia, including technology insertion, engineering, supply chain and workforce development support, and digital transformation.",
+      "why_it_matters": "This contract cements HII's central role in executing the trilateral AUKUS framework by directly aligning American shipbuilding expertise with allied submarine development. It highlights the growing commercial importance of cross-border defense industrial collaboration and engineering support services.",
+      "category": "industry",
+      "companies": [
+        "Huntington Ingalls Industries"
+      ],
+      "topics": [
+        "Naval",
+        "Procurement",
+        "Supply Chain"
+      ],
+      "sources": [
+        {
+          "publisher": "Naval News",
+          "url": "https://www.navalnews.com/naval-news/2026/10/aukus-hii-awarded-contract-for-engineering-and-design-support/",
+          "access": "free",
+          "published_at": "2026-10-15T14:48:24+00:00",
+          "kind": "reporting"
+        }
+      ],
+      "score": 80
+    },
+    {
+      "headline": "OnAudience Launches MCP Integration for Agentic Advertising Workflows",
+      "summary": "OnAudience has introduced OnAudience MCP, a Model Context Protocol integration that connects AI assistants directly to proprietary audience data and technology. The tool enables media planning teams to translate written briefs and discover audience segments through natural-language conversations within Claude.",
+      "why_it_matters": "Integrating proprietary audience data natively into agentic AI environments reduces friction in programmatic planning and speeds up the path to DSP activation.",
+      "category": "marketing",
+      "companies": [
+        "OnAudience"
+      ],
+      "topics": [
+        "AI Agents",
+        "Programmatic Advertising",
+        "Audience Data"
+      ],
+      "sources": [
+        {
+          "publisher": "ADWEEK",
+          "url": "https://www.adweek.com/adweek-wire/onaudience-launches-onaudience-mcp-bringing-audience-data-directly-into-agentic-advertising-workflows/",
+          "access": "free",
+          "published_at": "2026-10-14T12:32:17+00:00",
+          "kind": "reporting"
+        }
+      ],
+      "score": 80
+    },
+    {
+      "headline": "US Air Force Explores Commercial 'C-sUAS as a Service' Model for Air Bases",
+      "summary": "Air Combat Command is looking for defense firms capable of providing a private counter-drone service, complete with the personnel to operate it, for defending air bases across the Air Force. The government envisions an initial prototype deployment at two designated Continental United States Air Force installations, with option mechanisms to scale across additional ACC installations upon proven performance, the document states.",
+      "why_it_matters": "Outsourcing critical point defense capabilities to commercial providers introduces innovative service-level contracting models to base security. This shift allows the Air Force to rapidly scale resilient protection architectures by leveraging mature technologies instead of lengthy developmental programs.",
+      "category": "industry",
+      "companies": [],
+      "topics": [
+        "Procurement",
+        "Drones"
+      ],
+      "sources": [
+        {
+          "publisher": "Air & Space Forces Magazine",
+          "url": "https://www.airandspaceforces.com/acc-commercial-counter-drone-services-air-base-defense/",
+          "access": "free",
+          "published_at": "2026-10-15T15:26:56+00:00",
+          "kind": "reporting"
+        }
+      ],
+      "score": 78
+    },
+    {
+      "headline": "Thales Australia Unveils BladeHaul Extra-Large Cargo UGV",
+      "summary": "Thales Australia unveiled its BladeHaul extra-large, heavy-duty UGV on Oct. 6, the opening day of the Land Forces 2026 exhibition being held in Perth, Western Australia. Official specs list a payload capacity of 10-plus tons for this cargo UGV, and a driving range comparable to that of the Bushmaster's 600-plus kilometers.",
+      "why_it_matters": "Adapting proven protected mobility vehicle mechanicals into a heavy unmanned logistics platform addresses critical requirements for contested littoral environments. The multi-mission flexibility of a 1MW mobile power and payload system expands how ground forces can deploy remote sensors, effectors, and supplies.",
+      "category": "industry",
+      "companies": [
+        "Thales Australia",
+        "3ME Technology"
+      ],
+      "topics": [
+        "Autonomy",
+        "Drones",
+        "Naval"
+      ],
+      "sources": [
+        {
+          "publisher": "Defense News",
+          "url": "https://www.defensenews.com/land/2026/10/15/thales-australia-tackles-heavy-battlefield-logistics-with-new-big-rig-robot/",
+          "access": "unknown",
+          "published_at": "2026-10-15T12:00:00+00:00",
+          "kind": "reporting"
+        }
+      ],
+      "score": 77
+    },
+    {
+      "headline": "US Army Developing Wearable Drone Detection Tech for Soldiers",
+      "summary": "The Army is in the early stages of developing and testing a wearable or lightweight device that could alert soldiers to the presence of hostile drones without substantially adding to their combat load, officials said in a briefing with reporters on Wednesday. Perry said such a sensor might integrate with software to provide identification, which would then allow the soldier or unit to take action.",
+      "why_it_matters": "Developing low-power, lightweight acoustic detection gear directly addresses soldier survivability in contested environments without creating additional physical burdens. This focus on individual situational awareness opens new avenues for wearable defense electronics integration.",
+      "category": "industry",
+      "companies": [],
+      "topics": [
+        "Procurement",
+        "Drones",
+        "Autonomy"
+      ],
+      "sources": [
+        {
+          "publisher": "Defense News",
+          "url": "https://www.defensenews.com/industry/techwatch/2026/10/15/us-army-eyes-developing-soldier-worn-drone-detection-gear/",
+          "access": "unknown",
+          "published_at": "2026-10-15T20:00:00+00:00",
+          "kind": "reporting"
+        }
+      ],
+      "score": 75
+    },
+    {
+      "headline": "GA Telesis Initiates First Boeing 737 MAX 8 Disassembly Program",
+      "summary": "GA Telesis announced its first Boeing 737 MAX 8 aircraft disassembly program, accelerating GA Telesis's aggressive expansion to dominate the next-generation commercial aircraft aftermarket. The Boeing 737 MAX 8 disassembly program will introduce a high-demand portfolio of components, including avionics, flight controls, landing gear equipment, hydraulic and pneumatic systems, nacelle components, and other critical assemblies.",
+      "why_it_matters": "Expanding component recovery to next-generation narrowbodies challenges traditional aftermarket models that usually wait for fleets to mature. This proactive asset strategy helps commercial operators mitigate persistent supply chain constraints and extended OEM lead times.",
+      "category": "industry",
+      "companies": [
+        "GA Telesis"
+      ],
+      "topics": [
+        "Aviation",
+        "Supply Chain",
+        "Manufacturing"
+      ],
+      "sources": [
+        {
+          "publisher": "PR Newswire",
+          "url": "https://www.prnewswire.com/news-releases/ga-telesis-strengthens-next-generation-aircraft-aftermarket-dominance-with-first-boeing-737-max-8-disassembly-program-302910245.html",
+          "access": "free",
+          "published_at": "2026-10-15T14:41:00+00:00",
+          "kind": "distributed press release"
+        }
+      ],
+      "score": 74
+    }
+  ],
+  "coverage_start": "2026-10-08T04:35:30.910700+00:00",
+  "coverage_end": "2026-10-15T21:18:16.950257+00:00",
+  "today_in_a_sentence": "Lockheed Martin and Avio partnered to build solid rocket motors to bypass industry bottlenecks, while France announced plans to develop a next-generation combat aircraft domestically. Additionally, Automation Alley secured a $7.5 million task order for secure additive manufacturing, and HII received a $56 million contract for AUKUS submarine engineering."
+}
