@@ -1,0 +1,32 @@
+{
+  "site_origin": "https://reduction.nyc",
+  "facts_origin": "https://facts.reduction.nyc",
+  "exclude_paths": [
+    "/404",
+    "/admin",
+    "/private",
+    "/preview",
+    "/drafts"
+  ],
+  "overrides": {
+    "/": {
+      "label": "Reduction",
+      "description": "New York / Independent signal",
+      "order": 0
+    },
+    "/rtx": {
+      "label": "RTX",
+      "description": "Aerospace, defense & B2B creativity",
+      "order": 10
+    }
+  },
+  "external_pages": [
+    {
+      "id": "facts",
+      "label": "Facts",
+      "url": "https://facts.reduction.nyc/",
+      "description": "A different perspective. One fact at a time.",
+      "order": 20
+    }
+  ]
+}
