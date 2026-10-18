@@ -1,0 +1,26 @@
+{
+  "version": 1,
+  "items": [
+    {
+      "id": "reduction",
+      "label": "Reduction",
+      "url": "https://reduction.nyc/",
+      "description": "New York / Independent signal",
+      "order": 0
+    },
+    {
+      "id": "rtx",
+      "label": "RTX",
+      "url": "https://reduction.nyc/rtx",
+      "description": "Aerospace, defense & B2B creativity",
+      "order": 10
+    },
+    {
+      "id": "facts",
+      "label": "Facts",
+      "url": "https://facts.reduction.nyc/",
+      "description": "A different perspective. One fact at a time.",
+      "order": 20
+    }
+  ]
+}

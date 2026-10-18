@@ -1,0 +1,177 @@
+{
+  "financial-services": {
+    "industry": "Financial services",
+    "name": "Mint",
+    "background": "#B8F2C2",
+    "foreground": "#111111",
+    "secondary": "#343434"
+  },
+  "retail-and-commerce": {
+    "industry": "Retail and commerce",
+    "name": "Coral",
+    "background": "#FFB8A8",
+    "foreground": "#111111",
+    "secondary": "#343434"
+  },
+  "technology-and-connectivity": {
+    "industry": "Technology and connectivity",
+    "name": "Periwinkle",
+    "background": "#BBC9FF",
+    "foreground": "#111111",
+    "secondary": "#343434"
+  },
+  "artificial-intelligence": {
+    "industry": "Artificial intelligence",
+    "name": "Acid lime",
+    "background": "#DFFF80",
+    "foreground": "#111111",
+    "secondary": "#343434"
+  },
+  "media-and-entertainment": {
+    "industry": "Media and entertainment",
+    "name": "Bubblegum",
+    "background": "#F7B2DB",
+    "foreground": "#111111",
+    "secondary": "#343434"
+  },
+  "aviation": {
+    "industry": "Aviation",
+    "name": "Sky",
+    "background": "#ACE4FF",
+    "foreground": "#111111",
+    "secondary": "#343434"
+  },
+  "heavy-manufacturing": {
+    "industry": "Heavy manufacturing",
+    "name": "Amber",
+    "background": "#FFCD75",
+    "foreground": "#111111",
+    "secondary": "#343434"
+  },
+  "luxury": {
+    "industry": "Luxury",
+    "name": "Champagne",
+    "background": "#F8E7AA",
+    "foreground": "#111111",
+    "secondary": "#343434"
+  },
+  "automotive-and-mobility": {
+    "industry": "Automotive and mobility",
+    "name": "Chartreuse",
+    "background": "#D6EE83",
+    "foreground": "#111111",
+    "secondary": "#343434"
+  },
+  "travel-and-hospitality": {
+    "industry": "Travel and hospitality",
+    "name": "Peach",
+    "background": "#FFD0A6",
+    "foreground": "#111111",
+    "secondary": "#343434"
+  },
+  "health-and-wellness": {
+    "industry": "Health and wellness",
+    "name": "Seafoam",
+    "background": "#BEEFE5",
+    "foreground": "#111111",
+    "secondary": "#343434"
+  },
+  "beauty-and-aesthetics": {
+    "industry": "Beauty and aesthetics",
+    "name": "Rose",
+    "background": "#F7C2D3",
+    "foreground": "#111111",
+    "secondary": "#343434"
+  },
+  "fashion-and-textiles": {
+    "industry": "Fashion and textiles",
+    "name": "Lilac",
+    "background": "#DBBBF3",
+    "foreground": "#111111",
+    "secondary": "#343434"
+  },
+  "home-and-housing": {
+    "industry": "Home and housing",
+    "name": "Clay",
+    "background": "#E8C5AE",
+    "foreground": "#111111",
+    "secondary": "#343434"
+  },
+  "work-and-business": {
+    "industry": "Work and business",
+    "name": "Powder blue",
+    "background": "#C3D8F0",
+    "foreground": "#111111",
+    "secondary": "#343434"
+  },
+  "sports": {
+    "industry": "Sports",
+    "name": "Tangerine",
+    "background": "#FFB784",
+    "foreground": "#111111",
+    "secondary": "#343434"
+  },
+  "gaming": {
+    "industry": "Gaming",
+    "name": "Violet",
+    "background": "#D3C0FF",
+    "foreground": "#111111",
+    "secondary": "#343434"
+  },
+  "energy": {
+    "industry": "Energy",
+    "name": "Solar yellow",
+    "background": "#F5E96A",
+    "foreground": "#111111",
+    "secondary": "#343434"
+  },
+  "environment-water-and-waste": {
+    "industry": "Environment, water, and waste",
+    "name": "Sage",
+    "background": "#BCD9AA",
+    "foreground": "#111111",
+    "secondary": "#343434"
+  },
+  "logistics-and-postal-infrastructure": {
+    "industry": "Logistics and postal infrastructure",
+    "name": "Glacier",
+    "background": "#C3DFE0",
+    "foreground": "#111111",
+    "secondary": "#343434"
+  },
+  "food-and-drink": {
+    "industry": "Food and drink",
+    "name": "Tomato",
+    "background": "#FFB09D",
+    "foreground": "#111111",
+    "secondary": "#343434"
+  },
+  "agriculture": {
+    "industry": "Agriculture",
+    "name": "Pistachio",
+    "background": "#D8E5AE",
+    "foreground": "#111111",
+    "secondary": "#343434"
+  },
+  "pets-and-animal-care": {
+    "industry": "Pets and animal care",
+    "name": "Apricot",
+    "background": "#FFD6B5",
+    "foreground": "#111111",
+    "secondary": "#343434"
+  },
+  "education": {
+    "industry": "Education",
+    "name": "Marigold",
+    "background": "#FFE59C",
+    "foreground": "#111111",
+    "secondary": "#343434"
+  },
+  "space-and-aerospace": {
+    "industry": "Space and aerospace",
+    "name": "Cosmic lavender",
+    "background": "#B8BBF0",
+    "foreground": "#111111",
+    "secondary": "#343434"
+  }
+}
