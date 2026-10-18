@@ -10,23 +10,24 @@
   ],
   "overrides": {
     "/": {
-      "label": "Reduction",
+      "label": "Main",
       "description": "New York / Independent signal",
       "order": 0
     },
     "/rtx": {
       "label": "RTX",
       "description": "Aerospace, defense & B2B creativity",
-      "order": 10
+      "order": 100,
+      "section": "Briefings"
     }
   },
   "external_pages": [
     {
       "id": "facts",
-      "label": "Facts",
+      "label": "Facts Library",
       "url": "https://facts.reduction.nyc/",
       "description": "A different perspective. One fact at a time.",
-      "order": 20
+      "order": 10
     }
   ]
 }
