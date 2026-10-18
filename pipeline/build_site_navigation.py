@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Generate shared navigation from public HTML, with explicit overrides/exclusions."""
+"""Generate shared navigation from public HTML, retaining optional sections."""
 import argparse, json, re, shutil
 from html.parser import HTMLParser
 from pathlib import Path
@@ -52,7 +52,7 @@ def build(root):
         url=origin+route
         if url in seen:continue
         seen.add(url)
-        items.append({'id':re.sub(r'[^a-z0-9]+','-',route.lower()).strip('-') or 'reduction','label':label,'url':url,'description':description,'order':order})
+        items.append({'id':re.sub(r'[^a-z0-9]+','-',route.lower()).strip('-') or 'reduction','label':label,'url':url,'description':description,'order':order,'section':str(override.get('section',m.meta.get('reduction:nav-section',''))).strip()})
     for item in config.get('external_pages',[]):
         if item.get('hidden'):continue
         if urlsplit(item.get('url','')).scheme not in {'http','https'}:raise ValueError('External page must have an absolute HTTP(S) URL')
