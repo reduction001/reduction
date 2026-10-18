@@ -1,19 +1,57 @@
 <!doctype html>
 <html lang="en" data-nav-manifest="./site-navigation.json">
 <head>
-<meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><meta name="theme-color" content="#D6EE83"><meta name="description" content="A different perspective, one fact at a time. The Reduction facts library: sourced statistics, explored by industry."><title>facts — reduction</title><link rel="canonical" href="https://facts.reduction.nyc/"><link rel="icon" href="./favicon.svg" type="image/svg+xml"><link rel="stylesheet" href="./styles.css"><script src="./engine.js" defer></script><script src="./site-nav.js" defer></script><script src="./app.js" defer></script>
-</head><body>
-<a class="skip" href="#main">Skip to fact</a><div class="scrim" id="scrim" hidden></div>
-<aside class="pane" id="navigation-pane" aria-label="Site navigation"><p class="pane-label">REDUCTION / INDEX</p><button class="close" type="button" aria-label="Close navigation">CLOSE ×</button><nav aria-label="Reduction"><ul class="navigation" data-site-nav>
-<li><a href="https://reduction.nyc/"><span class="nav-title"><span>Reduction</span><span aria-hidden="true">↗</span></span><span class="nav-note">New York / Independent signal</span></a></li>
-<li><a href="https://reduction.nyc/rtx"><span class="nav-title"><span>RTX</span><span aria-hidden="true">↗</span></span><span class="nav-note">Aerospace, defense &amp; B2B creativity</span></a></li>
-<li><a href="https://facts.reduction.nyc/" aria-current="page"><span class="nav-title"><span>Facts</span><span aria-hidden="true">↗</span></span><span class="nav-note">A different perspective.<br>One fact at a time.</span></a></li>
-</ul></nav><p class="pane-footer">LESS NOISE.<br>MORE CONSEQUENCE.</p></aside>
-<button class="menu-toggle" type="button" aria-controls="navigation-pane" aria-expanded="false">MENU +</button>
-<div class="page-shell" id="page-shell"><header class="masthead"><a class="wordmark" href="https://reduction.nyc/">reduction<span aria-hidden="true">.</span></a><span class="edition">FACTS / VOL. 002</span></header>
-<main id="main" tabindex="-1"><section class="toolbar" aria-label="Fact controls"><div class="library-label"><span class="square" aria-hidden="true"></span>THE FACTS LIBRARY</div><div class="filter-group"><label for="vertical">VERTICAL</label><select id="vertical" disabled><option value="all">All verticals</option></select></div></section>
-<article class="fact-stage" id="fact-stage" aria-label="Current fact" aria-busy="true"><div class="fact-meta"><span id="industry-label">LOADING LIBRARY</span><span id="fact-id">—</span></div><div class="context"><span id="geography">Sourced statistics.</span><span aria-hidden="true">/</span><span id="period">New perspectives.</span></div><h1 id="fact-text">A different perspective.</h1><div class="provenance"><span class="mini-label">SOURCE</span><ul id="source-list"><li>Loading original sources…</li></ul></div><details id="context-details" hidden><summary>Context &amp; methodology <span aria-hidden="true">+</span></summary><p id="source-context"></p><p id="calculation-note" hidden>Includes a calculated comparison. Essential assumptions and qualifications are retained in the fact text.</p></details></article>
-<div class="action-bar"><div class="primary-actions"><button id="back-fact" class="back-button" type="button" disabled>← Back</button><button id="next-fact" class="next-button" type="button" disabled>Show me another <span aria-hidden="true">↗</span></button></div><div class="secondary-actions"><button id="copy-link" type="button" class="text-button" disabled>Copy fact link</button><button id="auto-toggle" type="button" class="text-button" aria-pressed="true" disabled>Pause auto · 30s</button></div></div>
-<p id="status" class="live-status" role="status" aria-live="polite">Loading the facts library…</p><noscript><p class="error-box">JavaScript is required to browse the facts. <a href="./facts.json">Open the complete JSON library</a>.</p></noscript></main>
-<footer class="site-footer"><span id="library-count">500 FACTS / 25 VERTICALS</span><details class="about"><summary>About this library</summary><p>A research snapshot, not a live feed. Dates, survey and estimate labels, sources, and essential qualifications stay attached to each fact. Records marked for review are withheld from rotation. This library has not undergone a new comprehensive pre-publication fact-check.</p><p><a href="./facts.json">View the complete JSON library ↗</a></p></details><span>NEW YORK / INDEPENDENT SIGNAL</span></footer></div>
-</body></html>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<meta name="theme-color" content="#D6EE83">
+<meta name="description" content="A different perspective, one fact at a time. The Reduction facts library: sourced statistics, explored by industry.">
+<title>Facts Library — reduction</title>
+<link rel="canonical" href="https://facts.reduction.nyc/">
+<link rel="icon" href="./favicon.svg" type="image/svg+xml">
+<link rel="stylesheet" href="./styles.css">
+<script src="./engine.js" defer></script>
+<script src="./site-nav.js" defer></script>
+<script src="./app.js" defer></script>
+</head>
+<body>
+<a class="skip" href="#main">Skip to fact</a>
+<div class="scrim" id="scrim" hidden></div>
+<aside class="pane" id="navigation-pane" aria-label="Site navigation" inert>
+  <p class="pane-label">REDUCTION / INDEX</p>
+  <button class="close" type="button" aria-label="Close navigation">CLOSE ×</button>
+  <nav aria-label="Reduction"><ul class="navigation" data-site-nav>
+    <li><a href="https://reduction.nyc/"><span class="nav-title"><span>Main</span><span aria-hidden="true">↗</span></span><span class="nav-note">New York / Independent signal</span></a></li>
+    <li><a href="https://facts.reduction.nyc/" aria-current="page"><span class="nav-title"><span>Facts Library</span><span aria-hidden="true">↗</span></span><span class="nav-note">A different perspective. One fact at a time.</span></a></li>
+    <li class="nav-section"><span class="nav-section-label" role="heading" aria-level="2">Briefings</span></li>
+    <li><a href="https://reduction.nyc/rtx"><span class="nav-title"><span>RTX</span><span aria-hidden="true">↗</span></span><span class="nav-note">Aerospace, defense &amp; B2B creativity</span></a></li>
+  </ul></nav>
+  <p class="pane-footer">LESS NOISE.<br>MORE CONSEQUENCE.</p>
+</aside>
+<button class="menu-toggle" type="button" aria-label="Open navigation" aria-controls="navigation-pane" aria-expanded="false">MENU +</button>
+<div class="page-shell" id="page-shell">
+<main id="main" tabindex="-1">
+  <section class="toolbar" aria-label="Facts library and filters">
+    <h1 class="library-heading">The Facts Library</h1>
+    <div class="filter-group"><label for="vertical">VERTICAL</label><select id="vertical" disabled><option value="all">All verticals</option></select></div>
+  </section>
+  <article class="fact-stage" id="fact-stage" aria-label="Current fact" aria-busy="true">
+    <div class="fact-meta"><span id="industry-label">LOADING LIBRARY</span><span id="fact-id">—</span></div>
+    <div class="context"><span id="geography">Sourced statistics.</span><span aria-hidden="true">/</span><span id="period">New perspectives.</span></div>
+    <h2 class="fact-text" id="fact-text">A different perspective.</h2>
+    <div class="provenance"><span class="mini-label">SOURCE</span><ul id="source-list"><li>Loading original sources…</li></ul></div>
+    <details id="context-details" hidden><summary>Context &amp; methodology <span aria-hidden="true">+</span></summary><p id="source-context"></p><p id="calculation-note" hidden>Includes a calculated comparison. Essential assumptions and qualifications are retained in the fact text.</p></details>
+  </article>
+  <div class="action-bar">
+    <div class="primary-actions"><button id="back-fact" class="back-button" type="button" disabled>← Back</button><button id="next-fact" class="next-button" type="button" disabled>Show me another <span aria-hidden="true">↗</span></button></div>
+    <div class="secondary-actions"><button id="copy-link" type="button" class="text-button" disabled>Copy fact link</button><button id="auto-toggle" type="button" class="text-button" aria-pressed="true" disabled>Pause auto · 30s</button></div>
+  </div>
+  <p id="status" class="live-status" role="status" aria-live="polite">Loading the facts library…</p>
+  <noscript><p class="error-box">Enable JavaScript to browse the facts and open the navigation.</p></noscript>
+</main>
+<footer class="site-footer">
+  <details class="about"><summary>About the database</summary><p id="database-size">Database size and coverage are shown here once the library loads.</p><p>A research snapshot, not a live feed. Dates, survey and estimate labels, sources, and essential qualifications stay attached to each fact. Records marked for review or missing valid source references are withheld from rotation. This library has not undergone a new comprehensive pre-publication fact-check.</p></details>
+  <span class="signature">NEW YORK / INDEPENDENT SIGNAL</span>
+</footer>
+</div>
+</body>
+</html>
