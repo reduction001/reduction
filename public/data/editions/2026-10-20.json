@@ -1,0 +1,234 @@
+{
+  "date": "2026-10-20",
+  "published_at": "2026-10-20T10:42:37.976528+00:00",
+  "stories": [
+    {
+      "headline": "U.S. Navy Accepts First C-130J-30 for E-130J Phoenix II Nuclear Command Fleet",
+      "summary": "The U.S. Navy on Oct. 15 accepted a C-130J-30 Super Hercules plane that it will modify to become the first of its new nuclear command, control, and communications aircraft. Manufacturer Lockheed Martin delivered the aircraft to the Navy at its Marietta, Ga., facility, the company said in an Oct. 16 statement.",
+      "why_it_matters": "Replacing aging strategic airborne communication platforms requires seamless coordination between prime manufacturers and specialized mission-systems integrators.",
+      "category": "industry",
+      "companies": [
+        "Lockheed Martin",
+        "Northrop Grumman",
+        "RTX"
+      ],
+      "topics": [
+        "aviation",
+        "procurement",
+        "command and control"
+      ],
+      "sources": [
+        {
+          "publisher": "Air & Space Forces Magazine",
+          "url": "https://www.airandspaceforces.com/lockheed-delivers-c-130j-to-become-navys-tacamo-plane/",
+          "access": "free",
+          "published_at": "2026-10-19T20:30:47+00:00",
+          "kind": "reporting"
+        }
+      ],
+      "score": 83
+    },
+    {
+      "headline": "Discover Airlines Introduces First AeroSHARK Airbus Aircraft to Scheduled Service",
+      "summary": "Discover Airlines has become the first operator to put an Airbus aircraft equipped with Lufthansa Technik's AeroSHARK surface technology into regular scheduled service, marking a milestone for the fuel-saving modification. The Airbus A330, registered as D-AIKP, completed its inaugural flight to Florida last Thursday, October 15.",
+      "why_it_matters": "Airlines seeking incremental sustainability gains can evaluate sharkskin surface films as a viable retrofit option for reducing drag and cutting emissions on long-haul routes.",
+      "category": "industry",
+      "companies": [
+        "Discover Airlines",
+        "Lufthansa Technik",
+        "Airbus",
+        "Surventis"
+      ],
+      "topics": [
+        "aviation",
+        "sustainability",
+        "manufacturing"
+      ],
+      "sources": [
+        {
+          "publisher": "AviTrader Aviation News",
+          "url": "https://avitrader.com/2026/10/20/discover-airlines-debuts-first-aeroshark-airbus-aircraft/",
+          "access": "free",
+          "published_at": "2026-10-20T09:22:24+00:00",
+          "kind": "reporting"
+        }
+      ],
+      "score": 82
+    },
+    {
+      "headline": "Shield AI Delivers First V-BAT Drones to Taiwanese Coast Guard",
+      "summary": "The Taiwanese Coast Guard has received its first V-BAT drones from the U.S. manufacturer Shield AI. A total of twelve of these vertical-takeoff systems are scheduled to be delivered in the coming months and will strengthen maritime surveillance around Taiwan in the future.",
+      "why_it_matters": "Autonomous vertical-takeoff systems provide littoral and coastal defense buyers with runway-independent reconnaissance options tailored for contested environments.",
+      "category": "industry",
+      "companies": [
+        "Shield AI",
+        "Aerospace Industrial Development Corporation"
+      ],
+      "topics": [
+        "drones",
+        "autonomy",
+        "procurement"
+      ],
+      "sources": [
+        {
+          "publisher": "Militär Aktuell",
+          "url": "https://militaeraktuell.at/en/taiwan-receives-its-first-v-bat-drones-from-shield-ai/",
+          "access": "free",
+          "published_at": "2026-10-20T09:01:03+00:00",
+          "kind": "reporting"
+        }
+      ],
+      "score": 80
+    },
+    {
+      "headline": "U.S. Army Unit in Europe Fires Tomahawk Missile from Typhon Launcher",
+      "summary": "A U.S. Army unit assigned to U.S. European Command-tasked with breaking area denial networks and sinking moving maritime targets-fired a Tomahawk cruise missile last month. Assigned to Multi-Domain Command - Europe, the 3rd Battalion of the 12th Field Artillery Regiment launched the cruise missile from a Typhon launcher at Naval Air Weapons Station China Lake on September 28.",
+      "why_it_matters": "Land-based mid-range capability deployments expand theater commanders' long-range strike options independent of traditional naval platforms.",
+      "category": "industry",
+      "companies": [
+        "Lockheed Martin"
+      ],
+      "topics": [
+        "missiles",
+        "procurement"
+      ],
+      "sources": [
+        {
+          "publisher": "Naval News",
+          "url": "https://www.navalnews.com/naval-news/2026/10/u-s-army-anti-a2-ad-maritime-strike-unit-fires-tomahawk-missile/",
+          "access": "free",
+          "published_at": "2026-10-20T08:43:27+00:00",
+          "kind": "reporting"
+        }
+      ],
+      "score": 79
+    },
+    {
+      "headline": "Emirates Previews Accessible Cabin and Lounge Concepts at AccessAbilities Expo",
+      "summary": "Emirates has unveiled several accessibility concepts still in development including a cabin familiarisation experience for blind and low-vision customers, an accessible lounge suite and biometric boarding gates. The airline's stand at the eighth edition of the expo aims to help shape a more inclusive future for aviation across the whole journey.",
+      "why_it_matters": "Prototyping inclusive travel infrastructure in public exhibitions sets a higher experience standard for accessible enterprise design. B2B brands can use experiential activations to validate human-centric prototypes directly with affected user communities.",
+      "category": "marketing",
+      "companies": [
+        "Emirates",
+        "Thales"
+      ],
+      "topics": [
+        "Experiential Design",
+        "Accessibility",
+        "Exhibition Activations"
+      ],
+      "sources": [
+        {
+          "publisher": "travelweekly.com.au",
+          "url": "https://travelweekly.com.au/emirates-previews-accessible-lounge-suite-and-cabin-concepts-at-accessabilities-expo/",
+          "access": "free",
+          "published_at": "2026-10-19T23:26:19+00:00",
+          "kind": "reporting"
+        }
+      ],
+      "score": 78
+    },
+    {
+      "headline": "Automate UK Unifies Industrial Sector Under Streamlined Brand Structure",
+      "summary": "Automate UK has announced the structural evolution of its core trade bodies bringing them together under a single, streamlined brand identity. This realignment simplifies how members, manufacturers, and end-users engage with the organisations representing processing and packaging, robotics, automation, and industrial vision technologies in the UK.",
+      "why_it_matters": "Consolidating fragmented trade representations under a unified banner reduces cognitive load for industrial buyers and sharpens sector advocacy. B2B marketers navigating complex industry ecosystems should examine how single-brand architectures clarify stakeholder engagement.",
+      "category": "marketing",
+      "companies": [
+        "Automate UK",
+        "BARA",
+        "UKIVA"
+      ],
+      "topics": [
+        "Rebranding",
+        "Industrial Automation",
+        "Trade Associations"
+      ],
+      "sources": [
+        {
+          "publisher": "Food and Drink Technology",
+          "url": "https://www.foodanddrinktechnology.com/news/70850/automate-uk-unifies-manufacturing-sector-with-rebranding-of-bara-ukiva-and-ppma-panel/",
+          "access": "free",
+          "published_at": "2026-10-20T05:47:26+00:00",
+          "kind": "reporting"
+        }
+      ],
+      "score": 75
+    },
+    {
+      "headline": "Titan Engineering and Automation Unveils Global Manufacturing Brand Identity",
+      "summary": "Titan Engineering and Automation Limited has unveiled its new brand identity and logo, reflecting its capabilities in precision engineering and automation and its ambition to expand across industries and global markets. The new identity brings together the company's two core areas of expertise, highlighting the competitive strengths it has developed and its vision to engineer the future of high-performance manufacturing from India for the world.",
+      "why_it_matters": "B2B industrial suppliers scaling cross-border operations can unify disparate technical competencies under a minimalist corporate identity to reinforce global reliability.",
+      "category": "marketing",
+      "companies": [
+        "Titan Engineering and Automation Limited"
+      ],
+      "topics": [
+        "brand identity",
+        "manufacturing",
+        "automation"
+      ],
+      "sources": [
+        {
+          "publisher": "MediaNews4U",
+          "url": "https://www.medianews4u.com/titan-engineering-and-automation-introduces-new-brand-identity-to-strengthen-global-manufacturing-ambitions/",
+          "access": "free",
+          "published_at": "2026-10-20T06:19:18+00:00",
+          "kind": "reporting"
+        }
+      ],
+      "score": 74
+    },
+    {
+      "headline": "Ceva Logistics Merges Last-Mile Subsidiary Colis Privé into Paack Brand",
+      "summary": "Ceva Logistics has merged France-focused last-mile delivery subsidiary Colis Privé into newly acquired Paack, presenting a single brand identity to the market. The unified Paack brand will be rolled out progressively to customers and partners beginning in January to simplify delivery management for e-commerce retailers.",
+      "why_it_matters": "Brand consolidation following major acquisitions helps streamline fragmented operational networks into a coherent market proposition. Supply chain operators can use unified brand architecture to signal seamless cross-border execution to enterprise clients.",
+      "category": "marketing",
+      "companies": [
+        "Ceva Logistics",
+        "CMA CGM Group"
+      ],
+      "topics": [
+        "Brand Architecture",
+        "Logistics",
+        "M&A Rebranding"
+      ],
+      "sources": [
+        {
+          "publisher": "FreightWaves",
+          "url": "https://www.freightwaves.com/news/ceva-logistics-puts-paack-in-charge-of-last-mile-parcel-delivery",
+          "access": "free",
+          "published_at": "2026-10-19T15:11:46+00:00",
+          "kind": "reporting"
+        }
+      ],
+      "score": 74
+    },
+    {
+      "headline": "apna Launches 'Hiring Utsav' B2B Campaign with Cultural Storytelling",
+      "summary": "Employment platform apna is combining festive pricing with culturally rooted storytelling and on-ground activations to encourage small businesses to plan their hiring for the year ahead. The campaign opens with a ten-headed Ravan dressed in a business suit, representing common recruitment frustrations such as interview no-shows and staff shortages.",
+      "why_it_matters": "Injecting cultural familiarity into B2B categories traditionally dominated by dry functionality helps humanise enterprise offerings. Creative teams can leverage local cultural narratives to disarm high-friction operational challenges in SMB markets.",
+      "category": "marketing",
+      "companies": [
+        "apna"
+      ],
+      "topics": [
+        "B2B Campaigns",
+        "Cultural Storytelling",
+        "Recruitment"
+      ],
+      "sources": [
+        {
+          "publisher": "Passionate In Marketing",
+          "url": "https://www.passionateinmarketing.com/apna-brings-festive-marketing-to-b2b-recruitment-with-hiring-utsav-campaign/",
+          "access": "free",
+          "published_at": "2026-10-20T02:07:41+00:00",
+          "kind": "reporting"
+        }
+      ],
+      "score": 73
+    }
+  ],
+  "coverage_start": "2026-10-19T05:13:32.444836+00:00",
+  "coverage_end": "2026-10-20T10:42:37.976528+00:00",
+  "today_in_a_sentence": "Recent industry developments include the U.S. Navy accepting its first C-130J-30 for the E-130J Phoenix II fleet and Discover Airlines deploying its first AeroSHARK-equipped Airbus. Meanwhile, organizations such as Automate UK and Titan Engineering have updated their brand identities to streamline operations and expand market reach."
+}
