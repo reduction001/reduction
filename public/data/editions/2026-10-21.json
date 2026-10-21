@@ -1,0 +1,259 @@
+{
+  "date": "2026-10-21",
+  "published_at": "2026-10-21T10:44:28.072469+00:00",
+  "stories": [
+    {
+      "headline": "U.S. Navy and Gecko Robotics Expand AI Ship Maintenance Contract to $300 Million",
+      "summary": "The U.S. Navy is increasing the value of its initial contract with Gecko Robotics to up to $300 million to streamline ship repairs and resolve maintenance logjams. Gecko Robotics stated that its technology can save up to $8 million in repair costs per ship while returning vessels to sea quicker.",
+      "why_it_matters": "Expanding automated inspections and AI diagnostics across the Pacific Fleet provides a scalable blueprint for addressing persistent military maintenance backlogs and improving operational readiness.",
+      "category": "industry",
+      "companies": [
+        "Gecko Robotics"
+      ],
+      "topics": [
+        "Artificial Intelligence",
+        "Naval Procurement",
+        "Maintenance"
+      ],
+      "sources": [
+        {
+          "publisher": "Defense News",
+          "url": "https://www.defensenews.com/news/your-navy/2026/10/20/us-navy-gecko-robotics-surge-ai-maintenance-contract-to-300m/",
+          "access": "unknown",
+          "published_at": "2026-10-20T15:15:32+00:00",
+          "kind": "reporting"
+        }
+      ],
+      "score": 85
+    },
+    {
+      "headline": "U.S. Navy Remotely Controls MQ-25A Stingray Over 2,100 Miles via pLEO Satellite Network",
+      "summary": "A Nimitz-class aircraft carrier underway in the Pacific used its Unmanned Air Warfare Center to establish beyond line-of-sight control over an MQ-25A Stingray located 2,100 miles away in Illinois. The test utilized a proliferated low Earth orbit satellite network and an MD-5C Ground Control Station combining C4I infrastructure with Lockheed Martin hardware and software.",
+      "why_it_matters": "Proving long-range over-the-horizon control of carrier-based unmanned assets validates the technological framework underpinning future naval aviation wings.",
+      "category": "industry",
+      "companies": [
+        "Lockheed Martin",
+        "Boeing"
+      ],
+      "topics": [
+        "Unmanned Systems",
+        "Naval Aviation",
+        "Satellites"
+      ],
+      "sources": [
+        {
+          "publisher": "Naval News",
+          "url": "https://www.navalnews.com/naval-news/2026/10/us-navy-carrier-remote-controls-mq-25a-stingray-over-2100-miles-away/",
+          "access": "free",
+          "published_at": "2026-10-20T12:29:41+00:00",
+          "kind": "reporting"
+        }
+      ],
+      "score": 84
+    },
+    {
+      "headline": "RTX Secures $729 Million LIDS Contracts for International Counter-Drone Defense",
+      "summary": "RTX Corporation secured contracts worth $729 million through its Raytheon business to deliver the Low, slow, small, unmanned aircraft Integrated Defeat System to the U.S. Army, Qatar, and Jordan. These agreements represent the first international sales for Raytheon's Ku-band Radio Frequency Sensor and Coyote interceptor systems.",
+      "why_it_matters": "Demonstrated combat efficacy against drone swarms combined with direct foreign military sales positions RTX as a dominant leader in the expanding global counter-uas defense market.",
+      "category": "industry",
+      "companies": [
+        "RTX Corporation",
+        "Raytheon"
+      ],
+      "topics": [
+        "Counter-UAS",
+        "Procurement",
+        "Missile Defense"
+      ],
+      "sources": [
+        {
+          "publisher": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/technology/articles/rtx-secures-729m-lids-contracts-130000460.html",
+          "access": "free",
+          "published_at": "2026-10-20T13:00:00+00:00",
+          "kind": "reporting"
+        }
+      ],
+      "score": 83
+    },
+    {
+      "headline": "GE Aerospace Doubles GEnx Engine Deliveries to Ease Boeing 787 Production Bottlenecks",
+      "summary": "GE Aerospace more than doubled its GEnx turbofan deliveries during the third quarter of 2026, supplying over 50 engines to Boeing. This delivery acceleration directly addresses previous engine supply shortages that constrained Boeing's 787 Dreamliner manufacturing rate.",
+      "why_it_matters": "Stabilizing tier-one propulsion supply chains is critical for aircraft manufacturers attempting to hit ambitious widebody production ramp targets amidst an extensive backlog.",
+      "category": "industry",
+      "companies": [
+        "GE Aerospace",
+        "Boeing"
+      ],
+      "topics": [
+        "Aviation",
+        "Supply Chain",
+        "Manufacturing"
+      ],
+      "sources": [
+        {
+          "publisher": "Air Data News",
+          "url": "https://www.airdatanews.com/ge-aerospace-increases-g-enx-engine-production-to-support-boeing-787-ramp-up/",
+          "access": "free",
+          "published_at": "2026-10-21T08:23:27+00:00",
+          "kind": "reporting"
+        }
+      ],
+      "score": 81
+    },
+    {
+      "headline": "Lockheed Martin Completes Rapid Milestone Series for RIG-360 Missile Communications",
+      "summary": "Lockheed Martin completed critical-design reviews, three captive-carry tests, and its first developmental flight test for the Remote Intercept Guidance 360 program in a matter of months. The system provides 360-degree in-flight communications for the PAC-3 missile family to eliminate battlefield blind spots.",
+      "why_it_matters": "Accelerated testing timelines demonstrate prime contractors' ability to field crucial sensor-to-weapon integration updates ahead of schedule for modern integrated air defense architectures.",
+      "category": "industry",
+      "companies": [
+        "Lockheed Martin"
+      ],
+      "topics": [
+        "Missiles",
+        "Testing",
+        "Air Defense"
+      ],
+      "sources": [
+        {
+          "publisher": "Lockheed Martin",
+          "url": "https://www.lockheedmartin.com/en-us/news/features/2026/rig-360-team-completes-numerous-program-milestones-in-record-time.html",
+          "access": "free",
+          "published_at": "2026-10-21T00:58:22+00:00",
+          "kind": "company announcement"
+        }
+      ],
+      "score": 80
+    },
+    {
+      "headline": "Elbit Systems Completes Acquisition of Canadian Underwater Drone Maker ISE",
+      "summary": "Elbit Systems Ltd. completed its acquisition of Canada-based International Submarine Engineering Ltd. to bolster its portfolio of maritime robotics. The acquired company brings over 50 years of subsea experience and more than 250 delivered underwater vehicles across 20 countries.",
+      "why_it_matters": "Integrating established autonomous underwater vehicle technologies enhances Elbit's end-to-end maritime capabilities in intelligence, surveillance, reconnaissance, and anti-submarine warfare.",
+      "category": "industry",
+      "companies": [
+        "Elbit Systems",
+        "International Submarine Engineering Ltd."
+      ],
+      "topics": [
+        "Autonomous Systems",
+        "M&A",
+        "Naval Security"
+      ],
+      "sources": [
+        {
+          "publisher": "The Jerusalem Post",
+          "url": "https://www.jpost.com/defense-and-tech/article-912280",
+          "access": "free",
+          "published_at": "2026-10-20T13:00:44+00:00",
+          "kind": "reporting"
+        }
+      ],
+      "score": 79
+    },
+    {
+      "headline": "EU Allocates $195 Million to Expand Defense Supply Chains for Missiles and Drones",
+      "summary": "The European Commission has allocated 168.2 million euros ($195 million) across eight targeted projects to expand manufacturing capacity for energetic materials, propulsion systems, warheads, and ammunition. The overarching initiative aims to cut manufacturing times by up to 90 percent while decreasing reliance on non-European suppliers.",
+      "why_it_matters": "Targeted public capital injections help regional defense industries overcome capacity bottlenecks for munitions and loitering munitions components.",
+      "category": "industry",
+      "companies": [],
+      "topics": [
+        "Procurement",
+        "Supply Chain",
+        "Missiles"
+      ],
+      "sources": [
+        {
+          "publisher": "The Defense Post",
+          "url": "https://thedefensepost.com/2026/10/20/eu-missile-ammunition-production/",
+          "access": "free",
+          "published_at": "2026-10-20T15:25:25+00:00",
+          "kind": "reporting"
+        }
+      ],
+      "score": 78
+    },
+    {
+      "headline": "Stagwell Launches Unified Agentic Marketing Portfolio under Stagwell AI Masterbrand",
+      "summary": "Stagwell has consolidated its custom enterprise and self-service marketing automation solutions under a single 'Stagwell AI' masterbrand. A multimillion-dollar global advertising campaign is supporting the rollout to capture growing B2B demand for agentic technology.",
+      "why_it_matters": "Consolidating fragmented agentic capabilities under a unified masterbrand simplifies enterprise procurement and signals a major network-level push into AI-driven marketing execution.",
+      "category": "marketing",
+      "companies": [
+        "Stagwell",
+        "Code and Theory",
+        "GALE",
+        "Palantir",
+        "Adobe"
+      ],
+      "topics": [
+        "Artificial Intelligence",
+        "Marketing Automation",
+        "B2B Advertising",
+        "Enterprise Software"
+      ],
+      "sources": [
+        {
+          "publisher": "LBB - Little Black Book",
+          "url": "https://lbbonline.com/news/stagwell-launches-stagwell-ai",
+          "access": "free",
+          "published_at": "2026-10-21T09:42:46+00:00",
+          "kind": "reporting"
+        }
+      ],
+      "score": 78
+    },
+    {
+      "headline": "Zimperium and Sekoia Integrate Mobile Threat Defense with Autonomous SOC Platform",
+      "summary": "Zimperium and Sekoia have announced a technical integration that funnels AI-powered mobile threat telemetry directly into Sekoia's autonomous SOC platform. The partnership expands enterprise security visibility and response capabilities to cover mobile attack surfaces.",
+      "why_it_matters": "By bridging mobile security signals with core enterprise event monitoring, this integration provides SOC teams with automated context to investigate device-level compromises faster.",
+      "category": "industry",
+      "companies": [
+        "Zimperium",
+        "Sekoia"
+      ],
+      "topics": [
+        "Cybersecurity",
+        "AI",
+        "Mobile Security",
+        "Threat Defense"
+      ],
+      "sources": [
+        {
+          "publisher": "Zimperium",
+          "url": "https://zimperium.com/resources/zimperium-and-sekoia-bring-mobile-threat-telemetry-and-autonomous-investigation-to-security-operations?hs_amp=true",
+          "access": "free",
+          "published_at": "2026-10-21T05:58:53+00:00",
+          "kind": "reporting"
+        }
+      ],
+      "score": 75
+    },
+    {
+      "headline": "Lufthansa Group Debuts First Umbrella Brand Campaign Centered on Network Connectivity",
+      "summary": "Lufthansa Group has launched its first group-level consumer advertising campaign under the slogan \"Greatness is a Group effort\". The corporate initiative is designed to highlight hub connections, shared loyalty benefits, and services across its airline network.",
+      "why_it_matters": "Elevating the corporate umbrella brand while letting individual carriers preserve their identities allows large aviation groups to market unified network scale and loyalty advantages effectively.",
+      "category": "marketing",
+      "companies": [
+        "Lufthansa Group"
+      ],
+      "topics": [
+        "Brand Strategy",
+        "Aviation",
+        "Advertising",
+        "Corporate Identity"
+      ],
+      "sources": [
+        {
+          "publisher": "Aviation24.be",
+          "url": "https://www.aviation24.be/airlines/lufthansa-group/lufthansa-group-launches-first-consumer-campaign-for-umbrella-brand/",
+          "access": "free",
+          "published_at": "2026-10-21T09:48:02+00:00",
+          "kind": "reporting"
+        }
+      ],
+      "score": 68
+    }
+  ],
+  "coverage_start": "2026-10-20T04:42:37.976528+00:00",
+  "coverage_end": "2026-10-21T10:44:28.072469+00:00",
+  "today_in_a_sentence": "Recent aerospace and defense developments feature major contract expansions and technological milestones, including the U.S. Navy scaling its Gecko Robotics maintenance agreement to $300 million and RTX securing $729 million for counter-drone defense systems. Meanwhile, GE Aerospace more than doubled its GEnx turbofan deliveries to ease Boeing 787 production bottlenecks. In the marketing sector, Stagwell launched a unified agentic marketing portfolio under its AI masterbrand, and Lufthansa Group debuted its first group-level consumer advertising campaign."
+}
