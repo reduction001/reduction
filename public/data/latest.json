@@ -1,235 +1,240 @@
 {
-  "date": "2026-10-23",
-  "published_at": "2026-10-23T11:12:28.462347+00:00",
+  "date": "2026-10-26",
+  "published_at": "2026-10-26T10:50:41.127172+00:00",
   "stories": [
     {
-      "headline": "Pentagon and Lockheed Martin Agree to Landmark 10-Year, 850-Jet F-35 Framework",
-      "summary": "The Pentagon and Lockheed Martin on Oct. 22 announced a framework agreement to buy F-35 Joint Strike Fighters for the next 10 years. The U.S. military will buy at least 850 of those 1,560 aircraft over the decade covering the agreement, as well as procurement of initial spare parts and modification kits, the Pentagon and Lockheed said in statements.",
-      "why_it_matters": "This decade-long framework attempts to inject industrial stability and volume pricing into the F-35 enterprise, but its execution remains tied to upcoming congressional budget and multiyear procurement authorizations.",
+      "headline": "General Atomics Partners with Spirit Defense for FQ-42 Vengeance CCA Airframe Production",
+      "summary": "General Atomics Aeronautical Systems, Inc. announced a new partnership with Boeing subsidiary Spirit Defense to support airframe production for the FQ-42 Vengeance Collaborative Combat Aircraft. The collaboration is designed to provide manufacturing capacity and industrial depth to scale production faster while reducing single points of failure.",
+      "why_it_matters": "By pairing with established aerospace manufacturing assets, General Atomics strengthens production resilience for high-volume autonomous fighter programs demanded by defense customers.",
       "category": "industry",
       "companies": [
-        "Lockheed Martin",
-        "Northrop Grumman",
-        "BAE Systems"
+        "General Atomics Aeronautical Systems, Inc.",
+        "Spirit Defense",
+        "Boeing"
       ],
       "topics": [
-        "Procurement",
+        "Drones",
+        "Autonomy",
         "Manufacturing",
-        "Supply Chain"
+        "Supply Chains"
       ],
       "sources": [
         {
-          "publisher": "Air & Space Forces Magazine",
-          "url": "https://www.airandspaceforces.com/pentagon-lockheed-10-year-framework-buying-f-35/",
+          "publisher": "Defensehere",
+          "url": "https://defensehere.com/en/ga-asi-partners-with-boeings-subsidiary-for-fq-42-cca-production/",
           "access": "free",
-          "published_at": "2026-10-22T19:25:54+00:00",
+          "published_at": "2026-10-26T09:25:59+00:00",
+          "kind": "reporting"
+        },
+        {
+          "publisher": "Aviation Week (related reading)",
+          "url": "https://aviationweek.com/defense/aircraft-propulsion/general-atomics-asi-spirit-defense-partner-fq-42-production",
+          "access": "paywalled",
+          "kind": "supplemental reading; full text not accessed",
+          "published_at": "2026-10-23T19:02:39+00:00",
+          "used_as_evidence": false
+        }
+      ],
+      "score": 90
+    },
+    {
+      "headline": "Honeywell and Shield AI Complete Coordinated Multi-Aircraft ISR Demonstration Using Hivemind",
+      "summary": "Honeywell Aerospace and Shield AI concluded two autonomous flight demonstrations featuring a coordinated intelligence, surveillance, and reconnaissance mission near Phoenix. The test aircraft shared target information and divided mission tasks autonomously using Shield AI's Hivemind Enterprise.",
+      "why_it_matters": "Demonstrating multi-aircraft teaming built rapidly on an integrated autonomy stack highlights how non-traditional software layers can dramatically compress development cycles for aerospace primes.",
+      "category": "industry",
+      "companies": [
+        "Honeywell Aerospace",
+        "Shield AI"
+      ],
+      "topics": [
+        "Aviation",
+        "Autonomy",
+        "Drones"
+      ],
+      "sources": [
+        {
+          "publisher": "Aero-News Network",
+          "url": "https://www.aero-news.net/index.cfm?do=main.textpost&id=84082FF7-AE5D-451E-BB65-5DC889C837C2",
+          "access": "free",
+          "published_at": "2026-10-25T04:54:10+00:00",
           "kind": "reporting"
         }
       ],
-      "score": 92
+      "score": 88
     },
     {
-      "headline": "Denmark Selects Joint Strike Missile and Anthem for First Long-Range Strike Capability",
-      "summary": "Denmark announced on Thursday that it will buy its first long-range precision missiles, choosing the Anthem cruise missile from Covenant and Kongsberg's Joint Strike Missile, which can be carried by its F-35 fighter jets. Defence Minister Jeppe Bruus said the purchases follow a recommendation from the Chief of Defence and would let Denmark deter attacks and, if necessary, hit targets deep inside enemy territory.",
-      "why_it_matters": "The acquisition represents a vital capability shift for European NATO members seeking independent long-range deterrence and deep-strike options independent of uncertain U.S. resupply timelines.",
+      "headline": "Kongsberg Successfully Demonstrates Containerised Naval Strike Missile Launch System",
+      "summary": "Kongsberg completed live test firings of a self-funded prototype packaging four Naval Strike Missiles inside a standard 20-foot ISO shipping container. The modular configuration is designed for rapid land and maritime deployment across multiple platform types.",
+      "why_it_matters": "Containerized weapon systems offer buyers flexible integration paths for both land-based coastal defense and modular surface vessel operations.",
       "category": "industry",
       "companies": [
-        "Kongsberg",
-        "Covenant"
+        "Kongsberg"
       ],
       "topics": [
         "Missiles",
-        "Procurement",
+        "Naval",
         "Aviation"
       ],
       "sources": [
         {
-          "publisher": "CTech",
-          "url": "https://www.calcalistech.com/ctechnews/article/219o85jro",
+          "publisher": "Naval News",
+          "url": "https://www.navalnews.com/event-news/euronaval-2026/2026/10/kongsberg-demonstrates-containerised-nsm-in-a-box/",
           "access": "free",
-          "published_at": "2026-10-23T07:39:00+00:00",
+          "published_at": "2026-10-23T13:30:35+00:00",
           "kind": "reporting"
         }
       ],
-      "score": 85
+      "score": 87
     },
     {
-      "headline": "Apple Music Launches 'Made by Sound' Visual Identity Created Through Physical Frequencies",
-      "summary": "Apple Music developed a new creative system called Made by Sound that uses physical sound vibrations to generate the images defining how its brand looks. The creative team broke music into individual notes and played specific frequencies through a transducer positioned beneath a shallow bath of mineral oil to create ripples, waves, and light refractions.",
-      "why_it_matters": "By physically translating audio frequencies into raw visual material, this campaign demonstrates how brands can turn product truth into an engaging, participatory narrative rather than relying on standard decorative design refreshes.",
-      "category": "marketing",
-      "companies": [
-        "Apple Music",
-        "TBWA\\Media Arts Lab",
-        "Optical Arts"
-      ],
-      "topics": [
-        "Brand Identity",
-        "Design Systems",
-        "Creative Partnerships"
-      ],
-      "sources": [
-        {
-          "publisher": "ContentGrip",
-          "url": "https://www.contentgrip.com/apple-music-made-by-sound-fred-again/",
-          "access": "free",
-          "published_at": "2026-10-23T04:26:20+00:00",
-          "kind": "reporting"
-        }
-      ],
-      "score": 85
-    },
-    {
-      "headline": "Lockheed Martin Expands Texas Advanced Munitions Manufacturing Facility with $300 Million Investment",
-      "summary": "At the center of that growth is Lockheed Martin's Grand Prairie operation, where the company is investing $300 million and expanding its manufacturing footprint to more than 735,000ft2. The company also announced Hadrian will bring an innovative, highly automated machining cell to the Grand Prairie facility, operated by the world-class Lockheed Martin production workforce.",
-      "why_it_matters": "Integrating commercial automation cells directly into legacy defense production footprints highlights the defense sector's race to compress delivery schedules for critical tactical missile programs.",
+      "headline": "Lockheed Martin Awards Karman $218 Million Agreement to Support THAAD Interceptor Production",
+      "summary": "Karman signed a $218 million long-term agreement with Lockheed Martin to support deployable shroud systems for THAAD interceptors. The contract provides the manufacturer with long-term visibility to invest in production capacity and engineering personnel.",
+      "why_it_matters": "Expanding Tier-2 and Tier-3 supplier capacity is essential as prime contractors scale up manufacturing to meet surging global demand for missile defense systems.",
       "category": "industry",
       "companies": [
         "Lockheed Martin",
-        "Hadrian",
-        "GM Defense"
+        "Karman"
       ],
       "topics": [
-        "Manufacturing",
         "Missiles",
-        "Supply Chain"
+        "Manufacturing",
+        "Supply Chains",
+        "Procurement"
       ],
       "sources": [
         {
-          "publisher": "Defense and Munitions",
-          "url": "https://www.defenseandmunitions.com/news/lockheed-martin-expands-advanced-munitions-manufacturing-in-texas-driving-thousands-of-new-american-jobs/",
+          "publisher": "Defence Industry Europe",
+          "url": "https://defence-industry.eu/lockheed-martin-signs-218-million-agreement-with-karman-to-support-thaad-interceptor-production/",
           "access": "free",
-          "published_at": "2026-10-23T07:00:00+00:00",
+          "published_at": "2026-10-24T22:58:02+00:00",
+          "kind": "reporting"
+        }
+      ],
+      "score": 86
+    },
+    {
+      "headline": "France Receives First Archange Intelligence Aircraft at Évreux Air Base",
+      "summary": "France has received its first Archange Signals Intelligence and Electronic Warfare aircraft at Air Base 105 in Évreux. The arrival initiates a rigorous technical-operational trial phase overseen by France's Military Air Expertise Center before active deployment.",
+      "why_it_matters": "The platform introduces critical airborne reconnaissance tools designed to intercept communications and secure information dominance in complex electromagnetic environments.",
+      "category": "industry",
+      "companies": [],
+      "topics": [
+        "Aviation",
+        "Procurement",
+        "Cyber"
+      ],
+      "sources": [
+        {
+          "publisher": "Aviation News.eu",
+          "url": "https://aviationnews.eu/news/2026/10/frances-first-archange-intelligence-aircraft-arrives-at-evreux-air-base/",
+          "access": "free",
+          "published_at": "2026-10-26T09:15:13+00:00",
+          "kind": "reporting"
+        }
+      ],
+      "score": 85
+    },
+    {
+      "headline": "EDGE Group Demonstrates AI-Enabled Unmanned Vessels and Counter-Drone Coordination with UAE and US Navies",
+      "summary": "EDGE showcased sovereign autonomous systems and artificial intelligence in a naval demonstration conducted with the UAE and US navies. The event integrated unmanned surface vessels and advanced counter-drone defenses under a unified command layer.",
+      "why_it_matters": "Multi-domain exercises connecting sovereign architectures to allied operations provide valuable case studies in interoperability and command orchestration for unmanned systems.",
+      "category": "industry",
+      "companies": [
+        "EDGE Group"
+      ],
+      "topics": [
+        "Naval",
+        "Autonomy",
+        "Drones",
+        "Cyber"
+      ],
+      "sources": [
+        {
+          "publisher": "Defence Industry Europe",
+          "url": "https://defence-industry.eu/edge-integrates-autonomous-vessels-and-counter-drone-systems-in-demo-with-uae-and-u-s-navies/",
+          "access": "free",
+          "published_at": "2026-10-25T10:15:34+00:00",
+          "kind": "reporting"
+        }
+      ],
+      "score": 84
+    },
+    {
+      "headline": "Astroscale Expands Global Defense Contracts and Reports Strong Order Pipeline in FY2026 Earnings",
+      "summary": "Astroscale Holdings announced strong order projections during its semiannual business briefing alongside global expansion milestones. The company secured its first prime defense contract in the UK and formed new satellite defense partnerships in France.",
+      "why_it_matters": "Commercial space debris and orbital servicing providers are successfully pivoting toward sovereign space domain awareness and defense partnerships.",
+      "category": "industry",
+      "companies": [
+        "Astroscale Holdings",
+        "Exotrail",
+        "Emerica"
+      ],
+      "topics": [
+        "Space",
+        "Procurement",
+        "Earnings"
+      ],
+      "sources": [
+        {
+          "publisher": "finance.biggo.com",
+          "url": "https://finance.biggo.com/news/JP_186A.T_2026-10-16",
+          "access": "free",
+          "published_at": "2026-10-26T01:34:00+00:00",
           "kind": "reporting"
         }
       ],
       "score": 82
     },
     {
-      "headline": "Elbit Systems Completes Acquisition of Canadian Underwater Drone Maker ISE",
-      "summary": "Elbit Systems Ltd. has completed the acquisition of International Submarine Engineering Ltd. (ISE), a Canada-based company specializing in advanced autonomous underwater and remotely operated systems for the maritime domain. The addition of ISE's underwater autonomous technologies is intended to expand Elbit Systems' capabilities in underwater Intelligence, Surveillance and Reconnaissance (ISR), Mine Counter Measures (MCM) and Anti-Submarine Warfare (ASW).",
-      "why_it_matters": "Consolidating mature subsea robotics capabilities accelerates prime contractors' capabilities in autonomous underwater warfare and maritime surveillance without building technology stacks from scratch.",
-      "category": "industry",
-      "companies": [
-        "Elbit Systems",
-        "International Submarine Engineering Ltd."
-      ],
-      "topics": [
-        "Drones",
-        "Autonomy",
-        "Naval",
-        "M&A"
-      ],
-      "sources": [
-        {
-          "publisher": "Naval News",
-          "url": "https://www.navalnews.com/naval-news/2026/10/elbit-systems-expands-underwater-and-maritime-autonomy-capabilities-with-acquisition-of-ise/",
-          "access": "free",
-          "published_at": "2026-10-22T13:21:05+00:00",
-          "kind": "reporting"
-        }
-      ],
-      "score": 78
-    },
-    {
-      "headline": "Lufthansa Group Debuts First B2C Umbrella Brand Campaign Centered on Network Connectivity",
-      "summary": "The Lufthansa Group launched its first B2C brand campaign under the slogan \"Greatness is a Group effort,\" addressing passengers directly for the first time in its end-customer marketing. The initiative highlights network benefits across individual subsidiaries like Lufthansa, SWISS, Austrian Airlines, Brussels Airlines, and Eurowings by coordinating flight schedules and shared infrastructure.",
-      "why_it_matters": "Unifying disparate subsidiary brands under a single overarching B2C narrative enables legacy aviation groups to compete more effectively against independent low-cost carriers by emphasizing scale, shared hubs, and frequent flyer integration.",
+      "headline": "Australian Guild of Screen Composers and Sonar Co-Founder Launch 'Human Made' Campaign Against AI Training",
+      "summary": "Four-time Screen Music Award nominee Antony Partos and the Australian Guild of Screen Composers will launch Human Made at Wednesday's APRA AMCOS Screen Music Awards. It opposes using Australian creative work to train AI without creators' consent, licensing or fair payment as the government considers weakening copyright protections in favour of AI giants.",
+      "why_it_matters": "B2B creative initiatives that leverage live industry events and physical activations provide a powerful platform to rally professional communities against unauthorized intellectual property exploitation.",
       "category": "marketing",
       "companies": [
-        "Lufthansa Group",
-        "Mother"
+        "Sonar Music"
       ],
       "topics": [
-        "Brand Strategy",
-        "B2C Advertising",
-        "Aviation Marketing"
+        "B2B Creativity",
+        "Brand Platforms",
+        "Activism"
       ],
       "sources": [
         {
-          "publisher": "Aviation.Direct",
-          "url": "https://aviation.direct/en/lufthansa-group-startet-b2c-markenkampagne-zur-repositionierung-der-dachmarke",
+          "publisher": "LBB - Little Black Book",
+          "url": "https://lbbonline.com/news/sonar-antony-partos-human-made",
           "access": "free",
-          "published_at": "2026-10-23T05:20:52+00:00",
+          "published_at": "2026-10-25T23:41:24+00:00",
           "kind": "reporting"
         }
       ],
-      "score": 78
+      "score": 82
     },
     {
-      "headline": "NASA Awards AstraQua $1.27 Million SBIR Phase II Contract for Onboard Autonomous Health Intelligence",
-      "summary": "Targeting the operational limits of autonomous systems operating beyond continuous communications, physical artificial intelligence developer AstraQua Inc. announced on Wednesday, October 21, 2026, that it has secured a $1,274,990 Small Business Innovation Research (SBIR) Phase II contract from NASA. The award funds the development of AstraSense, an onboard software suite engineered to provide operational self-awareness by detecting component degradation, diagnosing emerging faults, and predicting potential failures before they compromise mission execution.",
-      "why_it_matters": "Edge-computed machine health intelligence enables autonomous systems to make real-time survival decisions in communication-denied environments where traditional cloud diagnostics fail.",
-      "category": "industry",
+      "headline": "WPP Stream Introduces 'The Three Golden Seats' Open Call for Canadian Innovators",
+      "summary": "With the invite-only gathering at capacity, organisers have created a modern spin on the classic Golden Ticket. Rather than closing registration, WPP Stream has reserved three dedicated delegate seats specifically for Canada's rising founders, grassroots innovators, and creative visionaries to join senior brand marketers and technology leaders in the room.",
+      "why_it_matters": "Inverting standard exclusive conference admission models through open problem-solving challenges helps brands surface unexpected grassroots talent and spark fresh B2B collaboration.",
+      "category": "marketing",
       "companies": [
-        "AstraQua Inc."
+        "WPP"
       ],
       "topics": [
-        "Space",
-        "Autonomy",
-        "Cyber",
-        "Procurement"
+        "B2B Creativity",
+        "Events",
+        "Brand Platforms"
       ],
       "sources": [
         {
-          "publisher": "SatNews Publishers",
-          "url": "https://satnews.com/2026/10/22/nasa-awards-astraqua-1-27-million-phase-ii-contract-for-autonomous-machine-health-intelligence/",
+          "publisher": "LBB - Little Black Book",
+          "url": "https://lbbonline.com/news/wpp-stream-the-three-golden-seats",
           "access": "free",
-          "published_at": "2026-10-22T14:49:00+00:00",
+          "published_at": "2026-10-23T17:04:42+00:00",
           "kind": "reporting"
         }
       ],
-      "score": 75
-    },
-    {
-      "headline": "Voyant Demonstrates GNSS-Denied Radar Navigation for UK Ministry of Defence on Autonomous Surface Vessel",
-      "summary": "Voyant has successfully demonstrated its advanced navigation software to the UK Ministry of Defence (MOD), marking an important step in the development of resilient Position, Navigation and Timing (PNT) capabilities for autonomous maritime systems operating in contested environments. Operating in real time, Voyant's software used advanced particle filter algorithms to compare live radar imagery with pre-existing reference maps of the terrain to enable the vessel to determine its position without relying on Global Navigation Satellite Systems (GNSS).",
-      "why_it_matters": "Radar-based terrain matching software reduces reliance on vulnerable satellite navigation feeds, enhancing tactical survivability for uncrewed platforms operating in electronic warfare environments.",
-      "category": "industry",
-      "companies": [
-        "Voyant"
-      ],
-      "topics": [
-        "Drones",
-        "Naval",
-        "Cyber",
-        "Autonomy"
-      ],
-      "sources": [
-        {
-          "publisher": "Naval News",
-          "url": "https://www.navalnews.com/naval-news/2026/10/voyant-successfully-demonstrates-gnss-denied-navigation-for-uk-mod/",
-          "access": "free",
-          "published_at": "2026-10-22T07:55:30+00:00",
-          "kind": "reporting"
-        }
-      ],
-      "score": 74
-    },
-    {
-      "headline": "US Army Issues Sources Sought Notice for 155mm Howitzer Barrel Manufacturers",
-      "summary": "The U.S. Army is looking for new manufacturers to build barrels for 155mm howitzers amid concerns at the Pentagon that the government's only plant for manufacturing them can't keep up with the increased demand for artillery. The Army wants contractors that can manufacture up to 10 barrels per month within three years, according to the Sources Sought notice.",
-      "why_it_matters": "Diversifying production away from single-source facilities like Watervliet Arsenal is vital to resolving long-standing barrel replacement bottlenecks driven by high artillery usage.",
-      "category": "industry",
-      "companies": [],
-      "topics": [
-        "Manufacturing",
-        "Procurement",
-        "Supply Chain"
-      ],
-      "sources": [
-        {
-          "publisher": "Defense News",
-          "url": "https://www.defensenews.com/news/your-military/2026/10/22/us-army-seeks-manufacturers-for-155mm-howitzer-barrels-amid-boost-in-demand/",
-          "access": "unknown",
-          "published_at": "2026-10-22T19:27:22+00:00",
-          "kind": "reporting"
-        }
-      ],
-      "score": 70
+      "score": 80
     }
   ],
-  "coverage_start": "2026-10-22T05:14:44.474924+00:00",
-  "coverage_end": "2026-10-23T11:12:28.462347+00:00",
-  "today_in_a_sentence": "The Pentagon and Lockheed Martin agreed to a 10-year framework to purchase at least 850 F-35 aircraft, while Lockheed also expanded its Texas munitions manufacturing facility with a $300 million investment. Denmark selected the Anthem cruise missile and Kongsberg's Joint Strike Missile for its F-35 fleet. Additionally, Apple Music launched the Made by Sound visual identity, created by playing specific frequencies through mineral oil."
+  "coverage_start": "2026-10-23T05:12:28.462347+00:00",
+  "coverage_end": "2026-10-26T10:50:41.127172+00:00",
+  "today_in_a_sentence": "General Atomics partnered with Spirit Defense for FQ-42 Vengeance airframe production, while Honeywell and Shield AI completed autonomous flight demonstrations using Hivemind. Kongsberg tested a containerised Naval Strike Missile launcher, and Lockheed Martin awarded Karman a $218 million agreement for THAAD interceptors. Meanwhile, France received its first Archange intelligence aircraft, and Astroscale expanded its global defense contracts."
 }

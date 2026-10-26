@@ -1,0 +1,240 @@
+{
+  "date": "2026-10-26",
+  "published_at": "2026-10-26T10:50:41.127172+00:00",
+  "stories": [
+    {
+      "headline": "General Atomics Partners with Spirit Defense for FQ-42 Vengeance CCA Airframe Production",
+      "summary": "General Atomics Aeronautical Systems, Inc. announced a new partnership with Boeing subsidiary Spirit Defense to support airframe production for the FQ-42 Vengeance Collaborative Combat Aircraft. The collaboration is designed to provide manufacturing capacity and industrial depth to scale production faster while reducing single points of failure.",
+      "why_it_matters": "By pairing with established aerospace manufacturing assets, General Atomics strengthens production resilience for high-volume autonomous fighter programs demanded by defense customers.",
+      "category": "industry",
+      "companies": [
+        "General Atomics Aeronautical Systems, Inc.",
+        "Spirit Defense",
+        "Boeing"
+      ],
+      "topics": [
+        "Drones",
+        "Autonomy",
+        "Manufacturing",
+        "Supply Chains"
+      ],
+      "sources": [
+        {
+          "publisher": "Defensehere",
+          "url": "https://defensehere.com/en/ga-asi-partners-with-boeings-subsidiary-for-fq-42-cca-production/",
+          "access": "free",
+          "published_at": "2026-10-26T09:25:59+00:00",
+          "kind": "reporting"
+        },
+        {
+          "publisher": "Aviation Week (related reading)",
+          "url": "https://aviationweek.com/defense/aircraft-propulsion/general-atomics-asi-spirit-defense-partner-fq-42-production",
+          "access": "paywalled",
+          "kind": "supplemental reading; full text not accessed",
+          "published_at": "2026-10-23T19:02:39+00:00",
+          "used_as_evidence": false
+        }
+      ],
+      "score": 90
+    },
+    {
+      "headline": "Honeywell and Shield AI Complete Coordinated Multi-Aircraft ISR Demonstration Using Hivemind",
+      "summary": "Honeywell Aerospace and Shield AI concluded two autonomous flight demonstrations featuring a coordinated intelligence, surveillance, and reconnaissance mission near Phoenix. The test aircraft shared target information and divided mission tasks autonomously using Shield AI's Hivemind Enterprise.",
+      "why_it_matters": "Demonstrating multi-aircraft teaming built rapidly on an integrated autonomy stack highlights how non-traditional software layers can dramatically compress development cycles for aerospace primes.",
+      "category": "industry",
+      "companies": [
+        "Honeywell Aerospace",
+        "Shield AI"
+      ],
+      "topics": [
+        "Aviation",
+        "Autonomy",
+        "Drones"
+      ],
+      "sources": [
+        {
+          "publisher": "Aero-News Network",
+          "url": "https://www.aero-news.net/index.cfm?do=main.textpost&id=84082FF7-AE5D-451E-BB65-5DC889C837C2",
+          "access": "free",
+          "published_at": "2026-10-25T04:54:10+00:00",
+          "kind": "reporting"
+        }
+      ],
+      "score": 88
+    },
+    {
+      "headline": "Kongsberg Successfully Demonstrates Containerised Naval Strike Missile Launch System",
+      "summary": "Kongsberg completed live test firings of a self-funded prototype packaging four Naval Strike Missiles inside a standard 20-foot ISO shipping container. The modular configuration is designed for rapid land and maritime deployment across multiple platform types.",
+      "why_it_matters": "Containerized weapon systems offer buyers flexible integration paths for both land-based coastal defense and modular surface vessel operations.",
+      "category": "industry",
+      "companies": [
+        "Kongsberg"
+      ],
+      "topics": [
+        "Missiles",
+        "Naval",
+        "Aviation"
+      ],
+      "sources": [
+        {
+          "publisher": "Naval News",
+          "url": "https://www.navalnews.com/event-news/euronaval-2026/2026/10/kongsberg-demonstrates-containerised-nsm-in-a-box/",
+          "access": "free",
+          "published_at": "2026-10-23T13:30:35+00:00",
+          "kind": "reporting"
+        }
+      ],
+      "score": 87
+    },
+    {
+      "headline": "Lockheed Martin Awards Karman $218 Million Agreement to Support THAAD Interceptor Production",
+      "summary": "Karman signed a $218 million long-term agreement with Lockheed Martin to support deployable shroud systems for THAAD interceptors. The contract provides the manufacturer with long-term visibility to invest in production capacity and engineering personnel.",
+      "why_it_matters": "Expanding Tier-2 and Tier-3 supplier capacity is essential as prime contractors scale up manufacturing to meet surging global demand for missile defense systems.",
+      "category": "industry",
+      "companies": [
+        "Lockheed Martin",
+        "Karman"
+      ],
+      "topics": [
+        "Missiles",
+        "Manufacturing",
+        "Supply Chains",
+        "Procurement"
+      ],
+      "sources": [
+        {
+          "publisher": "Defence Industry Europe",
+          "url": "https://defence-industry.eu/lockheed-martin-signs-218-million-agreement-with-karman-to-support-thaad-interceptor-production/",
+          "access": "free",
+          "published_at": "2026-10-24T22:58:02+00:00",
+          "kind": "reporting"
+        }
+      ],
+      "score": 86
+    },
+    {
+      "headline": "France Receives First Archange Intelligence Aircraft at Évreux Air Base",
+      "summary": "France has received its first Archange Signals Intelligence and Electronic Warfare aircraft at Air Base 105 in Évreux. The arrival initiates a rigorous technical-operational trial phase overseen by France's Military Air Expertise Center before active deployment.",
+      "why_it_matters": "The platform introduces critical airborne reconnaissance tools designed to intercept communications and secure information dominance in complex electromagnetic environments.",
+      "category": "industry",
+      "companies": [],
+      "topics": [
+        "Aviation",
+        "Procurement",
+        "Cyber"
+      ],
+      "sources": [
+        {
+          "publisher": "Aviation News.eu",
+          "url": "https://aviationnews.eu/news/2026/10/frances-first-archange-intelligence-aircraft-arrives-at-evreux-air-base/",
+          "access": "free",
+          "published_at": "2026-10-26T09:15:13+00:00",
+          "kind": "reporting"
+        }
+      ],
+      "score": 85
+    },
+    {
+      "headline": "EDGE Group Demonstrates AI-Enabled Unmanned Vessels and Counter-Drone Coordination with UAE and US Navies",
+      "summary": "EDGE showcased sovereign autonomous systems and artificial intelligence in a naval demonstration conducted with the UAE and US navies. The event integrated unmanned surface vessels and advanced counter-drone defenses under a unified command layer.",
+      "why_it_matters": "Multi-domain exercises connecting sovereign architectures to allied operations provide valuable case studies in interoperability and command orchestration for unmanned systems.",
+      "category": "industry",
+      "companies": [
+        "EDGE Group"
+      ],
+      "topics": [
+        "Naval",
+        "Autonomy",
+        "Drones",
+        "Cyber"
+      ],
+      "sources": [
+        {
+          "publisher": "Defence Industry Europe",
+          "url": "https://defence-industry.eu/edge-integrates-autonomous-vessels-and-counter-drone-systems-in-demo-with-uae-and-u-s-navies/",
+          "access": "free",
+          "published_at": "2026-10-25T10:15:34+00:00",
+          "kind": "reporting"
+        }
+      ],
+      "score": 84
+    },
+    {
+      "headline": "Astroscale Expands Global Defense Contracts and Reports Strong Order Pipeline in FY2026 Earnings",
+      "summary": "Astroscale Holdings announced strong order projections during its semiannual business briefing alongside global expansion milestones. The company secured its first prime defense contract in the UK and formed new satellite defense partnerships in France.",
+      "why_it_matters": "Commercial space debris and orbital servicing providers are successfully pivoting toward sovereign space domain awareness and defense partnerships.",
+      "category": "industry",
+      "companies": [
+        "Astroscale Holdings",
+        "Exotrail",
+        "Emerica"
+      ],
+      "topics": [
+        "Space",
+        "Procurement",
+        "Earnings"
+      ],
+      "sources": [
+        {
+          "publisher": "finance.biggo.com",
+          "url": "https://finance.biggo.com/news/JP_186A.T_2026-10-16",
+          "access": "free",
+          "published_at": "2026-10-26T01:34:00+00:00",
+          "kind": "reporting"
+        }
+      ],
+      "score": 82
+    },
+    {
+      "headline": "Australian Guild of Screen Composers and Sonar Co-Founder Launch 'Human Made' Campaign Against AI Training",
+      "summary": "Four-time Screen Music Award nominee Antony Partos and the Australian Guild of Screen Composers will launch Human Made at Wednesday's APRA AMCOS Screen Music Awards. It opposes using Australian creative work to train AI without creators' consent, licensing or fair payment as the government considers weakening copyright protections in favour of AI giants.",
+      "why_it_matters": "B2B creative initiatives that leverage live industry events and physical activations provide a powerful platform to rally professional communities against unauthorized intellectual property exploitation.",
+      "category": "marketing",
+      "companies": [
+        "Sonar Music"
+      ],
+      "topics": [
+        "B2B Creativity",
+        "Brand Platforms",
+        "Activism"
+      ],
+      "sources": [
+        {
+          "publisher": "LBB - Little Black Book",
+          "url": "https://lbbonline.com/news/sonar-antony-partos-human-made",
+          "access": "free",
+          "published_at": "2026-10-25T23:41:24+00:00",
+          "kind": "reporting"
+        }
+      ],
+      "score": 82
+    },
+    {
+      "headline": "WPP Stream Introduces 'The Three Golden Seats' Open Call for Canadian Innovators",
+      "summary": "With the invite-only gathering at capacity, organisers have created a modern spin on the classic Golden Ticket. Rather than closing registration, WPP Stream has reserved three dedicated delegate seats specifically for Canada's rising founders, grassroots innovators, and creative visionaries to join senior brand marketers and technology leaders in the room.",
+      "why_it_matters": "Inverting standard exclusive conference admission models through open problem-solving challenges helps brands surface unexpected grassroots talent and spark fresh B2B collaboration.",
+      "category": "marketing",
+      "companies": [
+        "WPP"
+      ],
+      "topics": [
+        "B2B Creativity",
+        "Events",
+        "Brand Platforms"
+      ],
+      "sources": [
+        {
+          "publisher": "LBB - Little Black Book",
+          "url": "https://lbbonline.com/news/wpp-stream-the-three-golden-seats",
+          "access": "free",
+          "published_at": "2026-10-23T17:04:42+00:00",
+          "kind": "reporting"
+        }
+      ],
+      "score": 80
+    }
+  ],
+  "coverage_start": "2026-10-23T05:12:28.462347+00:00",
+  "coverage_end": "2026-10-26T10:50:41.127172+00:00",
+  "today_in_a_sentence": "General Atomics partnered with Spirit Defense for FQ-42 Vengeance airframe production, while Honeywell and Shield AI completed autonomous flight demonstrations using Hivemind. Kongsberg tested a containerised Naval Strike Missile launcher, and Lockheed Martin awarded Karman a $218 million agreement for THAAD interceptors. Meanwhile, France received its first Archange intelligence aircraft, and Astroscale expanded its global defense contracts."
+}
