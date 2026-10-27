@@ -1,0 +1,348 @@
+{
+  "date": "2026-10-27",
+  "published_at": "2026-10-27T11:46:25.881240+00:00",
+  "stories": [
+    {
+      "headline": "US Air Force Awards Lockheed Martin $694 Million Contract to Produce AGM-183A ARRW Hypersonic Missiles",
+      "summary": "The U.S. Air Force has awarded Lockheed Martin a $694 million contract to transition the AGM-183A ARRW hypersonic missile program from testing into full-scale production. This milestone reverses an earlier 2023 cancellation decision and positions ARRW as the first U.S. Air Force hypersonic weapon to enter production.",
+      "why_it_matters": "Reviving the ARRW program shifts the competitive landscape for high-speed strike weapons, giving Lockheed Martin a major production advantage over competing air-breathing cruise missile designs.",
+      "category": "industry",
+      "companies": [
+        "Lockheed Martin"
+      ],
+      "topics": [
+        "Hypersonic Missiles",
+        "Procurement",
+        "Missile Defense"
+      ],
+      "sources": [
+        {
+          "publisher": "The Aviationist",
+          "url": "https://theaviationist.com/2026/10/27/usaf-agm-183a-arrw-production/",
+          "access": "free",
+          "published_at": "2026-10-27T11:30:00+00:00",
+          "kind": "reporting"
+        },
+        {
+          "publisher": "Мілітарний",
+          "url": "https://militarnyi.com/en/news/u-s-resumes-agm-183a-arrw-hypersonic-missile-procurement-after-2023-program-cancellation/",
+          "access": "free",
+          "published_at": "2026-10-27T11:16:38+00:00",
+          "kind": "reporting"
+        },
+        {
+          "publisher": "Air Data News",
+          "url": "https://www.airdatanews.com/us-air-force-puts-once-canceled-arrw-hypersonic-missile-into-production/",
+          "access": "free",
+          "published_at": "2026-10-27T11:11:10+00:00",
+          "kind": "reporting"
+        }
+      ],
+      "score": 93
+    },
+    {
+      "headline": "US Navy Selects USS Colorado as First AUKUS Submarine for Australian Rotations Starting in 2027",
+      "summary": "The trilateral AUKUS partnership has designated the Virginia-class fast-attack submarine USS Colorado as the inaugural vessel for Submarine Rotational Force-West at HMAS Stirling in Western Australia. Operations for the rotational force are scheduled to commence in late 2027 to accelerate regional deterrence infrastructure.",
+      "why_it_matters": "Establishing a permanent rotational presence creates predictable maintenance and supply chain requirements for defense contractors supporting allied submarine operations in the Indo-Pacific.",
+      "category": "industry",
+      "companies": [],
+      "topics": [
+        "Naval",
+        "Submarines",
+        "Procurement"
+      ],
+      "sources": [
+        {
+          "publisher": "Army Recognition",
+          "url": "https://www.armyrecognition.com/news/navy-news/2026/us-navy-selects-uss-colorado-as-first-nuclear-submarine-for-aukus-rotations-in-australia-from-2027",
+          "access": "free",
+          "published_at": "2026-10-27T10:39:48+00:00",
+          "kind": "reporting"
+        },
+        {
+          "publisher": "Navy Lookout",
+          "url": "https://www.navylookout.com/us-navy-names-uss-colorado-as-first-aukus-submarine-based-in-australia/",
+          "access": "free",
+          "published_at": "2026-10-27T10:39:45+00:00",
+          "kind": "reporting"
+        },
+        {
+          "publisher": "NavalToday",
+          "url": "https://www.navaltoday.com/2026/10/27/first-virginia-class-submarine-selected-for-aukus-rotational-force",
+          "access": "free",
+          "published_at": "2026-10-27T09:35:56+00:00",
+          "kind": "reporting"
+        },
+        {
+          "publisher": "Defense News",
+          "url": "https://www.defensenews.com/naval/2026/10/26/pentagon-announces-first-us-submarine-joining-submarine-rotational-force-west/",
+          "access": "unknown",
+          "published_at": "2026-10-26T18:50:06+00:00",
+          "kind": "reporting"
+        }
+      ],
+      "score": 89
+    },
+    {
+      "headline": "Helsing Unveils Contra AI-Controlled Air Defense System and Containerized Interceptors",
+      "summary": "Defense technology startup Helsing announced Contra, an AI-driven air defense system designed to track and engage massed drone and missile threats simultaneously. The company also introduced two new container-launched interceptors, the jet-powered AD-1 Inferno and the rocket-propelled AD-2 Ambush, targeting low-cost counter-drone operations.",
+      "why_it_matters": "The development reflects an industry-wide push among European defense suppliers to build cost-effective, modular interceptor architectures that bypass legacy supply chain constraints.",
+      "category": "industry",
+      "companies": [],
+      "topics": [
+        "AI",
+        "Drones",
+        "Missile Defense"
+      ],
+      "sources": [
+        {
+          "publisher": "Breaking Defense",
+          "url": "https://breakingdefense.com/2026/10/helsing-rolls-out-contra-air-defense-design-plus-two-new-inteceptors/",
+          "access": "free",
+          "published_at": "2026-10-26T18:40:16+00:00",
+          "kind": "reporting"
+        },
+        {
+          "publisher": "Defense News",
+          "url": "https://www.defensenews.com/global/europe/2026/10/26/helsing-unveils-interceptor-missiles-designed-to-chase-russias-fast-flying-geran-drones/",
+          "access": "unknown",
+          "published_at": "2026-10-26T14:53:32+00:00",
+          "kind": "reporting"
+        }
+      ],
+      "score": 88
+    },
+    {
+      "headline": "Airbus Wins European Space Agency Contract to Build Two Additional Second-Generation Galileo Satellites",
+      "summary": "The European Space Agency awarded Airbus a contract to build two additional second-generation Galileo satellites to support European navigation services. The spacecraft will incorporate fully digital payloads, inter-satellite links, and advanced anti-jamming capabilities.",
+      "why_it_matters": "The contract reinforces European strategic autonomy while providing Airbus with long-term program continuity for its high-precision satellite manufacturing infrastructure.",
+      "category": "industry",
+      "companies": [
+        "Airbus"
+      ],
+      "topics": [
+        "space",
+        "satellites",
+        "procurement"
+      ],
+      "sources": [
+        {
+          "publisher": "Airbus",
+          "url": "https://www.airbus.com/en/newsroom/press-releases/2026-10-airbus-awarded-contract-for-two-additional-galileo-satellites",
+          "access": "free",
+          "published_at": "2026-10-27T10:00:00+00:00",
+          "kind": "company announcement"
+        }
+      ],
+      "score": 88
+    },
+    {
+      "headline": "Global Ordnance and Sparkz Partner to Establish Domestic Drone Battery Manufacturing",
+      "summary": "Global Ordnance Holdings signed a Master Supply Agreement with Sparkz to establish a fully domestic U.S. supply chain for high-performance drone batteries. The partnership targets initial production of 210,000 NDAA-compliant battery packs beginning in early 2027.",
+      "why_it_matters": "Securing sovereign manufacturing for high-energy-density batteries addresses a critical bottleneck as the Pentagon accelerates small-drone fielding targets.",
+      "category": "industry",
+      "companies": [],
+      "topics": [
+        "Drones",
+        "Supply Chain",
+        "Manufacturing"
+      ],
+      "sources": [
+        {
+          "publisher": "Defense and Munitions",
+          "url": "https://www.defenseandmunitions.com/news/global-ordnance-holdings-sparkz-establish-first-fully-domestic-sourced-manufactured-drone-battery-production/",
+          "access": "free",
+          "published_at": "2026-10-27T07:00:00+00:00",
+          "kind": "reporting"
+        }
+      ],
+      "score": 85
+    },
+    {
+      "headline": "Federal, Mossberg, and Palladyne AI Collaborate on SwarmShot Autonomous Drone Defense System",
+      "summary": "Federal Ammunition and Mossberg are partnering with Palladyne AI to develop SwarmShot, a modular, reusable kinetic defense system. The platform employs armed drone swarms and advanced software to shield tactical troops from unmanned aircraft system threats.",
+      "why_it_matters": "Integrating traditional munitions engineering with software-driven autonomy offers defense buyers scalable solutions for tactical force protection.",
+      "category": "industry",
+      "companies": [],
+      "topics": [
+        "Drones",
+        "AI",
+        "Autonomous Systems"
+      ],
+      "sources": [
+        {
+          "publisher": "American Rifleman",
+          "url": "https://www.americanrifleman.org/content/federal-mossberg-collaborate-on-autonomous-airborne-drone-defense/",
+          "access": "free",
+          "published_at": "2026-10-27T11:36:46+00:00",
+          "kind": "reporting"
+        }
+      ],
+      "score": 84
+    },
+    {
+      "headline": "General Dynamics Secures U.S. Army Contract for RDEP-P 2.0 Cyber and Electronic Warfare Capabilities",
+      "summary": "General Dynamics Mission Systems won a U.S. Army contract to deliver the Radio Delivery Effects Platform-Portable 2.0 system. The program utilizes the company's modular Rampart chassis technology to support tactical cyber and electronic warfare missions at the edge.",
+      "why_it_matters": "Open-architecture chassis designs provide military buyers with flexible infrastructure needed to rapidly deploy and update software-centric electronic warfare payloads.",
+      "category": "industry",
+      "companies": [
+        "General Dynamics"
+      ],
+      "topics": [
+        "Cyber",
+        "Procurement",
+        "Electronic Warfare"
+      ],
+      "sources": [
+        {
+          "publisher": "Defensehere",
+          "url": "https://defensehere.com/en/general-dynamics-wins-u-s-army-contract-for-cyber-and-electronic-warfare-capabilities/",
+          "access": "free",
+          "published_at": "2026-10-27T08:05:35+00:00",
+          "kind": "reporting"
+        }
+      ],
+      "score": 82
+    },
+    {
+      "headline": "L'Oréal Paris Integrates Make-Up Into Narrative Storytelling for Season 2 of Cat's Eyes",
+      "summary": "L'Oréal Paris partnered with TF1's Cat's Eyes series via McCann Paris to use cosmetics as a direct narrative device rather than traditional advertising placements. The campaign features a branded television film, exclusive behind-the-scenes beauty capsules, and product integration within the storyline.",
+      "why_it_matters": "Embedding brand products directly into established popular culture narratives helps bypass commercial resistance and elevates product desirability through context.",
+      "category": "marketing",
+      "companies": [
+        "L’Oréal Paris",
+        "McCann Paris"
+      ],
+      "topics": [
+        "brand platforms",
+        "storytelling",
+        "buyer experience"
+      ],
+      "sources": [
+        {
+          "publisher": "LBB - Little Black Book",
+          "url": "https://lbbonline.com/news/mccann-brings-l-oreal-paris-into-the-world-of-cat-s-eyes",
+          "access": "free",
+          "published_at": "2026-10-27T11:26:19+00:00",
+          "kind": "reporting"
+        }
+      ],
+      "score": 81
+    },
+    {
+      "headline": "Skyfly Technologies Closes $10 Million Seed Round to Fund Axe eVTOL Certification",
+      "summary": "British eVTOL developer Skyfly closed a $10 million seed funding round led by HICO Investment Group to transition its two-seat Axe aircraft from prototype to certified production. The financing leverages updated FAA Light Sport Aircraft rules to accelerate commercial delivery and support hybrid defense variants.",
+      "why_it_matters": "Regulatory shifts in civil aviation provide novel developers with expedited pathways to market, influencing commercial strategies for emerging vertical-lift platforms.",
+      "category": "industry",
+      "companies": [],
+      "topics": [
+        "Aviation",
+        "Autonomous Systems",
+        "Drones"
+      ],
+      "sources": [
+        {
+          "publisher": "Aerospace Manufacturing and Design",
+          "url": "https://www.aerospacemanufacturinganddesign.com/news/evtol-developer-skyfly-lands-10-million-seed-round/",
+          "access": "free",
+          "published_at": "2026-10-27T07:00:00+00:00",
+          "kind": "reporting"
+        }
+      ],
+      "score": 80
+    },
+    {
+      "headline": "Enterprise Singapore Launches 'What's Next?' Campaign with Gryphon Tea Blend Activation",
+      "summary": "Enterprise Singapore debuted 'The Growth Brew' tea collection via The Secret Little Agency at SWITCH 2026 to spark B2B growth conversations among enterprises. The interactive trade floor experience features five specialty tea blends designed to prompt strategic reflection during uncertain economic conditions.",
+      "why_it_matters": "Using tangible, sensory product activations transforms abstract business advisory services into memorable, interactive peer discussions.",
+      "category": "marketing",
+      "companies": [
+        "Enterprise Singapore",
+        "The Secret Little Agency",
+        "Gryphon Tea"
+      ],
+      "topics": [
+        "activations",
+        "buyer experiences",
+        "b2b marketing"
+      ],
+      "sources": [
+        {
+          "publisher": "LBB - Little Black Book",
+          "url": "https://lbbonline.com/news/enterprise-singapore-brews-up-growth-conversations",
+          "access": "free",
+          "published_at": "2026-10-27T10:22:35+00:00",
+          "kind": "reporting"
+        },
+        {
+          "publisher": "marketech apac",
+          "url": "https://marketech-apac.com/enterprise-singapore-brews-up-business-growth-conversations-with-whats-next-campaign-via-tsla/",
+          "access": "free",
+          "published_at": "2026-10-27T03:58:50+00:00",
+          "kind": "reporting"
+        }
+      ],
+      "score": 80
+    },
+    {
+      "headline": "Messe Berlin Announces Fresh Food Expo Asia Pacific to Debut in Singapore in November 2027",
+      "summary": "Messe Berlin partnered with the Singapore Tourism Board to launch Fresh Food Expo Asia Pacific as an international B2B trade show bridging the regional fresh food supply chain. The inaugural event will take place at Sands Expo & Convention Centre across core sectors including fresh food, agricultural technology, and logistics.",
+      "why_it_matters": "Establishing new dedicated trade platforms allows global event organisers to capture enterprise demand stemming from regional supply chain transformations and food security priorities.",
+      "category": "marketing",
+      "companies": [
+        "Messe Berlin",
+        "Singapore Tourism Board"
+      ],
+      "topics": [
+        "trade-shows",
+        "supply chains",
+        "b2b marketing"
+      ],
+      "sources": [
+        {
+          "publisher": "FruitToday",
+          "url": "https://fruittoday.com/en/messe-berlin-launches-fresh-food-expo-asia-pacific-in-singapore/",
+          "access": "free",
+          "published_at": "2026-10-27T10:02:12+00:00",
+          "kind": "reporting"
+        },
+        {
+          "publisher": "Fruitnet",
+          "url": "https://www.fruitnet.com/asiafruit/messe-berlin-launches-fresh-food-expo-asia-pacific-in-singapore/273131.article",
+          "access": "free",
+          "published_at": "2026-10-27T09:14:02+00:00",
+          "kind": "reporting"
+        }
+      ],
+      "score": 79
+    },
+    {
+      "headline": "WPP Production Australia Appoints Felix Ettelson as Head of Creative Craft",
+      "summary": "WPP Production Australia appointed Felix Ettelson to oversee creative craft and hybrid production pipelines across enterprise tools powered by Wpp Open. Ettelson will lead a multidisciplinary team combining human conceptual direction with generative artificial intelligence workflows.",
+      "why_it_matters": "Agency production arms are actively restructuring leadership roles to merge traditional storytelling standards with scalable automation tools.",
+      "category": "marketing",
+      "companies": [
+        "WPP",
+        "Thinkerbell"
+      ],
+      "topics": [
+        "creative leadership",
+        "generative AI",
+        "production"
+      ],
+      "sources": [
+        {
+          "publisher": "LBB - Little Black Book",
+          "url": "https://lbbonline.com/news/felix-ettelson-wpp-production-head-creative-craft",
+          "access": "free",
+          "published_at": "2026-10-27T00:27:15+00:00",
+          "kind": "reporting"
+        }
+      ],
+      "score": 75
+    }
+  ],
+  "coverage_start": "2026-10-26T04:50:41.127172+00:00",
+  "coverage_end": "2026-10-27T11:46:25.881240+00:00",
+  "today_in_a_sentence": "The U.S. Air Force awarded Lockheed Martin a $694 million contract to transition the AGM-183A ARRW hypersonic missile program into full-scale production. Meanwhile, defense tech startup Helsing unveiled the Contra AI-controlled air defense system, and the European Space Agency contracted Airbus to build two additional Galileo satellites. In marketing, L'Oréal Paris integrated cosmetics into narrative storytelling for the second season of Cat's Eyes through a partnership with McCann Paris."
+}
