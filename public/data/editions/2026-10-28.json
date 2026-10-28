@@ -1,0 +1,206 @@
+{
+  "date": "2026-10-28",
+  "published_at": "2026-10-28T10:54:55.665618+00:00",
+  "stories": [
+    {
+      "headline": "Boeing Delays 737 Production Rate Increase to Early 2027 Due to Wing Manufacturing Bottlenecks",
+      "summary": "Boeing announced it is postponing its target to reach a monthly production rate of 47 737 aircraft to early 2027 due to ongoing manufacturing challenges. Wing production has emerged as a key constraint limiting the company's ability to accelerate output.",
+      "why_it_matters": "Persistent structural constraints and slower cash flow growth underscore the delicate balance Boeing must maintain between stabilizing manufacturing quality and ramping up delivery volume.",
+      "category": "industry",
+      "companies": [
+        "Boeing"
+      ],
+      "topics": [
+        "Aviation",
+        "Manufacturing",
+        "Supply Chain",
+        "Earnings"
+      ],
+      "sources": [
+        {
+          "publisher": "Aviation A2Z",
+          "url": "https://aviationa2z.com/index.php/2026/10/28/boeings-745-billion-backlog-cannot-shield-shares-from-production-delays/",
+          "access": "free",
+          "published_at": "2026-10-28T10:44:00+00:00",
+          "kind": "reporting"
+        },
+        {
+          "publisher": "Aviation Week (related reading)",
+          "url": "https://aviationweek.com/air-transport/aircraft-propulsion/boeing-resets-737-rate-ramp-expectations-free-cash-flow-outlook",
+          "access": "paywalled",
+          "kind": "supplemental reading; full text not accessed",
+          "published_at": "2026-10-27T20:26:46+00:00",
+          "used_as_evidence": false
+        }
+      ],
+      "score": 85
+    },
+    {
+      "headline": "EU Allocates €168 Million Under EDIP to Boost Propellants and Explosives Production",
+      "summary": "Grants for eight energetic materials projects across 14 member states and Norway aim to clear ammunition manufacturing bottlenecks and reduce dependence on foreign supply chains. The European Commission announced the grant awards under the Industrial Reinforcement Action pillar of the European Defence Industry Programme.",
+      "why_it_matters": "By subsidizing specialized chemical infrastructure for energetic materials rather than assembly lines alone, the EU seeks to clear the primary supply chain bottleneck constraining long-term ammunition production.",
+      "category": "industry",
+      "companies": [],
+      "topics": [
+        "Procurement",
+        "Manufacturing",
+        "Supply Chains",
+        "Missiles",
+        "Aviation"
+      ],
+      "sources": [
+        {
+          "publisher": "Israel Defense",
+          "url": "https://www.israeldefense.co.il/en/node/72180",
+          "access": "free",
+          "published_at": "2026-10-28T06:27:28+00:00",
+          "kind": "reporting"
+        }
+      ],
+      "score": 85
+    },
+    {
+      "headline": "Beacon AI Completes First Autonomous Pilot Assistant Flights on U.S. Air Force Tankers",
+      "summary": "An AI-powered cockpit assistant has completed five flights aboard three operational U.S. Air Force tanker aircraft, testing how software can support pilots without controlling the aircraft. Beacon AI's Murdock system logged approximately 20 hours aboard KC-46A Pegasus tankers during August and September 2026.",
+      "why_it_matters": "Demonstrating advisory software on certified avionic buses without modifying flight-critical systems offers a lower-barrier path for commercial and military cockpit modernization.",
+      "category": "industry",
+      "companies": [],
+      "topics": [
+        "Aviation",
+        "Autonomy",
+        "Procurement",
+        "Cyber"
+      ],
+      "sources": [
+        {
+          "publisher": "Interesting Engineering",
+          "url": "https://interestingengineering.com/military/autonomous-pilot-assistant-us-air-force-tankers",
+          "access": "free",
+          "published_at": "2026-10-27T23:43:00+00:00",
+          "kind": "reporting"
+        }
+      ],
+      "score": 80
+    },
+    {
+      "headline": "Lockheed Martin Wins $88.6 Million U.S. Navy Contract for Radiant Mercury Cross-Domain Systems",
+      "summary": "Lockheed Martin's Rotary and Mission Systems business has received an $88.56 million contract from the U.S. Navy. The agreement covers production, installation, maintenance, modernization, and sustainment of Radiant Mercury cross-domain solution systems.",
+      "why_it_matters": "Secure cross-domain architectures remain vital for managing data flows and enforcing access boundaries between classified military networks.",
+      "category": "industry",
+      "companies": [
+        "Lockheed Martin"
+      ],
+      "topics": [
+        "Cyber",
+        "Procurement",
+        "Naval"
+      ],
+      "sources": [
+        {
+          "publisher": "Military Aerospace",
+          "url": "https://www.militaryaerospace.com/home/article/55414828/lockheed-martin-wins-886-million-navy-contract-for-radiant-mercury-systems",
+          "access": "free",
+          "published_at": "2026-10-28T09:10:57+00:00",
+          "kind": "reporting"
+        }
+      ],
+      "score": 75
+    },
+    {
+      "headline": "Informa TechTarget to Integrate Buyer Intelligence Natively into Demandbase One",
+      "summary": "Beginning in January next year, joint customers will be able to access Informa TechTarget's directly observed, person-level intent data and click-level, behavioral insights natively within Demandbase One. The integration is designed to help B2B marketing and sales teams improve ABM scoring, account prioritization, buying group identification and multi-channel activation.",
+      "why_it_matters": "Native integration of person-level intent data into GTM orchestration platforms compresses the timeline from detection to multi-channel execution for enterprise marketing teams.",
+      "category": "marketing",
+      "companies": [
+        "Demandbase"
+      ],
+      "topics": [
+        "Buyer Experiences",
+        "Original Brand Platforms"
+      ],
+      "sources": [
+        {
+          "publisher": "Demand Gen Report",
+          "url": "https://www.demandgenreport.com/industry-news/news-brief/informa-techtarget-to-integrate-its-proprietary-buyer-intelligence-with-demandbase/55208/",
+          "access": "free",
+          "published_at": "2026-10-27T20:08:36+00:00",
+          "kind": "reporting"
+        }
+      ],
+      "score": 75
+    },
+    {
+      "headline": "Pratt & Whitney Targets $150 Million in Annual Sourcing from India by 2030",
+      "summary": "Pratt & Whitney has signed multi-year supply agreements worth more than $40 million with Indian manufacturers. These contracts form part of the company's long-term plan to scale its annual sourcing from India to $150 million by 2030.",
+      "why_it_matters": "Expanding regional supply ecosystems allows major engine makers to distribute production risks and tap into localized engineering capabilities.",
+      "category": "industry",
+      "companies": [
+        "RTX",
+        "Pratt & Whitney"
+      ],
+      "topics": [
+        "Supply Chain",
+        "Aviation",
+        "Manufacturing"
+      ],
+      "sources": [
+        {
+          "publisher": "Indian Masterminds",
+          "url": "https://indianmasterminds.com/news/defence/pratt-whitney-india-supply-deals-2030-246234/",
+          "access": "free",
+          "published_at": "2026-10-28T08:51:07+00:00",
+          "kind": "reporting"
+        }
+      ],
+      "score": 73
+    },
+    {
+      "headline": "Hanwha Aerospace Explores Industrial Partnerships for Lithuanian Air Defence Manufacturing",
+      "summary": "Hanwha Aerospace signed memoranda of understanding with several Lithuanian companies to explore industrial cooperation. The agreements cover vehicle integration, turret shell fabrication, cable manufacturing, and command-and-control capabilities.",
+      "why_it_matters": "Establishing local manufacturing and maintenance ties supports regional defense integration and positions suppliers closer to allied European customers.",
+      "category": "industry",
+      "companies": [
+        "Hanwha Aerospace"
+      ],
+      "topics": [
+        "Manufacturing",
+        "Procurement",
+        "Drones"
+      ],
+      "sources": [
+        {
+          "publisher": "Defence Industry Europe",
+          "url": "https://defence-industry.eu/hanwha-aerospace-explores-lithuanian-production-roles-for-mobile-air-defence-system/",
+          "access": "free",
+          "published_at": "2026-10-28T08:16:20+00:00",
+          "kind": "reporting"
+        }
+      ],
+      "score": 72
+    },
+    {
+      "headline": "Heveya Unveils Immersive Art and Design Installation at Singapore Flagship Showroom",
+      "summary": "Singapore-based sleep brand Heveya has unveiled an immersive art installation by Argentinian artist Clelia at its renovated Tiong Bahru flagship showroom, bringing art and design into the retail experience. The space integrates woven fibre panels, sculptural bamboo lighting, and reclaimed timber across its interiors to connect tactile materials with individual customer comfort.",
+      "why_it_matters": "Translating sustainable tactile materials into an unprescribed retail environment demonstrates how physical showrooms can build brand equity through experiential storytelling.",
+      "category": "marketing",
+      "companies": [],
+      "topics": [
+        "Buyer Experiences",
+        "Original Brand Platforms"
+      ],
+      "sources": [
+        {
+          "publisher": "marketech apac",
+          "url": "https://marketech-apac.com/heveya-unveils-immersive-art-installation-at-tiong-bahru-flagship-showroom/",
+          "access": "free",
+          "published_at": "2026-10-28T05:26:15+00:00",
+          "kind": "reporting"
+        }
+      ],
+      "score": 70
+    }
+  ],
+  "coverage_start": "2026-10-27T05:46:25.881240+00:00",
+  "coverage_end": "2026-10-28T10:54:55.665618+00:00",
+  "today_in_a_sentence": "Boeing has delayed its 737 production rate increase to early 2027 due to wing manufacturing bottlenecks. Meanwhile, the European Union allocated €168 million to boost propellants and explosives production, and Beacon AI completed autonomous pilot assistant flights on U.S. Air Force tankers."
+}
