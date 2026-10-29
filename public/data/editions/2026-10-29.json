@@ -1,0 +1,241 @@
+{
+  "date": "2026-10-29",
+  "published_at": "2026-10-29T11:54:07.304228+00:00",
+  "stories": [
+    {
+      "headline": "Lockheed Martin Wins $694M Deal to Produce US Hypersonic Missile",
+      "summary": "The US Air Force has awarded Lockheed Martin a $694-million contract to produce its Air-Launched Rapid Response Weapon (ARRW), advancing the hypersonic missile program toward production. To support manufacturing, the company has broken ground on a 47,000-square-foot expansion of its Building P-20 facility in Troy, Alabama.",
+      "why_it_matters": "Reviving the ARRW program shifts the US Air Force closer to operational hypersonic capabilities, offering prime contractors a renewed avenue to scale advanced boost-glide weapon manufacturing.",
+      "category": "industry",
+      "companies": [
+        "Lockheed Martin"
+      ],
+      "topics": [
+        "Procurement",
+        "Missiles",
+        "Manufacturing"
+      ],
+      "sources": [
+        {
+          "publisher": "The Defense Post",
+          "url": "https://thedefensepost.com/2026/10/29/lockheed-martin-arrw-hypersonic-missile/amp/",
+          "access": "free",
+          "published_at": "2026-10-29T10:29:54+00:00",
+          "kind": "reporting"
+        },
+        {
+          "publisher": "AeroTime",
+          "url": "https://www.aerotime.aero/articles/us-air-force-arrw-hypersonic-missile-production-contract",
+          "access": "free",
+          "published_at": "2026-10-28T07:37:17+00:00",
+          "kind": "reporting"
+        }
+      ],
+      "score": 92
+    },
+    {
+      "headline": "Marketbridge Acquires Channel 99 and Launches AI Visibility Platform for B2B Marketers",
+      "summary": "Marketbridge, a B2B growth consultancy and marketing services firm, has acquired Channel 99, a measurement and attribution platform for B2B marketers. The two companies announced the launch of Channel 99's AI Visibility solution, which is designed to help B2B marketers measure and improve how their brands appear in AI search, then tie that visibility to real pipeline results.",
+      "why_it_matters": "This acquisition bridges a critical analytics gap for B2B enterprises by allowing marketing teams to measure LLM visibility and directly tie AI search optimization to downstream pipeline revenue.",
+      "category": "marketing",
+      "companies": [
+        "Marketbridge",
+        "Channel 99",
+        "Demandbase"
+      ],
+      "topics": [
+        "M&A",
+        "AI Search",
+        "B2B Attribution"
+      ],
+      "sources": [
+        {
+          "publisher": "Demand Gen Report",
+          "url": "https://www.demandgenreport.com/demanding-views/why-cmos-should-care-about-gtm-engineering/55048/",
+          "access": "free",
+          "published_at": "2026-10-29T11:02:42+00:00",
+          "kind": "reporting"
+        },
+        {
+          "publisher": "Demand Gen Report",
+          "url": "https://www.demandgenreport.com/industry-news/news-brief/marketbridge-acquires-channel-99-launches-ai-visibility-for-b2b-marketers/55094/",
+          "access": "free",
+          "published_at": "2026-10-28T14:01:13+00:00",
+          "kind": "reporting"
+        }
+      ],
+      "score": 88
+    },
+    {
+      "headline": "Shuttlerock Launches AI-Powered Intelligent Creative Engine for Enterprise Brands",
+      "summary": "Shuttlerock has launched its AI-powered creative engine, bringing together its creative technology, automation capabilities and human craft in one seamless, end-to-end managed platform. The launch completes a two year journey in rebuilding the technology from the ground up, marking a significant step forward in how enterprise brands produce, scale and learn from its creative.",
+      "why_it_matters": "By unifying modular asset production with continuous performance insights, the platform helps enterprise CMOs resolve the persistent tension between maintaining strict brand guidelines and scaling personalized ad variants across multiple markets.",
+      "category": "marketing",
+      "companies": [
+        "Shuttlerock",
+        "Hilton",
+        "Dermalogica"
+      ],
+      "topics": [
+        "AI",
+        "Creative Automation",
+        "Enterprise Marketing"
+      ],
+      "sources": [
+        {
+          "publisher": "LBB - Little Black Book",
+          "url": "https://lbbonline.com/news/shuttlerock-intelligent-creative-engine",
+          "access": "free",
+          "published_at": "2026-10-29T09:44:20+00:00",
+          "kind": "reporting"
+        }
+      ],
+      "score": 85
+    },
+    {
+      "headline": "Airbus and Air France Finalize Alpha Component Solutions Joint Venture for A350 Support",
+      "summary": "Airbus has established 'Alpha Component Solutions', a 50-50 joint venture with Air France, dedicated to A350 component support. The joint venture already contractually supports more than 500 aircraft, with a worldwide footprint ready to support new and existing operators in this rapidly growing market.",
+      "why_it_matters": "Consolidating OEM aftermarket support with major airline maintenance operations streamlines parts availability and component lifecycle reliability for long-haul operators.",
+      "category": "industry",
+      "companies": [
+        "Airbus"
+      ],
+      "topics": [
+        "Aviation",
+        "Supply Chain",
+        "M&A"
+      ],
+      "sources": [
+        {
+          "publisher": "Airbus",
+          "url": "https://www.airbus.com/en/newsroom/press-releases/2026-10-airbus-and-air-france-klm-operated-joint-venture-for-a350-component-support-finalised",
+          "access": "free",
+          "published_at": "2026-10-28T08:17:47+00:00",
+          "kind": "company announcement"
+        }
+      ],
+      "score": 80
+    },
+    {
+      "headline": "Airbus Helicopters Granted Design Organisation Approval by JCAB",
+      "summary": "Airbus Helicopters in Japan has been granted Design Organisation Approval (DOA) by the Japan Civil Aviation Bureau (JCAB), establishing Airbus as the first and only foreign helicopter OEM authorised to perform all design activities across its complete fleet of aircraft in the country. Covering all Airbus helicopter models operating in Japan, including the next-generation H160 and heavy-lift H225, the DOA grants Airbus delegation authority to design, manufacture, inspect and approve specialised Supplemental Type Certificate kits and complex structural modifications tailored directly to Japanese mission requirements.",
+      "why_it_matters": "Local design autonomy significantly cuts turnaround times for custom aircraft modifications, removing regulatory friction for operators requiring mission-specific helicopter retrofits.",
+      "category": "industry",
+      "companies": [
+        "Airbus"
+      ],
+      "topics": [
+        "Aviation",
+        "Procurement",
+        "Manufacturing"
+      ],
+      "sources": [
+        {
+          "publisher": "Airbus",
+          "url": "https://www.airbus.com/en/newsroom/press-releases/2026-10-airbus-granted-design-organisation-approval-by-jcab",
+          "access": "free",
+          "published_at": "2026-10-29T05:30:00+00:00",
+          "kind": "company announcement"
+        }
+      ],
+      "score": 79
+    },
+    {
+      "headline": "Switzerland Shortlists SAMP/T and Barak MX for Long-Range Air Defense",
+      "summary": "Switzerland narrowed down the choice of the country's second future long-range air defense system to either Israel's Barak MX system or the French-Italian SAMP/T NG, while also sticking to plans to buy the United States' Patriot air-defense system. The federal government asked the defense department to continue evaluating the Barak MX developed by Israel Aerospace Industries and the SAMP/T NG from the Eurosam joint venture between MBDA and Thales, it said on Wednesday.",
+      "why_it_matters": "Diversifying long-range missile defense procurement allows neutral European nations to mitigate single-supplier bottlenecks while addressing rising regional security demands.",
+      "category": "industry",
+      "companies": [],
+      "topics": [
+        "Procurement",
+        "Missiles"
+      ],
+      "sources": [
+        {
+          "publisher": "Defense News",
+          "url": "https://www.defensenews.com/global/europe/2026/10/29/switzerland-shortlists-samp-t-barak-mx-for-long-range-air-defense/",
+          "access": "unknown",
+          "published_at": "2026-10-29T11:17:15+00:00",
+          "kind": "reporting"
+        }
+      ],
+      "score": 78
+    },
+    {
+      "headline": "NASA Awards Momentus Task Order for Fly Foundational Robots Mission Formulation",
+      "summary": "Momentus announced that it has been awarded a task order by NASA for the formulation phase of the agency's Fly Foundational Robots Resupply mission, a mission designed to advance the technologies needed for future in-space servicing, assembly, and manufacturing. Following this formulation phase, NASA intends to select one of the participants to move into the implementation phase and fly the mission.",
+      "why_it_matters": "Securing a NASA task order positions commercial orbital transportation providers to capture early architectural roles in next-generation in-space logistics and automated assembly platforms.",
+      "category": "industry",
+      "companies": [],
+      "topics": [
+        "Space",
+        "Autonomy",
+        "Procurement"
+      ],
+      "sources": [
+        {
+          "publisher": "Cyprus Shipping News",
+          "url": "https://cyprusshippingnews.com/2026/10/29/nasa-awards-task-order-contract-to-momentus-for-mission-formulation-phase-of-fly-foundational-robots-resupply-mission/",
+          "access": "free",
+          "published_at": "2026-10-29T08:48:52+00:00",
+          "kind": "reporting"
+        }
+      ],
+      "score": 77
+    },
+    {
+      "headline": "GKN Aerospace Secures Nadcap Accreditation for L-DED-w Additive Manufacturing",
+      "summary": "GKN Aerospace, a global aerospace technology company based in Sweden, has secured independent, industry-recognised validation of its L-DED-w manufacturing processes, supporting the wider adoption of the technology in aerospace production. The accreditation is expected to help accelerate the integration of further L-DED-w applications into full aerospace production.",
+      "why_it_matters": "Independent process validation reduces qualification friction for aerospace additive manufacturing, establishing a standardized pathway to scale certified flight-ready structural components.",
+      "category": "industry",
+      "companies": [],
+      "topics": [
+        "Manufacturing",
+        "Supply Chain",
+        "Aviation"
+      ],
+      "sources": [
+        {
+          "publisher": "Media India Group",
+          "url": "https://mediaindia.eu/defence-aerospace/gkn-aerospace-first-company-to-secure-nadcap-accreditation-for-l-ded-w/",
+          "access": "free",
+          "published_at": "2026-10-29T10:34:27+00:00",
+          "kind": "reporting"
+        }
+      ],
+      "score": 76
+    },
+    {
+      "headline": "Ethiopia Receives 12 Russian Su-35 Fighter Jets and Plans S-400 Acquisition",
+      "summary": "Ethiopian Prime Minister Abiy Ahmed Ali announced on October 28 that Ethiopia had received a dozen Sukhoi Su-35 multirole fighter jets from Russia. Additionally, Abiy announced plans to acquire four Russian S-400 surface-to-air missile batteries, without specifying delivery dates or contract terms.",
+      "why_it_matters": "This major procurement marks a notable shift in regional strategic alignment and air defense capabilities, significantly expanding the operational footprint of Russian fourth-generation hardware in Africa.",
+      "category": "industry",
+      "companies": [],
+      "topics": [
+        "Aviation",
+        "Procurement",
+        "Missiles"
+      ],
+      "sources": [
+        {
+          "publisher": "Defensemirror.com",
+          "url": "https://defensemirror.com/news/42274/Ethiopia_Receives_12_Russian_Su_35_Fighter_Jets__Plans_S_400_Acquisition",
+          "access": "free",
+          "published_at": "2026-10-29T10:34:55+00:00",
+          "kind": "reporting"
+        },
+        {
+          "publisher": "The SOFX Report",
+          "url": "https://www.sofx.com/ethiopia-unveils-russian-su-35-fighter-acquisition-as-first-jets-land-from-moscow/",
+          "access": "free",
+          "published_at": "2026-10-29T03:53:57+00:00",
+          "kind": "reporting"
+        }
+      ],
+      "score": 75
+    }
+  ],
+  "coverage_start": "2026-10-28T04:54:55.665618+00:00",
+  "coverage_end": "2026-10-29T11:54:07.304228+00:00",
+  "today_in_a_sentence": "Defense and aerospace developments include Lockheed Martin securing a $694-million contract for hypersonic missile production, Airbus forming a joint venture with Air France for A350 component support, and Switzerland shortlisting air defense systems. Meanwhile, Marketbridge acquired Channel 99 to launch an AI visibility platform, and Shuttlerock introduced its AI-powered creative engine for enterprise brands."
+}
