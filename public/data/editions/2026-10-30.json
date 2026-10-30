@@ -1,0 +1,289 @@
+{
+  "date": "2026-10-30",
+  "published_at": "2026-10-30T10:54:41.971733+00:00",
+  "stories": [
+    {
+      "headline": "US and Japan Agree to Establish Facility for AMRAAM Missile Assembly Under Operation Supercharge",
+      "summary": "The United States and Japan have reportedly reached an agreement to establish a facility in Japan for the final assembly and check-out of advanced medium-range air-to-air missiles (AMRAAMs), as the two allies move to strengthen defence industrial cooperation amid growing regional security concerns. The agreement is part of a joint defence production effort called 'Operation Supercharge', according to a post shared by the US House of Representatives Select Committee on China on X on Thursday (local time).",
+      "why_it_matters": "Expanding co-production capabilities into the Pacific theater strengthens regional allied industrial bases and provides critical surge manufacturing capacity to counteract supply chain constraints.",
+      "category": "industry",
+      "companies": [],
+      "topics": [
+        "Missiles",
+        "Procurement",
+        "Supply Chains",
+        "Manufacturing"
+      ],
+      "sources": [
+        {
+          "publisher": "Free Press Journal",
+          "url": "https://www.freepressjournal.in/world/us-japan-agree-to-establish-missile-production-facility-under-operation-supercharge",
+          "access": "free",
+          "published_at": "2026-10-30T03:44:57+00:00",
+          "kind": "reporting"
+        },
+        {
+          "publisher": "The Tribune",
+          "url": "https://www.tribuneindia.com/news/usa-news/us-japan-agree-to-establish-missile-production-facility-under-operation-supercharge/",
+          "access": "free",
+          "published_at": "2026-10-30T02:27:07+00:00",
+          "kind": "reporting"
+        },
+        {
+          "publisher": "Breaking Defense",
+          "url": "https://breakingdefense.com/2026/10/us-japan-ink-agreements-for-amraam-production-sm-3-production-boost-japanese-mod/",
+          "access": "unknown",
+          "published_at": "2026-10-29T16:45:18+00:00",
+          "kind": "reporting"
+        }
+      ],
+      "score": 88
+    },
+    {
+      "headline": "US Navy Expands Production Contract with Northrop Grumman by $97 Million for FMU-139D/B Electronic Fuzes",
+      "summary": "Northrop Grumman announced that the US Navy has increased the ceiling of an existing contract by approximately $97m for the production of FMU-139D/B electronic fuzing systems. Manufactured at the Naval Industrial Reserve Ordnance Plant at Allegany Ballistics Laboratory (ABL) in Rocket Center, West Virginia, this award extends production for Northrop Grumman's reliable and operationally proven capability that plays a critical role in the U.S. military's inventory of air-delivered weapons.",
+      "why_it_matters": "Multi-million dollar ceiling increases help prime defense contractors scale automation and advanced manufacturing technologies to replenish depleted stockpiles.",
+      "category": "industry",
+      "companies": [
+        "Northrop Grumman"
+      ],
+      "topics": [
+        "Procurement",
+        "Manufacturing",
+        "Supply Chains",
+        "Aviation"
+      ],
+      "sources": [
+        {
+          "publisher": "www.marketscreener.com",
+          "url": "https://www.marketscreener.com/news/us-navy-expands-production-contract-with-northrop-grumman-by-97m-ce785fdadb8af421",
+          "access": "free",
+          "published_at": "2026-10-30T07:49:14+00:00",
+          "kind": "reporting"
+        },
+        {
+          "publisher": "Northrop Grumman",
+          "url": "https://news.northropgrumman.com/armaments/northrop-grumman-increases-production-of-combat-proven-electronic-bomb-fuze",
+          "access": "free",
+          "published_at": "2026-10-29T21:04:43+00:00",
+          "kind": "company announcement"
+        },
+        {
+          "publisher": "Northrop Grumman",
+          "url": "https://www.northropgrumman.com/life-at-northrop-grumman/putting-propulsion-to-the-test",
+          "access": "free",
+          "published_at": "2026-10-29T20:23:38+00:00",
+          "kind": "company announcement"
+        }
+      ],
+      "score": 82
+    },
+    {
+      "headline": "Kratos Acquires AMCM M 8K Large-Format Metal Additive Manufacturing System for Hypersonic Production",
+      "summary": "Kratos Defense & Security Solutions has purchased an AMCM M 8K metal additive manufacturing (AM) system to be installed at Kratos' Indiana Payload Integration Facility (IPIF) in Odon, Indiana. The acquisition represents another significant investment by Kratos in Indiana and reflects the organization's commitment to expanding advanced manufacturing capabilities to support the development of hypersonic technologies.",
+      "why_it_matters": "Adopting large-format metal 3D printing enables defense contractors to fabricate complex, oversized hardware geometries with reduced lead times for high-cadence hypersonic testing.",
+      "category": "industry",
+      "companies": [
+        "Kratos Defense & Security Solutions"
+      ],
+      "topics": [
+        "Manufacturing",
+        "Space",
+        "Procurement",
+        "Supply Chains"
+      ],
+      "sources": [
+        {
+          "publisher": "Defense and Munitions",
+          "url": "https://www.defenseandmunitions.com/news/kratos-expands-hypersonic-manufacturing-capability-with-acquisition-of-amcm-m-8k-large-format-metal-additive-manufacturing-system/",
+          "access": "free",
+          "published_at": "2026-10-30T07:00:00+00:00",
+          "kind": "reporting"
+        }
+      ],
+      "score": 80
+    },
+    {
+      "headline": "Honeywell Aerospace Invests $500 Million to Build Advanced Tempe Manufacturing Facility in Arizona",
+      "summary": "Honeywell Aerospace announced a major expansion of its manufacturing facilities, strengthening the company's ability to meet growing demand across current and next-generation commercial aviation and defense programs. The new $500 million, 300,000-square-foot Tempe, Arizona facility will include an integrated digital production system, modular robotics, automated inspection, digital twins, and be powered by an end-to-end digital thread.",
+      "why_it_matters": "Large capital expenditures incorporating digital twins and modular robotics help established aerospace suppliers overcome internal machining bottlenecks and scale next-generation product lines.",
+      "category": "industry",
+      "companies": [
+        "Honeywell Aerospace"
+      ],
+      "topics": [
+        "Aviation",
+        "Manufacturing",
+        "Supply Chains",
+        "Procurement"
+      ],
+      "sources": [
+        {
+          "publisher": "Aerospace Manufacturing and Design",
+          "url": "https://www.aerospacemanufacturinganddesign.com/news/honeywell-aerospace-build-manufacturing-facility-arizona/",
+          "access": "free",
+          "published_at": "2026-10-30T06:00:00+00:00",
+          "kind": "reporting"
+        }
+      ],
+      "score": 79
+    },
+    {
+      "headline": "General Dynamics Introduces Vion AI-Enabled Portable Mission Partner Environment Communications System",
+      "summary": "General Dynamics revealed a new artificial intelligence-enabled, portable communications system on Thursday called the Vion, a Mission Partner Environment solution. Using open architecture and AI, he said Vion will connect with outside networks, adapt to or patch connections and translate written messages, voice memos, videos and more, all while maintaining zero-trust cybersecurity protections.",
+      "why_it_matters": "Portable, AI-driven networking hardware assists ground forces in overcoming tactical communication silos and linking coalition assets dynamically in remote environments.",
+      "category": "industry",
+      "companies": [
+        "General Dynamics"
+      ],
+      "topics": [
+        "Cyber",
+        "Procurement",
+        "Drones"
+      ],
+      "sources": [
+        {
+          "publisher": "Defense News",
+          "url": "https://www.defensenews.com/industry/techwatch/2026/10/29/new-tactical-comms-system-for-us-ground-troops-aims-to-break-network-silos/",
+          "access": "unknown",
+          "published_at": "2026-10-29T19:44:45+00:00",
+          "kind": "reporting"
+        }
+      ],
+      "score": 77
+    },
+    {
+      "headline": "Kistler Introduces KiBox Lab 5280A 16-Channel Charge Amplifier and Data Acquisition System",
+      "summary": "Kistler Group has introduced the KiBox Lab 5280A, a 16-channel charge amplifier and data acquisition system for precision laboratory measurements using piezoelectric sensors. Compared with Kistler's 5080A charge amplifier, KiBox Lab doubles the number of configurable input channels from eight to 16 and, according to the company, reduces drift by about a factor of three.",
+      "why_it_matters": "Higher channel density and reduced signal drift improve testing precision for specialized research laboratories evaluating advanced aerospace and materials engineering applications.",
+      "category": "industry",
+      "companies": [],
+      "topics": [
+        "Aviation",
+        "Manufacturing"
+      ],
+      "sources": [
+        {
+          "publisher": "Military Aerospace",
+          "url": "https://www.militaryaerospace.com/test/product/55415384/kistler-introduces-16-channel-charge-amplifier-and-data-acquisition-system",
+          "access": "free",
+          "published_at": "2026-10-30T06:36:38+00:00",
+          "kind": "reporting"
+        }
+      ],
+      "score": 75
+    },
+    {
+      "headline": "Maxwell Aircraft Unveils M1 Hybrid Amphibious Cargo and Passenger Aircraft Design",
+      "summary": "Maxwell Aircraft announced the M1 Hybrid, a patent-pending amphibious aircraft designed with high-power electric assistance and Jet A fuel to transport 2,000-pound payloads over remote logistical gaps. The aircraft is initially being developed in a dedicated cargo configuration designated as the M1-HC, featuring a spacious five-foot-wide cargo door designed for demanding missions where traditional airport infrastructure is unavailable.",
+      "why_it_matters": "By pairing electric propulsion for torque-heavy takeoffs with Jet A efficiency for transit, the hybrid architecture introduces new operational economics for regional operators servicing unimproved airstrips and isolated waterways.",
+      "category": "industry",
+      "companies": [
+        "Maxwell Aircraft"
+      ],
+      "topics": [
+        "aviation",
+        "drones",
+        "procurement",
+        "manufacturing"
+      ],
+      "sources": [
+        {
+          "publisher": "Aviation News.eu",
+          "url": "https://aviationnews.eu/news/2026/10/maxwell-aircraft-unveils-the-m1-hybrid-a-breakthrough-amphibious-cargo-and-passenger-aircraft/",
+          "access": "free",
+          "published_at": "2026-10-30T01:59:59+00:00",
+          "kind": "reporting"
+        }
+      ],
+      "score": 75
+    },
+    {
+      "headline": "Salt Security Expands Agentic Security Platform with Autonomous Defense Capabilities",
+      "summary": "Salt Security announced Autonomous Defense for the Salt Agentic Security Platform, enabled by an expansion of Salt Workflows. Instead of stopping at an alert or ticket, Salt can automatically trigger defensive controls to block malicious activity, revoke risky access, and initiate remediation across the systems customers already use.",
+      "why_it_matters": "Autonomous security platforms minimize response latency by bridging the gap between automated detection and immediate system-level remediation across enterprise environments.",
+      "category": "industry",
+      "companies": [
+        "Salt Security"
+      ],
+      "topics": [
+        "Cyber"
+      ],
+      "sources": [
+        {
+          "publisher": "The Fast Mode",
+          "url": "https://www.thefastmode.com/technology-solutions/51252-salt-security-extends-agentic-security-platform-with-autonomous-defense",
+          "access": "free",
+          "published_at": "2026-10-30T00:25:31+00:00",
+          "kind": "reporting"
+        }
+      ],
+      "score": 74
+    },
+    {
+      "headline": "Hitachi Construction Machinery Launches Global Brand Campaign Ahead of LANDCROS Name Transition",
+      "summary": "Hitachi Construction Machinery initiated a worldwide brand campaign featuring four key graphics to prepare stakeholders globally for its upcoming corporate name change to LANDCROS Corporation in April 2027. The campaign is aimed at countries and regions across the world where the company operates, including South East Asia, Oceania, and Latin America, under the message of Solutions Beyond Machinery.",
+      "why_it_matters": "Pre-announcement creative campaigns deployed over extended runways give multinational industrial firms a structured mechanism to pivot stakeholder expectations toward software and digital services.",
+      "category": "marketing",
+      "companies": [],
+      "topics": [
+        "manufacturing",
+        "procurement"
+      ],
+      "sources": [
+        {
+          "publisher": "DagangNews",
+          "url": "https://www.dagangnews.com/article/english/hitachi-construction-machinery-launches-new-global-brand-campaign-advance-changing-company-name-and-brand-landcros-april-2027-76722",
+          "access": "free",
+          "published_at": "2026-10-30T02:04:38+00:00",
+          "kind": "reporting"
+        }
+      ],
+      "score": 70
+    },
+    {
+      "headline": "Tuticorin Alkali Chemicals Unveils New Hexagonal Brand Identity to Mark International Focus",
+      "summary": "Tuticorin Alkali Chemicals and Fertilisers introduced a new carbon-bond inspired visual identity featuring the letters TFL to reflect its strategic pivot toward sustainable manufacturing and expanded global markets. The company stated that the rebranding is intended to reflect its business transformation rather than merely a visual update, bringing its brand closer to its evolving priorities while retaining its industrial heritage.",
+      "why_it_matters": "Aligning visual identity with chemical structures offers a transferable B2B creative model for heavy manufacturing brands looking to signal sustainability transitions to global buyers.",
+      "category": "marketing",
+      "companies": [],
+      "topics": [
+        "supply chains",
+        "manufacturing"
+      ],
+      "sources": [
+        {
+          "publisher": "BusinessLine",
+          "url": "https://www.thehindubusinessline.com/companies/tuticorin-alkali-chemicals-sharpens-focus-on-global-markets-unveils-new-brand-identity/article71644317.ece",
+          "access": "free",
+          "published_at": "2026-10-30T08:34:10+00:00",
+          "kind": "reporting"
+        }
+      ],
+      "score": 68
+    },
+    {
+      "headline": "Daiichi Life Vietnam Launches Modernized Brand Identity and Inaugurates New Hanoi Office",
+      "summary": "Daiichi Life Vietnam rolled out a modernized corporate brand identity in Ho Chi Minh City and opened a new branch in Hanoi to signal its long-term market commitment and evolving operational vision. The new look reflects a harmonious blend of traditional values that have built the brand's reputation with a modern, dynamic, customer-centric spirit, thereby delivering a more convenient and friendly experience at every touchpoint.",
+      "why_it_matters": "Synchronizing regional physical branch expansions with global brand rollouts helps legacy financial institutions reinforce operational stability during periods of market volatility.",
+      "category": "marketing",
+      "companies": [],
+      "topics": [
+        "procurement"
+      ],
+      "sources": [
+        {
+          "publisher": "Vietnam.vn",
+          "url": "https://www.vietnam.vn/en/daiichi-life-viet-nam-ra-mat-nhan-dien-thuong-hieu-moi-tai-tp-hcm-khai-truong-van-phong-o-ha-noi",
+          "access": "free",
+          "published_at": "2026-10-30T06:53:41+00:00",
+          "kind": "reporting"
+        }
+      ],
+      "score": 65
+    }
+  ],
+  "coverage_start": "2026-10-29T05:54:07.304228+00:00",
+  "coverage_end": "2026-10-30T10:54:41.971733+00:00",
+  "today_in_a_sentence": "Defense and industrial sectors advanced with new manufacturing investments and production agreements, including a US-Japan AMRAAM assembly facility, a $500 million Honeywell Aerospace facility in Arizona, and Kratos acquiring a large-format metal additive manufacturing system for hypersonic production. Meanwhile, technology and security firms introduced autonomous defense capabilities and portable AI-enabled communications systems."
+}
