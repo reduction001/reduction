@@ -1,0 +1,296 @@
+{
+  "date": "2026-11-04",
+  "published_at": "2026-11-04T11:24:00.466449+00:00",
+  "stories": [
+    {
+      "headline": "Hanwha Philly Shipyard Secures First U.S. Navy Contract for Medium Landing Ship Construction",
+      "summary": "South Korea's Hanwha Group has secured a contract to build a medium landing ship for the U.S. Navy, marking the start of naval vessel construction at its Philadelphia shipyard. The contract is Hanwha's first U.S. Navy shipbuilding award since acquiring Philly Shipyard in December 2024.",
+      "why_it_matters": "This award marks a strategic expansion of foreign defense investment into the American domestic shipbuilding industrial base, providing the U.S. Navy with additional production capacity for expeditionary fleet expansion.",
+      "category": "industry",
+      "companies": [
+        "Hanwha Group",
+        "Hanwha Defense USA",
+        "TOTE Services"
+      ],
+      "topics": [
+        "Naval Shipbuilding",
+        "Defense Procurement",
+        "Shipyard Infrastructure"
+      ],
+      "sources": [
+        {
+          "publisher": "DredgeWire",
+          "url": "https://dredgewire.com/south-koreas-hanwha-wins-first-u-s-navy-shipbuilding-contract/",
+          "access": "free",
+          "published_at": "2026-11-04T06:22:30+00:00",
+          "kind": "reporting"
+        },
+        {
+          "publisher": "Container News",
+          "url": "https://container-news.com/hanwha-philly-shipyard-secures-first-us-navy-shipbuilding-contract/",
+          "access": "free",
+          "published_at": "2026-11-03T15:00:07+00:00",
+          "kind": "reporting"
+        }
+      ],
+      "score": 85
+    },
+    {
+      "headline": "U.S. Space Force Issues First Cislunar RFI to Close Deep Space Domain Awareness Gap",
+      "summary": "A request for information posted Nov. 2 on SAM.gov represents the first formal acquisition step toward closing that gap: Space Force is asking industry to propose up to five \"seed\" satellites capable of providing space domain awareness, positioning and navigation, and communications relay throughout a region its existing ground-based sensor network was never built to reach. The document sets an aggressive pace.",
+      "why_it_matters": "By pushing acquisition timelines to an accelerated five-year window, the Space Force is forcing traditional aerospace suppliers to radically compress development cycles for deep space operations.",
+      "category": "industry",
+      "companies": [],
+      "topics": [
+        "Space",
+        "Procurement",
+        "Satellites"
+      ],
+      "sources": [
+        {
+          "publisher": "Tech Times",
+          "url": "https://www.techtimes.com/articles/330001/20261103/space-force-issues-first-cislunar-acquisition-bid-china-already-has-moon-corridor-relay-satellite.htm",
+          "access": "free",
+          "published_at": "2026-11-04T02:51:06+00:00",
+          "kind": "reporting"
+        }
+      ],
+      "score": 85
+    },
+    {
+      "headline": "Shield AI Completes First Full-Scale X-BAT Autonomous VTOL Fighter Prototype",
+      "summary": "Shield AI has completed the first full-scale prototype of its X-BAT autonomous combat aircraft, bringing its ambitious runway-independent fighter concept closer to flight testing. Designated X-BAT 001, the prototype recently emerged from Shield AI's development facility in Frisco, Texas.",
+      "why_it_matters": "Transitioning uncrewed combat aircraft concepts into physical full-scale prototypes highlights how defense tech firms are accelerating runway-independent capabilities for contested environments.",
+      "category": "industry",
+      "companies": [
+        "Shield AI",
+        "GE Aerospace"
+      ],
+      "topics": [
+        "Autonomous Drones",
+        "VTOL Aircraft",
+        "Defense Prototyping"
+      ],
+      "sources": [
+        {
+          "publisher": "Interesting Engineering",
+          "url": "https://interestingengineering.com/military/x-bat-combat-drone-full-scale-prototype",
+          "access": "free",
+          "published_at": "2026-11-04T03:33:00+00:00",
+          "kind": "reporting"
+        },
+        {
+          "publisher": "Inside Unmanned Systems",
+          "url": "https://insideunmannedsystems.com/shield-ai-completes-first-x-bat-prototype-prepares-for-vertical-flight-testing/",
+          "access": "free",
+          "published_at": "2026-11-03T19:14:59+00:00",
+          "kind": "reporting"
+        },
+        {
+          "publisher": "MiGFlug",
+          "url": "https://migflug.com/afterburner/x-bat-001-full-scale-prototype-shield-ai-vtol-fighter-drone-2026/",
+          "access": "free",
+          "published_at": "2026-11-04T08:57:28+00:00",
+          "kind": "reporting"
+        },
+        {
+          "publisher": "Aviation Week (related reading)",
+          "url": "https://aviationweek.com/defense/aircraft-propulsion/shield-ais-x-bat-moves-toward-first-flight",
+          "access": "paywalled",
+          "kind": "supplemental reading; full text not accessed",
+          "published_at": "2026-11-04T09:26:43+00:00",
+          "used_as_evidence": false
+        }
+      ],
+      "score": 83
+    },
+    {
+      "headline": "AerFin Seals Landmark 737NG Aircraft and Engine Acquisition with Qantas",
+      "summary": "AerFin has agreed to acquire 44 aircraft from Qantas in the largest transaction in the company's history. The acquisition comprises 44 Boeing 737NG aircraft and 88 CFM56-7B engines, marking a major milestone in AerFin's continued expansion and further cementing its position as a leading global aviation aftermarket specialist.",
+      "why_it_matters": "This massive multi-year asset transfer demonstrates the growing scale of secondary-market lifecycle management as major airlines optimize narrowbody fleets, creating substantial long-term material availability for MRO customers.",
+      "category": "industry",
+      "companies": [
+        "AerFin",
+        "Qantas",
+        "Boeing"
+      ],
+      "topics": [
+        "Aviation Aftermarket",
+        "Fleet Management",
+        "MRO"
+      ],
+      "sources": [
+        {
+          "publisher": "AviTrader Aviation News",
+          "url": "https://avitrader.com/2026/11/04/aerfin-seals-landmark-737ng-aircraft-acquisition-from-qantas/",
+          "access": "free",
+          "published_at": "2026-11-04T11:05:53+00:00",
+          "kind": "reporting"
+        }
+      ],
+      "score": 82
+    },
+    {
+      "headline": "India Signs $5.7 Billion Contract with Domestic Shipbuilders to Build Next-Gen Corvettes",
+      "summary": "NEW DELHI - In a major push to strengthen its naval capabilities , India signed a $5.7 billion contract with domestic companies Monday to build eight next-generation, corvettes that will undertake anti-submarine, anti-surface and coastal defense operations. The new ships will gradually replace a fleet of aging single-role corvettes.",
+      "why_it_matters": "Shifting production to domestic yards accelerates regional naval modernization while building local industrial depth to counter expanding maritime competition.",
+      "category": "industry",
+      "companies": [
+        "Garden Reach Shipbuilders and Engineers",
+        "Goa Shipyard"
+      ],
+      "topics": [
+        "Naval",
+        "Procurement",
+        "Manufacturing"
+      ],
+      "sources": [
+        {
+          "publisher": "Defense News",
+          "url": "https://www.defensenews.com/global/asia-pacific/2026/11/03/india-orders-next-gen-corvettes-for-5-7b-under-broad-naval-modernization-push/",
+          "access": "unknown",
+          "published_at": "2026-11-03T12:56:27+00:00",
+          "kind": "reporting"
+        }
+      ],
+      "score": 82
+    },
+    {
+      "headline": "U.S. Air Force Issues Request for Information for New Extended Range Attack Munition for Ukraine",
+      "summary": "The US Air Force is looking for contractors to manufacture a new batch of Extended Range Attack Munitions, or ERAMs, for Ukraine, seeking more than 1,000 air-launched cruise missiles capable of striking targets over 460 kilometers away even under heavy electronic warfare. The Air Force has now laid out technical requirements for prospective manufacturers.",
+      "why_it_matters": "Accelerated acquisition frameworks for low-cost, mass-producible standoff munitions illustrate the defense department's urgent focus on scalable precision strike capabilities designed to resist heavy electronic jamming.",
+      "category": "industry",
+      "companies": [],
+      "topics": [
+        "Missile Procurement",
+        "Defense Technology",
+        "Munitions"
+      ],
+      "sources": [
+        {
+          "publisher": "UNITED24 Media",
+          "url": "https://united24media.com/defense-tech/us-air-force-wants-ukraines-next-f-16-weapon-to-fly-460-km-and-beat-gps-jamming-24067",
+          "access": "free",
+          "published_at": "2026-11-04T08:43:43+00:00",
+          "kind": "reporting"
+        },
+        {
+          "publisher": "Defense News",
+          "url": "https://www.defensenews.com/industry/2026/11/03/us-air-force-asks-industry-for-new-cruise-missile-for-ukraine/",
+          "access": "unknown",
+          "published_at": "2026-11-03T20:14:25+00:00",
+          "kind": "reporting"
+        }
+      ],
+      "score": 81
+    },
+    {
+      "headline": "SWISS Plans Eventual Retirement of Entire Airbus A220 Fleet to Simplify European Operations",
+      "summary": "SWISS plans to eventually remove the Airbus A220 entirely from its fleet, a notable decision from the airline that introduced the aircraft into commercial service and has more experience with the type than any other operator. The airline intends to simplify its European fleet around the Airbus A320 family rather than continue operating two different narrowbody families.",
+      "why_it_matters": "Fleet complexity and persistent engine availability challenges can outweigh the early-adopter advantage of a new aircraft type, prompting network operators to consolidate around homogenized single-aisle families.",
+      "category": "industry",
+      "companies": [
+        "SWISS",
+        "Airbus",
+        "Bombardier",
+        "Pratt & Whitney"
+      ],
+      "topics": [
+        "Fleet Strategy",
+        "Commercial Aviation",
+        "Aircraft Retirement"
+      ],
+      "sources": [
+        {
+          "publisher": "Air Data News",
+          "url": "https://www.airdatanews.com/worlds-first-a220-operator-plans-to-retire-entire-fleet/",
+          "access": "free",
+          "published_at": "2026-11-04T11:00:00+00:00",
+          "kind": "reporting"
+        },
+        {
+          "publisher": "MiGFlug",
+          "url": "https://migflug.com/afterburner/swiss-airbus-a220-retire-entire-fleet-a320neo-2026/",
+          "access": "free",
+          "published_at": "2026-11-04T09:00:20+00:00",
+          "kind": "reporting"
+        }
+      ],
+      "score": 80
+    },
+    {
+      "headline": "France Awards Naval Group Contract to Develop Large Oceangoing Underwater Drone Demonstrator",
+      "summary": "France signed a contract with shipbuilder Naval Group to develop an operational demonstrator of a large-sized oceangoing underwater drone, with sea trials to start in 2028. The demonstrator of the uncrewed combat underwater vehicle, or UCUV, will have to show both endurance and autonomous decision-making capability, the French Armed Forces ministry said late Tuesday.",
+      "why_it_matters": "Investment in large-scale autonomous underwater vehicles enables navies to extend strategic intelligence gathering and offensive operations across vast maritime territories while protecting critical underwater infrastructure.",
+      "category": "industry",
+      "companies": [
+        "Naval Group"
+      ],
+      "topics": [
+        "Underwater Drones",
+        "Naval Autonomy",
+        "Defense Contracts"
+      ],
+      "sources": [
+        {
+          "publisher": "Defense News",
+          "url": "https://www.defensenews.com/global/europe/2026/11/04/france-tasks-naval-group-to-develop-large-oceangoing-underwater-drone/",
+          "access": "unknown",
+          "published_at": "2026-11-04T09:51:15+00:00",
+          "kind": "reporting"
+        }
+      ],
+      "score": 79
+    },
+    {
+      "headline": "IG Launches New Brand Platform 'Superpowered By IG' via Neverland to Champion Retail Investors",
+      "summary": "Global investing and trading platform IG has unveiled a new brand platform, Superpowered by IG, with a major UK advertising campaign designed to establish the brand as the champion of retail investors. Developed with creative agency Neverland, the launch campaign, Anything I Can Do, I Can Do Better, brings this positioning to life, celebrating ambition and self-improvement.",
+      "why_it_matters": "Using structured musical narrative and choreographed visual execution helps financial brands transform complex app feature updates into culturally engaging consumer experiences.",
+      "category": "marketing",
+      "companies": [],
+      "topics": [
+        "Brand Strategy",
+        "Advertising",
+        "Creative Platforms"
+      ],
+      "sources": [
+        {
+          "publisher": "Roastbrief US",
+          "url": "https://roastbrief.us/ig-launches-new-brand-platform-superpowered-by-ig-with-neverland/",
+          "access": "free",
+          "published_at": "2026-11-03T17:24:19+00:00",
+          "kind": "reporting"
+        }
+      ],
+      "score": 75
+    },
+    {
+      "headline": "SKF Vertevo Unveils Standalone Visual Identity and Brand Platform Ahead of Spinoff Listing",
+      "summary": "As the next step in the separation of SKF's Automotive business, SKF Vertevo has unveiled its new brand, marking an important milestone in establishing its identity as a standalone automotive company ahead of its planned listing on 1 December. The launch of the SKF Vertevo website and social media channels introduces the company's new visual identity and brand platform, providing a clear expression of its purpose, values and future direction.",
+      "why_it_matters": "Creating a distinct visual identity rooted in legacy heritage helps corporate carve-outs build immediate stakeholder recognition during market transitions.",
+      "category": "marketing",
+      "companies": [
+        "SKF Vertevo",
+        "SKF"
+      ],
+      "topics": [
+        "Brand Identity",
+        "Corporate Rebranding",
+        "Mobility"
+      ],
+      "sources": [
+        {
+          "publisher": "Motorindia",
+          "url": "https://www.motorindiaonline.in/skf-vertevo-unveils-new-brand-identity-ahead-of-planned-listing/",
+          "access": "free",
+          "published_at": "2026-11-04T08:51:05+00:00",
+          "kind": "reporting"
+        }
+      ],
+      "score": 70
+    }
+  ],
+  "coverage_start": "2026-11-03T05:01:59.171288+00:00",
+  "coverage_end": "2026-11-04T11:24:00.466449+00:00",
+  "today_in_a_sentence": "Defense and aerospace developments include Hanwha Philly Shipyard securing its first U.S. Navy contract for medium landing ship construction, India signing a $5.7 billion contract for next-generation corvettes, and Shield AI completing its first full-scale X-BAT autonomous fighter prototype. Meanwhile, AerFin agreed to acquire 44 aircraft and 88 engines from Qantas in its largest transaction, and trading platform IG launched the 'Superpowered by IG' brand platform via Neverland."
+}

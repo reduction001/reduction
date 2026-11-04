@@ -1,328 +1,296 @@
 {
-  "date": "2026-11-03",
-  "published_at": "2026-11-03T11:01:59.171288+00:00",
+  "date": "2026-11-04",
+  "published_at": "2026-11-04T11:24:00.466449+00:00",
   "stories": [
     {
-      "headline": "US Air Force Awards Lockheed Martin $694 Million Contract to Produce AGM-183A ARRW Hypersonic Missiles",
-      "summary": "The U.S. Air Force awarded Lockheed Martin a nearly $700 million contract for the production and fielding of a hypersonic missile. The service granted Lockheed the $694 million contract in late September as it moved the AGM-183A Air-Launched Rapid Response Weapon, or ARRW, from prototyping and flight testing to production, according to a Monday announcement.",
-      "why_it_matters": "Transitioning the once-troubled ARRW program from development to active production establishes a viable high-speed strike capability for combatant commanders facing advanced anti-access systems.",
+      "headline": "Hanwha Philly Shipyard Secures First U.S. Navy Contract for Medium Landing Ship Construction",
+      "summary": "South Korea's Hanwha Group has secured a contract to build a medium landing ship for the U.S. Navy, marking the start of naval vessel construction at its Philadelphia shipyard. The contract is Hanwha's first U.S. Navy shipbuilding award since acquiring Philly Shipyard in December 2024.",
+      "why_it_matters": "This award marks a strategic expansion of foreign defense investment into the American domestic shipbuilding industrial base, providing the U.S. Navy with additional production capacity for expeditionary fleet expansion.",
       "category": "industry",
       "companies": [
-        "Lockheed Martin"
+        "Hanwha Group",
+        "Hanwha Defense USA",
+        "TOTE Services"
       ],
       "topics": [
-        "Procurement",
-        "Missiles"
+        "Naval Shipbuilding",
+        "Defense Procurement",
+        "Shipyard Infrastructure"
       ],
       "sources": [
         {
-          "publisher": "Aero-News Network",
-          "url": "https://www.aero-news.net/fullsizeimage.cfm?do=main.textpost&id=5E0BCEB7-AF25-4CAB-B8EE-0F060E7447B3",
+          "publisher": "DredgeWire",
+          "url": "https://dredgewire.com/south-koreas-hanwha-wins-first-u-s-navy-shipbuilding-contract/",
           "access": "free",
-          "published_at": "2026-11-03T10:32:55+00:00",
-          "kind": "reporting"
-        }
-      ],
-      "score": 92
-    },
-    {
-      "headline": "US State Department Approves $2.1 Billion Sale of 500 Patriot PAC-3 Missiles to Ukraine",
-      "summary": "The U.S. State Department said on Friday it had approved the sale of 500 Patriot PAC-3 missiles to Ukraine for an estimated $2.1 billion, in what would be one of the most significant steps to supply defensive weapons to Kyiv since the start of the second Trump administration. Lockheed Martin is the principal contractor for the sale of the Patriot interceptors.",
-      "why_it_matters": "The approved multi-billion-dollar foreign military sale reinforces long-term production commitments and margin quality for Lockheed Martin's air defense manufacturing lines.",
-      "category": "industry",
-      "companies": [
-        "Lockheed Martin"
-      ],
-      "topics": [
-        "Procurement",
-        "Missiles"
-      ],
-      "sources": [
-        {
-          "publisher": "Simply Wall St",
-          "url": "https://simplywall.st/stocks/us/capital-goods/nyse-lmt/lockheed-martin/news/lockheed-martin-lmt-lands-21-billion-ukraine-missile-order-w",
-          "access": "free",
-          "published_at": "2026-11-02T19:33:56+00:00",
+          "published_at": "2026-11-04T06:22:30+00:00",
           "kind": "reporting"
         },
         {
-          "publisher": "Defense News",
-          "url": "https://www.defensenews.com/global/europe/2026/11/02/us-approves-2-1-billion-patriot-missile-sale-to-ukraine/",
-          "access": "unknown",
-          "published_at": "2026-11-02T16:46:28+00:00",
-          "kind": "reporting"
-        }
-      ],
-      "score": 90
-    },
-    {
-      "headline": "Hanwha Philly Shipyard Secures $269 Million U.S. Navy Contract for Landing Ship Medium Construction",
-      "summary": "Hanwha has secured its first U.S. Navy shipbuilding contract two years after acquiring Philly Shipyard in the United States, accelerating its push into the local defense market. Hanwha Defense USA (HDUSA), the U.S. subsidiary of Hanwha Aerospace, signed a contract with Tote Services, a U.S. Navy Vessel Construction Manager (VCM), on Oct. 29 for the construction of one Landing Ship Medium.",
-      "why_it_matters": "The deal marks a significant commercial and strategic expansion for Hanwha's U.S. shipyard into high-value naval vessel construction under an accelerated procurement model.",
-      "category": "industry",
-      "companies": [
-        "Hanwha Aerospace",
-        "Hanwha Defense USA"
-      ],
-      "topics": [
-        "Naval",
-        "Procurement"
-      ],
-      "sources": [
-        {
-          "publisher": "Businesskorea",
-          "url": "https://www.businesskorea.co.kr/news/articleView.html?idxno=280300",
+          "publisher": "Container News",
+          "url": "https://container-news.com/hanwha-philly-shipyard-secures-first-us-navy-shipbuilding-contract/",
           "access": "free",
-          "published_at": "2026-11-03T01:52:29+00:00",
-          "kind": "reporting"
-        },
-        {
-          "publisher": "Breaking Defense",
-          "url": "https://breakingdefense.com/2026/10/navy-flexes-new-acquisition-muscles-with-totes-269m-lsm-award-to-hanwha/",
-          "access": "free",
-          "published_at": "2026-10-30T19:11:08+00:00",
-          "kind": "reporting"
-        },
-        {
-          "publisher": "Ocean News & Technology",
-          "url": "https://oceannews.com/news/defense/hanwha-defense-usa-wins-first-us-navy-shipbuilding-contract-for-medium-landing-ship/",
-          "access": "free",
-          "published_at": "2026-11-02T13:58:14+00:00",
-          "kind": "reporting"
-        }
-      ],
-      "score": 88
-    },
-    {
-      "headline": "US Army's HADES Prototype 1 Completes First Flight for Signals Intelligence Missions",
-      "summary": "The U.S. Army announced that its first HADES prototype completed its first flight on September 11. The modified Bombardier Global 6500 aircraft is now entering developmental flight testing for its multi-domain sensing and signals intelligence systems.",
-      "why_it_matters": "The milestone marks a concrete step forward in modernizing the Army's aerial intelligence fleet with high-altitude business jets, offering aerospace buyers and prime contractors a window into long-term deep sensing platform requirements.",
-      "category": "industry",
-      "companies": [
-        "Sierra Nevada Corporation",
-        "Bombardier",
-        "Raytheon",
-        "L3Harris",
-        "Leidos",
-        "MAG Aerospace"
-      ],
-      "topics": [
-        "Aviation",
-        "Signals Intelligence",
-        "Procurement",
-        "Defense"
-      ],
-      "sources": [
-        {
-          "publisher": "The Defence Blog",
-          "url": "https://defence-blog.com/u-s-armys-hades-spy-plane-prototype-makes-first-flight/",
-          "access": "free",
-          "published_at": "2026-11-01T12:55:46+00:00",
-          "kind": "reporting"
-        }
-      ],
-      "score": 88
-    },
-    {
-      "headline": "Leonardo DRS Selected to Provide Power and Cooling Hardware for Army's First Production Laser Weapon",
-      "summary": "Leonardo DRS will supply the power-management, cooling and vehicle-integration hardware for the U.S. Army's first production laser weapon, after AeroVironment selected the firm as a subcontractor on the Enduring-High Energy Laser program, DRS announced Monday. The hardware addresses the electrical-power and heat problems that stalled the Army's previous effort to field a mobile laser.",
-      "why_it_matters": "Solving severe thermal management constraints is a necessary engineering step to transition directed-energy weapons from experimental lab trials to reliable field deployment.",
-      "category": "industry",
-      "companies": [
-        "Leonardo DRS"
-      ],
-      "topics": [
-        "Procurement",
-        "Manufacturing"
-      ],
-      "sources": [
-        {
-          "publisher": "SOFX",
-          "url": "https://www.sofx.com/leonardo-drs-fixes-power-and-heat-flaws-for-armys-first-production-drone-laser/",
-          "access": "free",
-          "published_at": "2026-11-03T05:01:07+00:00",
+          "published_at": "2026-11-03T15:00:07+00:00",
           "kind": "reporting"
         }
       ],
       "score": 85
     },
     {
-      "headline": "Space Force Awards Lockheed Martin $95 Million GPS IIIF Modification to Stabilize Manufacturing Line",
-      "summary": "The U.S. Space Force has awarded Lockheed Martin a $95 million contract modification for the GPS III Follow-On (GPS IIIF) satellite program, increasing the total cumulative value of the spacecraft production contract to $4.73 billion. The $95 million award settles a formal Request for Equitable Adjustment submitted after the Department of the Air Force omitted new satellite orders during the fiscal year 2025 budget request, creating a year-long production hiatus known as a \"Zero Buy\".",
-      "why_it_matters": "Equitable adjustment funding prevents critical aerospace talent and production line continuity from degrading during budget deferral gaps.",
+      "headline": "U.S. Space Force Issues First Cislunar RFI to Close Deep Space Domain Awareness Gap",
+      "summary": "A request for information posted Nov. 2 on SAM.gov represents the first formal acquisition step toward closing that gap: Space Force is asking industry to propose up to five \"seed\" satellites capable of providing space domain awareness, positioning and navigation, and communications relay throughout a region its existing ground-based sensor network was never built to reach. The document sets an aggressive pace.",
+      "why_it_matters": "By pushing acquisition timelines to an accelerated five-year window, the Space Force is forcing traditional aerospace suppliers to radically compress development cycles for deep space operations.",
       "category": "industry",
-      "companies": [
-        "Lockheed Martin"
-      ],
+      "companies": [],
       "topics": [
         "Space",
-        "Procurement"
+        "Procurement",
+        "Satellites"
       ],
       "sources": [
         {
-          "publisher": "SatNews Publishers",
-          "url": "https://satnews.com/2026/11/02/space-force-awards-lockheed-martin-95m-gps-iiif-modification-bringing-contract-face-value-to-4-73b/",
+          "publisher": "Tech Times",
+          "url": "https://www.techtimes.com/articles/330001/20261103/space-force-issues-first-cislunar-acquisition-bid-china-already-has-moon-corridor-relay-satellite.htm",
           "access": "free",
-          "published_at": "2026-11-02T17:31:49+00:00",
+          "published_at": "2026-11-04T02:51:06+00:00",
           "kind": "reporting"
+        }
+      ],
+      "score": 85
+    },
+    {
+      "headline": "Shield AI Completes First Full-Scale X-BAT Autonomous VTOL Fighter Prototype",
+      "summary": "Shield AI has completed the first full-scale prototype of its X-BAT autonomous combat aircraft, bringing its ambitious runway-independent fighter concept closer to flight testing. Designated X-BAT 001, the prototype recently emerged from Shield AI's development facility in Frisco, Texas.",
+      "why_it_matters": "Transitioning uncrewed combat aircraft concepts into physical full-scale prototypes highlights how defense tech firms are accelerating runway-independent capabilities for contested environments.",
+      "category": "industry",
+      "companies": [
+        "Shield AI",
+        "GE Aerospace"
+      ],
+      "topics": [
+        "Autonomous Drones",
+        "VTOL Aircraft",
+        "Defense Prototyping"
+      ],
+      "sources": [
+        {
+          "publisher": "Interesting Engineering",
+          "url": "https://interestingengineering.com/military/x-bat-combat-drone-full-scale-prototype",
+          "access": "free",
+          "published_at": "2026-11-04T03:33:00+00:00",
+          "kind": "reporting"
+        },
+        {
+          "publisher": "Inside Unmanned Systems",
+          "url": "https://insideunmannedsystems.com/shield-ai-completes-first-x-bat-prototype-prepares-for-vertical-flight-testing/",
+          "access": "free",
+          "published_at": "2026-11-03T19:14:59+00:00",
+          "kind": "reporting"
+        },
+        {
+          "publisher": "MiGFlug",
+          "url": "https://migflug.com/afterburner/x-bat-001-full-scale-prototype-shield-ai-vtol-fighter-drone-2026/",
+          "access": "free",
+          "published_at": "2026-11-04T08:57:28+00:00",
+          "kind": "reporting"
+        },
+        {
+          "publisher": "Aviation Week (related reading)",
+          "url": "https://aviationweek.com/defense/aircraft-propulsion/shield-ais-x-bat-moves-toward-first-flight",
+          "access": "paywalled",
+          "kind": "supplemental reading; full text not accessed",
+          "published_at": "2026-11-04T09:26:43+00:00",
+          "used_as_evidence": false
         }
       ],
       "score": 83
     },
     {
-      "headline": "U.S. Pentagon Approves Australian Reusable Cerberus Strike Drone for Military Procurement",
-      "summary": "Armed with a shotgun or 40mm grenade launcher, the AI-guided, man-portable drone by Skyborne Technologies has been added to the Pentagon's approved list for military purchases. The formal government clearance enables the U.S. military and various federal agencies to directly procure the advanced Australian platform.",
-      "why_it_matters": "Inclusion on the Blue List offers international defense startups a direct pipeline into U.S. federal acquisition channels without requiring bespoke commercial validation.",
+      "headline": "AerFin Seals Landmark 737NG Aircraft and Engine Acquisition with Qantas",
+      "summary": "AerFin has agreed to acquire 44 aircraft from Qantas in the largest transaction in the company's history. The acquisition comprises 44 Boeing 737NG aircraft and 88 CFM56-7B engines, marking a major milestone in AerFin's continued expansion and further cementing its position as a leading global aviation aftermarket specialist.",
+      "why_it_matters": "This massive multi-year asset transfer demonstrates the growing scale of secondary-market lifecycle management as major airlines optimize narrowbody fleets, creating substantial long-term material availability for MRO customers.",
       "category": "industry",
-      "companies": [],
-      "topics": [
-        "Drones",
-        "Procurement"
-      ],
-      "sources": [
-        {
-          "publisher": "Israel Defense",
-          "url": "https://www.israeldefense.co.il/en/node/72315",
-          "access": "free",
-          "published_at": "2026-11-03T09:11:15+00:00",
-          "kind": "reporting"
-        }
-      ],
-      "score": 82
-    },
-    {
-      "headline": "Contentsquare Unveils AI-First Experience Platform to Optimize Human and Agentic Commerce Journeys",
-      "summary": "Contentsquare rolled out its reimagined Experience Platform to capture and analyze human, LLM, and autonomous AI agent interactions in one unified layer. The updated suite features advanced conversation intelligence, multi-session tracking, and native agentic experimentation capabilities powered by its Sense AI layer.",
-      "why_it_matters": "As enterprise buyers face a shift toward AI agent interactions and autonomous referrals, digital platforms must evolve from simple session tracking to multi-channel behavioral visibility. This architecture offers B2B marketers a template for measuring automated commercial traffic alongside traditional web visitors.",
-      "category": "marketing",
       "companies": [
-        "Contentsquare",
-        "Dynamic Yield",
-        "Optimizely",
-        "Kameleoon"
+        "AerFin",
+        "Qantas",
+        "Boeing"
       ],
       "topics": [
-        "Artificial Intelligence",
-        "Analytics",
-        "User Experience",
-        "B2B Marketing"
+        "Aviation Aftermarket",
+        "Fleet Management",
+        "MRO"
       ],
       "sources": [
         {
-          "publisher": "Demand Gen Report",
-          "url": "https://www.demandgenreport.com/industry-news/news-brief/contentsquare-new-ai-first-experience-platform-optimizes-human-agent-journey/55169/",
+          "publisher": "AviTrader Aviation News",
+          "url": "https://avitrader.com/2026/11/04/aerfin-seals-landmark-737ng-aircraft-acquisition-from-qantas/",
           "access": "free",
-          "published_at": "2026-11-02T20:30:46+00:00",
+          "published_at": "2026-11-04T11:05:53+00:00",
           "kind": "reporting"
         }
       ],
       "score": 82
     },
     {
-      "headline": "SNT Dynamics Becomes First South Korean Defense Firm to Achieve CMMC Level 2 Certification",
-      "summary": "SNT Dynamics Co., Ltd. has become the first South Korean defense company to receive final certification under the U.S. government's CMMC Level 2 program. Having passed a key security standard for entry into the U.S. defense supply chain, the company is expected to accelerate its entry into the U.S. military maintenance, repair and overhaul (MRO) and mass-production markets.",
-      "why_it_matters": "Meeting stringent international cybersecurity controls removes administrative roadblocks for overseas suppliers seeking direct participation in U.S. defense contracting.",
+      "headline": "India Signs $5.7 Billion Contract with Domestic Shipbuilders to Build Next-Gen Corvettes",
+      "summary": "NEW DELHI - In a major push to strengthen its naval capabilities , India signed a $5.7 billion contract with domestic companies Monday to build eight next-generation, corvettes that will undertake anti-submarine, anti-surface and coastal defense operations. The new ships will gradually replace a fleet of aging single-role corvettes.",
+      "why_it_matters": "Shifting production to domestic yards accelerates regional naval modernization while building local industrial depth to counter expanding maritime competition.",
       "category": "industry",
-      "companies": [],
+      "companies": [
+        "Garden Reach Shipbuilders and Engineers",
+        "Goa Shipyard"
+      ],
       "topics": [
-        "Cyber",
-        "Supply Chain"
+        "Naval",
+        "Procurement",
+        "Manufacturing"
       ],
       "sources": [
         {
-          "publisher": "파이낸셜뉴스",
-          "url": "https://en.fnnews.com/news/202611030937174661",
+          "publisher": "Defense News",
+          "url": "https://www.defensenews.com/global/asia-pacific/2026/11/03/india-orders-next-gen-corvettes-for-5-7b-under-broad-naval-modernization-push/",
+          "access": "unknown",
+          "published_at": "2026-11-03T12:56:27+00:00",
+          "kind": "reporting"
+        }
+      ],
+      "score": 82
+    },
+    {
+      "headline": "U.S. Air Force Issues Request for Information for New Extended Range Attack Munition for Ukraine",
+      "summary": "The US Air Force is looking for contractors to manufacture a new batch of Extended Range Attack Munitions, or ERAMs, for Ukraine, seeking more than 1,000 air-launched cruise missiles capable of striking targets over 460 kilometers away even under heavy electronic warfare. The Air Force has now laid out technical requirements for prospective manufacturers.",
+      "why_it_matters": "Accelerated acquisition frameworks for low-cost, mass-producible standoff munitions illustrate the defense department's urgent focus on scalable precision strike capabilities designed to resist heavy electronic jamming.",
+      "category": "industry",
+      "companies": [],
+      "topics": [
+        "Missile Procurement",
+        "Defense Technology",
+        "Munitions"
+      ],
+      "sources": [
+        {
+          "publisher": "UNITED24 Media",
+          "url": "https://united24media.com/defense-tech/us-air-force-wants-ukraines-next-f-16-weapon-to-fly-460-km-and-beat-gps-jamming-24067",
           "access": "free",
-          "published_at": "2026-11-03T00:57:10+00:00",
+          "published_at": "2026-11-04T08:43:43+00:00",
+          "kind": "reporting"
+        },
+        {
+          "publisher": "Defense News",
+          "url": "https://www.defensenews.com/industry/2026/11/03/us-air-force-asks-industry-for-new-cruise-missile-for-ukraine/",
+          "access": "unknown",
+          "published_at": "2026-11-03T20:14:25+00:00",
+          "kind": "reporting"
+        }
+      ],
+      "score": 81
+    },
+    {
+      "headline": "SWISS Plans Eventual Retirement of Entire Airbus A220 Fleet to Simplify European Operations",
+      "summary": "SWISS plans to eventually remove the Airbus A220 entirely from its fleet, a notable decision from the airline that introduced the aircraft into commercial service and has more experience with the type than any other operator. The airline intends to simplify its European fleet around the Airbus A320 family rather than continue operating two different narrowbody families.",
+      "why_it_matters": "Fleet complexity and persistent engine availability challenges can outweigh the early-adopter advantage of a new aircraft type, prompting network operators to consolidate around homogenized single-aisle families.",
+      "category": "industry",
+      "companies": [
+        "SWISS",
+        "Airbus",
+        "Bombardier",
+        "Pratt & Whitney"
+      ],
+      "topics": [
+        "Fleet Strategy",
+        "Commercial Aviation",
+        "Aircraft Retirement"
+      ],
+      "sources": [
+        {
+          "publisher": "Air Data News",
+          "url": "https://www.airdatanews.com/worlds-first-a220-operator-plans-to-retire-entire-fleet/",
+          "access": "free",
+          "published_at": "2026-11-04T11:00:00+00:00",
+          "kind": "reporting"
+        },
+        {
+          "publisher": "MiGFlug",
+          "url": "https://migflug.com/afterburner/swiss-airbus-a220-retire-entire-fleet-a320neo-2026/",
+          "access": "free",
+          "published_at": "2026-11-04T09:00:20+00:00",
+          "kind": "reporting"
+        }
+      ],
+      "score": 80
+    },
+    {
+      "headline": "France Awards Naval Group Contract to Develop Large Oceangoing Underwater Drone Demonstrator",
+      "summary": "France signed a contract with shipbuilder Naval Group to develop an operational demonstrator of a large-sized oceangoing underwater drone, with sea trials to start in 2028. The demonstrator of the uncrewed combat underwater vehicle, or UCUV, will have to show both endurance and autonomous decision-making capability, the French Armed Forces ministry said late Tuesday.",
+      "why_it_matters": "Investment in large-scale autonomous underwater vehicles enables navies to extend strategic intelligence gathering and offensive operations across vast maritime territories while protecting critical underwater infrastructure.",
+      "category": "industry",
+      "companies": [
+        "Naval Group"
+      ],
+      "topics": [
+        "Underwater Drones",
+        "Naval Autonomy",
+        "Defense Contracts"
+      ],
+      "sources": [
+        {
+          "publisher": "Defense News",
+          "url": "https://www.defensenews.com/global/europe/2026/11/04/france-tasks-naval-group-to-develop-large-oceangoing-underwater-drone/",
+          "access": "unknown",
+          "published_at": "2026-11-04T09:51:15+00:00",
           "kind": "reporting"
         }
       ],
       "score": 79
     },
     {
-      "headline": "Kepler Club and Connectmind AI Leverage Synthetic Customers to Boost Digital Conversion by 35%",
-      "summary": "Airport hospitality brand Kepler Club utilized AI-powered synthetic customer segments from Connectmind AI to redesign its website user experience. Following the digital overhaul, the company reported a 35% increase in conversion rates and a significant decline in booking abandonment.",
-      "why_it_matters": "Using validated synthetic customer segments allows experience designers to stress-test digital interactions before committing resources to live releases. This approach highlights how enterprise brands can scale qualitative user testing through customized behavioral simulations.",
+      "headline": "IG Launches New Brand Platform 'Superpowered By IG' via Neverland to Champion Retail Investors",
+      "summary": "Global investing and trading platform IG has unveiled a new brand platform, Superpowered by IG, with a major UK advertising campaign designed to establish the brand as the champion of retail investors. Developed with creative agency Neverland, the launch campaign, Anything I Can Do, I Can Do Better, brings this positioning to life, celebrating ambition and self-improvement.",
+      "why_it_matters": "Using structured musical narrative and choreographed visual execution helps financial brands transform complex app feature updates into culturally engaging consumer experiences.",
       "category": "marketing",
-      "companies": [
-        "Kepler Club",
-        "Connectmind AI",
-        "Studio Pinto"
-      ],
-      "topics": [
-        "Artificial Intelligence",
-        "Customer Intelligence",
-        "User Experience",
-        "Digital Transformation"
-      ],
-      "sources": [
-        {
-          "publisher": "ADWEEK",
-          "url": "https://www.adweek.com/contributor-content/simulating-the-future-of-experience-design-with-synthetic-customers/",
-          "access": "free",
-          "published_at": "2026-11-02T08:11:35+00:00",
-          "kind": "reporting"
-        }
-      ],
-      "score": 78
-    },
-    {
-      "headline": "Air India Expands 'There is an Air About India' Campaign with Vaibhav Sooryavanshi",
-      "summary": "Air India launched the next chapter of its brand campaign featuring young cricketer Vaibhav Sooryavanshi ahead of the Asian Games. The digital film emphasizes community support networks and aligns with the airline's ongoing post-merger transformation initiatives.",
-      "why_it_matters": "Enterprise brands undergoing significant internal restructuring can use emotionally grounded narrative storytelling to externally mirror their corporate evolution. Integrating real athletic mentorship provides a blueprint for humanizing large-scale industrial turnaround stories.",
-      "category": "marketing",
-      "companies": [
-        "Air India",
-        "Tata group",
-        "McCann",
-        "Boeing",
-        "Airbus"
-      ],
+      "companies": [],
       "topics": [
         "Brand Strategy",
         "Advertising",
-        "Digital Storytelling",
-        "Aviation"
+        "Creative Platforms"
       ],
       "sources": [
         {
-          "publisher": "https://safariindia.com/",
-          "url": "https://safariindia.com/air-india-new-campaign-vaibhav-sooryavanshi/",
+          "publisher": "Roastbrief US",
+          "url": "https://roastbrief.us/ig-launches-new-brand-platform-superpowered-by-ig-with-neverland/",
           "access": "free",
-          "published_at": "2026-11-02T19:41:06+00:00",
+          "published_at": "2026-11-03T17:24:19+00:00",
           "kind": "reporting"
         }
       ],
       "score": 75
     },
     {
-      "headline": "Istituto Marangoni and Baralan Partner on Cosmetics Packaging Curriculum",
-      "summary": "Istituto Marangoni Milano established a strategic partnership with primary packaging manufacturer Baralan to integrate commercial packaging design into its beauty curricula. Under the agreement, Baralan teams will lead student mentoring sessions and evaluate practical solutions balancing aesthetics with manufacturing feasibility.",
-      "why_it_matters": "Bridging the gap between academic design theory and industrial production constraints provides a valuable model for specialized vocational education. This partnership demonstrates how B2B industrial suppliers can cultivate early talent pipelines while solving persistent industry skills gaps.",
+      "headline": "SKF Vertevo Unveils Standalone Visual Identity and Brand Platform Ahead of Spinoff Listing",
+      "summary": "As the next step in the separation of SKF's Automotive business, SKF Vertevo has unveiled its new brand, marking an important milestone in establishing its identity as a standalone automotive company ahead of its planned listing on 1 December. The launch of the SKF Vertevo website and social media channels introduces the company's new visual identity and brand platform, providing a clear expression of its purpose, values and future direction.",
+      "why_it_matters": "Creating a distinct visual identity rooted in legacy heritage helps corporate carve-outs build immediate stakeholder recognition during market transitions.",
       "category": "marketing",
       "companies": [
-        "Baralan",
-        "Istituto Marangoni Milano"
+        "SKF Vertevo",
+        "SKF"
       ],
       "topics": [
-        "Design",
-        "Education",
-        "Manufacturing",
-        "Partnerships"
+        "Brand Identity",
+        "Corporate Rebranding",
+        "Mobility"
       ],
       "sources": [
         {
-          "publisher": "Fashion United",
-          "url": "https://fashionunited.uk/news/fashion/istituto-marangoni-and-baralan-partner-on-cosmetics-packaging-curriculum/2026110391165",
+          "publisher": "Motorindia",
+          "url": "https://www.motorindiaonline.in/skf-vertevo-unveils-new-brand-identity-ahead-of-planned-listing/",
           "access": "free",
-          "published_at": "2026-11-03T08:23:42+00:00",
+          "published_at": "2026-11-04T08:51:05+00:00",
           "kind": "reporting"
         }
       ],
-      "score": 74
+      "score": 70
     }
   ],
-  "coverage_start": "2026-10-30T04:54:41.971733+00:00",
-  "coverage_end": "2026-11-03T11:01:59.171288+00:00",
-  "today_in_a_sentence": "Defense developments include major contract awards for Lockheed Martin, including a $694 million hypersonic missile production contract and a $95 million GPS satellite modification. Meanwhile, the U.S. State Department approved a $2.1 billion sale of Patriot missiles to Ukraine."
+  "coverage_start": "2026-11-03T05:01:59.171288+00:00",
+  "coverage_end": "2026-11-04T11:24:00.466449+00:00",
+  "today_in_a_sentence": "Defense and aerospace developments include Hanwha Philly Shipyard securing its first U.S. Navy contract for medium landing ship construction, India signing a $5.7 billion contract for next-generation corvettes, and Shield AI completing its first full-scale X-BAT autonomous fighter prototype. Meanwhile, AerFin agreed to acquire 44 aircraft and 88 engines from Qantas in its largest transaction, and trading platform IG launched the 'Superpowered by IG' brand platform via Neverland."
 }
