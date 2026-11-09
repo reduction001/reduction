@@ -1,336 +1,237 @@
 {
-  "date": "2026-11-06",
-  "published_at": "2026-11-06T11:11:34.684626+00:00",
+  "date": "2026-11-09",
+  "published_at": "2026-11-09T20:43:31.991169+00:00",
   "stories": [
     {
-      "headline": "Shield AI Agrees to Acquire Radar Startup Echodyne for $5.3 Billion",
-      "summary": "Defense technology startup Shield AI Inc. said today it has agreed to buy the Bill Gates-backed radar startup Echodyne Inc. in a deal valued at $5.3 billion. The acquisition is intended to enhance Shield's autonomous drone warfighting capabilities, it said.",
-      "why_it_matters": "Integrating solid-state MESA radar systems directly into autonomous architectures addresses a critical warfighting need for contested environments. This multi-billion-dollar deal positions Shield AI to expand its portfolio across autonomy software, autonomous platforms, and advanced mission systems.",
-      "category": "industry",
+      "headline": "Ogilvy and CAA Launch Consent-Based Creative AI Platform ECHO",
+      "summary": "Ogilvy partnered with Creative Artists Agency to launch ECHO, a proprietary AI platform that transforms single ambassador production shoots into real-time creative content systems. Integrated with the CAA Vault, the platform protects talent rights and IP by requiring mandatory talent sign-off on every asset before publication.",
+      "why_it_matters": "By embedding machine-enforceable contracts and verified talent scans directly into enterprise production workflows, ECHO creates a scalable blueprint for resolving the tension between rapid content generation and intellectual property protection. This consent-first architecture offers a viable framework for brands navigating AI risk while scaling high-craft campaigns.",
+      "category": "marketing",
       "companies": [
-        "Shield AI",
-        "Echodyne"
+        "Ogilvy",
+        "Creative Artists Agency",
+        "WPP"
       ],
       "topics": [
-        "M&A",
-        "Drones",
-        "Autonomy",
-        "Procurement"
+        "artificial intelligence",
+        "brand platforms",
+        "intellectual property"
       ],
       "sources": [
         {
-          "publisher": "SiliconANGLE",
-          "url": "https://siliconangle.com/2026/11/05/autonomous-combat-drone-maker-shield-ai-buys-radar-startup-echodyne-for-5-3b/",
+          "publisher": "Roastbrief US",
+          "url": "https://roastbrief.us/ogilvy-launches-echo-the-industrys-first-talent-consent-based-creative-ai-platform/",
           "access": "free",
-          "published_at": "2026-11-06T01:13:00+00:00",
+          "published_at": "2026-11-09T17:40:13+00:00",
           "kind": "reporting"
         },
         {
-          "publisher": "Defense News",
-          "url": "https://www.defensenews.com/industry/techwatch/2026/11/05/shield-ai-to-acquire-radar-maker-echodyne-to-bust-drones/",
-          "access": "unknown",
-          "published_at": "2026-11-05T22:55:48+00:00",
-          "kind": "reporting"
-        },
-        {
-          "publisher": "Breaking Defense",
-          "url": "https://breakingdefense.com/2026/11/shield-ai-acquires-radar-firm-echodyne-in-5-3b-deal/",
+          "publisher": "LBB - Little Black Book",
+          "url": "https://lbbonline.com/news/ogilvy-caa-echo-ai-production-wpp",
           "access": "free",
-          "published_at": "2026-11-05T16:32:36+00:00",
+          "published_at": "2026-11-09T15:36:40+00:00",
           "kind": "reporting"
         }
       ],
-      "score": 95
+      "score": 90
     },
     {
-      "headline": "Fairbanks Morse Defense Debuts AutoHook for Fully Autonomous Vessel Recovery at Euronaval",
-      "summary": "Fairbanks Morse Defense debuted AutoHook at Euronaval 2026 in Paris, a first-of-its-kind fully autonomous vessel recovery interface developed by FMD's Norway-based business, Vestdavit. Whereas current autonomous solutions fail to meet operational demands beyond Sea State 2, AutoHook successfully achieved operational acceptance at Sea State 4.",
-      "why_it_matters": "By breaking the Sea State 2 limit for uncrewed surface vessel recovery, AutoHook provides naval buyers with a standardized interface that removes human intervention in high-risk conditions.",
+      "headline": "Royal Navy Commissions First Autonomous Squadron at Portsmouth",
+      "summary": "The 1st Autonomous Squadron was formally commissioned in a ceremony on November 5 at His Majesty's Naval Base Portsmouth, in front of more than 200 Navy personnel, dignitaries, media, families, and friends. The unit will operate uncrewed surface vessels like the Kraken and Rattler to integrate uncrewed technology into frontline operations.",
+      "why_it_matters": "Formalizing a dedicated uncrewed squadron marks a structural shift toward a hybrid naval fleet backed by sustained multi-year investments in operational autonomy.",
       "category": "industry",
-      "companies": [
-        "Fairbanks Morse Defense",
-        "Vestdavit"
-      ],
+      "companies": [],
       "topics": [
+        "Naval",
         "Autonomous Systems",
-        "Naval Defense",
-        "Maritime Operations"
+        "Drones"
       ],
       "sources": [
         {
-          "publisher": "Naval News",
-          "url": "https://www.navalnews.com/event-news/euronaval-2026/2026/11/fairbanks-morse-defense-unveils-autohook-for-fully-autonomous-vessel-recovery-at-euronaval-2026/",
+          "publisher": "Ocean News & Technology",
+          "url": "https://oceannews.com/news/defense/royal-navy-commissions-first-autonomous-squadron-at-portsmouth/",
           "access": "free",
-          "published_at": "2026-11-05T12:39:46+00:00",
+          "published_at": "2026-11-09T14:26:41+00:00",
           "kind": "reporting"
-        }
-      ],
-      "score": 88
-    },
-    {
-      "headline": "Lockheed Martin Expands Camden, Arkansas Missile Production Facility with $420 Million Investment",
-      "summary": "Lockheed Martin announced a US$420 million expansion of its Camden, Arkansas manufacturing complex, tied to 650 new jobs. The enlarged facility is planned to increase output of key missile systems used across multiple U.S. defense programs.",
-      "why_it_matters": "Substantial manufacturing investments directly address ongoing supply chain and throughput constraints across major defense munitions programs. Expanding localized capacity supports heightened demand from both U.S. services and international partner nations.",
-      "category": "industry",
-      "companies": [
-        "Lockheed Martin"
-      ],
-      "topics": [
-        "Manufacturing",
-        "Procurement",
-        "Missiles"
-      ],
-      "sources": [
+        },
         {
-          "publisher": "Simply Wall St",
-          "url": "https://simplywall.st/stocks/us/capital-goods/nyse-lmt/lockheed-martin/news/lockheed-martin-lmt-is-investing-420-million-in-missile-prod",
+          "publisher": "Defense Mirror",
+          "url": "https://defensemirror.com/news/42328/U_K__Royal_Navy_Launches_First_Autonomous_Squadron_for_Front_Line_Operations",
           "access": "free",
-          "published_at": "2026-11-05T08:29:30+00:00",
+          "published_at": "2026-11-09T05:40:36+00:00",
+          "kind": "reporting"
+        },
+        {
+          "publisher": "The Herald",
+          "url": "https://www.heraldscotland.com/news/26709897.royal-navy-launches-first-autonomous-squadron-boats/",
+          "access": "free",
+          "published_at": "2026-11-09T00:02:39+00:00",
           "kind": "reporting"
         }
       ],
       "score": 85
     },
     {
-      "headline": "Lockheed Martin Receives U.S. Navy Phase II Contract for PAC-3 MSE Integration at Sea",
-      "summary": "The U.S. Navy is bringing the PAC-3® Missile Segment Enhancement (MSE) to sea. In late Sept., Lockheed Martin received the phase II contract to continue development and integration work for the PAC-3 MSE Navy program.",
-      "why_it_matters": "Extending proven land-based air and missile defense assets into maritime combat architectures enhances joint-force layered defense capabilities. Capitalizing on contractor self-funded R&D accelerates the integration of advanced interceptors with shipboard vertical launching systems.",
+      "headline": "RTX Enters Multiyear Pentagon Contracts Worth $70 Billion to Surge Missile Production",
+      "summary": "RTX has entered into four multiyear Pentagon contracts worth approximately $70 billion to increase production capacity for its Tomahawk, AMRAAM, SM-6, and SM-3 IB missiles. By 2030, the aerospace and defense company is expected to ramp up production across all four critical munitions programs, with output acceleration gathering pace over the next two years.",
+      "why_it_matters": "These massive multiyear commitments provide long-term supply chain visibility and secure production scalability to address persistent munitions backlogs.",
       "category": "industry",
       "companies": [
-        "Lockheed Martin"
+        "RTX"
       ],
       "topics": [
-        "Naval",
         "Missiles",
-        "Procurement"
+        "Procurement",
+        "Manufacturing",
+        "Supply Chains"
       ],
       "sources": [
         {
-          "publisher": "Lockheed Martin",
-          "url": "https://www.lockheedmartin.com/en-us/news/features/2026/integrating-to-win-sending-pac-3-missile-segment-enhancement-mse-to-sea.html",
+          "publisher": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/economy/policy/articles/tomahawk-amraam-missiles-could-see-200236897.html",
           "access": "free",
-          "published_at": "2026-11-05T14:49:16+00:00",
-          "kind": "company announcement"
+          "published_at": "2026-11-09T20:02:36+00:00",
+          "kind": "reporting"
         }
       ],
       "score": 82
     },
     {
-      "headline": "Saildrone and Umoe Mandal Partner to Manufacture Surveyor USVs in Norway",
-      "summary": "Saildrone and Norwegian shipbuilding company Umoe Mandal have signed an agreement to produce unmanned surface vessels, with some parts being built in Norway, company executives said. Under the agreement, signed Wednesday at the Euronaval defense show here, the Norwegian company will build the vessel for Saildrone's 20-meter-long Surveyor USV, and the US-based manufacturer will provide the autonomy suite as well as electronics and navigation systems.",
-      "why_it_matters": "Localizing manufacturing through European industrial partnerships enables uncrewed systems developers to scale production rapidly for regional navies. This model supports sovereign maritime domain awareness and aligns with collective defense procurement frameworks like NORDEFCO.",
+      "headline": "Boeing to Cut 5% of Commercial Airplane Workforce Amid Slower Production Ramp-Up",
+      "summary": "Boeing plans to reduce its commercial airplane workforce by approximately 5% as slower production increases leave the division overstaffed. The reduction will involve a combination of attrition and involuntary layoffs, with notifications beginning in December.",
+      "why_it_matters": "Slower production schedules and supply chain bottlenecks continue to force workforce corrections across major aerospace manufacturing programs.",
       "category": "industry",
       "companies": [
-        "Saildrone",
-        "Umoe Mandal"
+        "Boeing"
       ],
       "topics": [
-        "Naval",
-        "Drones",
-        "Autonomy",
-        "Supply Chain"
+        "Aviation",
+        "Manufacturing",
+        "Supply Chains"
       ],
       "sources": [
         {
-          "publisher": "Breaking Defense",
-          "url": "https://breakingdefense.com/2026/11/saildrone-inks-agreement-with-norwegian-shipbuilder-umoe-mandal-to-produce-usvs/",
+          "publisher": "Anadolu Ajansı",
+          "url": "https://aa.com.tr/en/economy/boeing-to-cut-5-of-commercial-airplane-workforce-as-production-ramp-up-slows/4117929",
           "access": "free",
-          "published_at": "2026-11-05T17:26:50+00:00",
+          "published_at": "2026-11-09T19:41:58+00:00",
           "kind": "reporting"
         },
         {
-          "publisher": "Defense News",
-          "url": "https://www.defensenews.com/global/europe/2026/11/04/saildrone-expands-its-european-market-reach-with-manufacturing-partner-in-norway/",
+          "publisher": "CNBC",
+          "url": "https://www.cnbc.com/2026/11/09/boeing-layoffs-commercial-airplane.html",
           "access": "free",
-          "published_at": "2026-11-04T12:37:22+00:00",
+          "published_at": "2026-11-09T17:47:05+00:00",
           "kind": "reporting"
         }
       ],
       "score": 80
     },
     {
-      "headline": "Babcock Adds Seven Defense Firms to ARMOR Force Autonomous Naval Program",
-      "summary": "Babcock International Group has added seven defense and technology companies - CUBEDIN, Exail, Hensoldt, Kraken Technology Group, SH Defense, Stormborn and Thales - to its ARMOR Force (Autonomous and Remote Maritime Operational Response - Force) Framework. The framework brings together autonomous platforms, sensors, payloads, communications and mission systems to support the integration of crewed, lean-crewed and uncrewed naval vessels.",
-      "why_it_matters": "Expanding open-architecture frameworks with multiple specialized technology partners helps prime contractors accelerate multi-domain integration while avoiding single-supplier dependencies. This collaborative approach under commanded autonomy models offers buyers flexible pathways for modernizing naval forces.",
+      "headline": "Pentagon Grants Neros Technologies $450 Million Loan for Domestic Drone Component Production",
+      "summary": "The Department of Defense has provided California-based drone manufacturer Neros Technologies with a conditional $450 million loan to expand domestic production of small-drone components. The company also plans to invest another $165 million in the project, bringing total investment to $615 million.",
+      "why_it_matters": "Targeted federal lending programs aim to onshore critical components and eliminate dependence on foreign supply chains for small uncrewed aerial systems.",
       "category": "industry",
       "companies": [
-        "Babcock International Group",
-        "Exail",
-        "Hensoldt",
-        "Thales"
+        "Neros Technologies"
       ],
       "topics": [
-        "Naval",
-        "Autonomy",
-        "Procurement",
-        "Sensors"
-      ],
-      "sources": [
-        {
-          "publisher": "Defense Mirror",
-          "url": "https://defensemirror.com/news/42320/Babcock_Adds_7_Firms_to_ARMOR_Force_Autonomous_Naval_Program",
-          "access": "free",
-          "published_at": "2026-11-05T06:27:52+00:00",
-          "kind": "reporting"
-        }
-      ],
-      "score": 78
-    },
-    {
-      "headline": "Oshkosh Defense and Grid Aero Partner to Produce Autonomous Modular Payload Aircraft",
-      "summary": "Oshkosh Defense, an Oshkosh Corporation company, and Grid Aero, a Silicon Valley-based autonomous aircraft company, announced a strategic partnership to bring cutting-edge autonomous modular payload aircraft technology into production-ready reality for America's defense needs. The collaboration addresses the Department of War's urgent need for resilient, autonomous aircraft solutions in contested environments by pairing Grid Aero's innovative approach to aircraft design with Oshkosh's world-class manufacturing expertise, supply chain capabilities, and proven track record industrializing complex defense systems at scale.",
-      "why_it_matters": "Marrying Silicon Valley aerospace innovation with traditional defense manufacturing infrastructure provides a viable path to scaling low-cost autonomous aircraft. This partnership model addresses military demand for affordable mass and rapid production readiness.",
-      "category": "industry",
-      "companies": [
-        "Oshkosh Defense",
-        "Grid Aero"
-      ],
-      "topics": [
-        "Manufacturing",
         "Drones",
-        "Autonomy",
-        "Procurement"
-      ],
-      "sources": [
-        {
-          "publisher": "Aerospace Manufacturing and Design",
-          "url": "https://www.aerospacemanufacturinganddesign.com/news/grid-aero-oshkosh-defense-partner-uas/",
-          "access": "free",
-          "published_at": "2026-11-05T07:00:00+00:00",
-          "kind": "reporting"
-        }
-      ],
-      "score": 78
-    },
-    {
-      "headline": "Entain and LUMO Launch Great Southern Lights 3D Campaign for Auckland Cup Week",
-      "summary": "Entain's TAB opened LUMO's new Great Southern Lights screen in Auckland during Cup week with an interactive 3D creative built to stretch across both faces of the display. The 158.4-square-metre screen wraps around the intersection in Penrose and features connected faces that allow narratives to unfold across multiple sides and 3D creative to project out from the frame.",
-      "why_it_matters": "Architectural digital-out-of-home screens with multi-faced configurations offer creative teams a structural canvas to move beyond flat displays and engage audiences across heavy industrial and commuter hubs.",
-      "category": "marketing",
-      "companies": [
-        "Entain",
-        "LUMO",
-        "Vistar Media"
-      ],
-      "topics": [
-        "Out-of-Home",
-        "3D Creative",
-        "Programmatic Advertising"
-      ],
-      "sources": [
-        {
-          "publisher": "LBB - Little Black Book",
-          "url": "https://lbbonline.com/news/lumo-great-southern-lights-entain",
-          "access": "free",
-          "published_at": "2026-11-04T23:05:32+00:00",
-          "kind": "reporting"
-        }
-      ],
-      "score": 78
-    },
-    {
-      "headline": "Airbus A320 ATRA Flying Laboratory Starts Flight Operations with Eurofighter Nose",
-      "summary": "The Airbus A320 ATRA has completed its commissioning flights at the Airbus site in Manching, Germany. Fitted with a customised Eurofighter nose, this aircraft owned by the German Aerospace Center (DLR) will support the continued development of the Eurofighter's new E-Scan radar.",
-      "why_it_matters": "Utilizing heavily modified commercial aircraft as dedicated flying test beds allows aerospace developers to validate complex military radar hardware and software well ahead of production. This rigorous in-flight testing de-risks multi-nation fighter upgrade programs like Tranche 5 and Halcón.",
-      "category": "industry",
-      "companies": [
-        "Airbus"
-      ],
-      "topics": [
-        "Aviation",
-        "Sensors",
+        "Procurement",
+        "Supply Chains",
         "Manufacturing"
       ],
       "sources": [
         {
-          "publisher": "Airbus",
-          "url": "https://www.airbus.com/en/newsroom/stories/2026-11-a320-with-a-eurofighter-nose-airbus-flying-radar-lab-starts-flight-operations",
+          "publisher": "UA.NEWS",
+          "url": "https://ua.news/en/dovkolo-svitu/pentagon-nadav-neros-poziku-na-450-mln-dlia-virobnitstva-droniv-defense-news",
           "access": "free",
-          "published_at": "2026-11-06T09:00:00+00:00",
-          "kind": "company announcement"
+          "published_at": "2026-11-09T16:00:43+00:00",
+          "kind": "reporting"
+        },
+        {
+          "publisher": "Defense News",
+          "url": "https://www.defensenews.com/industry/techwatch/2026/11/09/neros-to-expand-domestic-drone-production-with-450m-pentagon-loan/",
+          "access": "unknown",
+          "published_at": "2026-11-09T15:45:23+00:00",
+          "kind": "reporting"
         }
       ],
-      "score": 75
+      "score": 78
     },
     {
-      "headline": "Capsule Japan and Pony Canyon Partner to Expand Anime IP Experiential Tourism Across Asia-Pacific",
-      "summary": "Cross-border agency Capsule Japan has expanded its strategic business partnership with Japanese entertainment company Pony Canyon to accelerate the global commercial expansion and experiential marketing of anime intellectual property across Asia-Pacific. The partnership debuts with the Tokyo Revengers BAKUSO POP UP ASIA TOUR, a multi-market experiential retail activation visiting Seoul, Taipei, and Bangkok between November 2026 and January 2027.",
-      "why_it_matters": "Linking catalog-driven entertainment IP with localized experiential retail provides brands with a repeatable cross-border framework to monetize fan engagement across growing Asian markets.",
+      "headline": "T-Mobile Appoints Anomaly and Highdive in Creative Operations Restructuring",
+      "summary": "T-Mobile restructured its creative operations by naming Anomaly its strategic brand transformation partner and Highdive as its lead creative advertising agency. The changes support the telecommunications company's expansion beyond wireless while integrating AI-powered tools within its in-house studio, T-Studios.",
+      "why_it_matters": "Splitting strategic enterprise transformation from tactical campaign execution allows brands to manage dual pressures of long-term business diversification and high-frequency digital engagement. This structural model demonstrates how large enterprises can combine specialized agency partnerships with scaled in-house production capabilities.",
       "category": "marketing",
       "companies": [
-        "Capsule Japan",
-        "Pony Canyon"
+        "Anomaly",
+        "Highdive"
       ],
       "topics": [
-        "Experiential Marketing",
-        "Retail Activations",
-        "Entertainment"
+        "brand strategy",
+        "agency restructuring",
+        "creative operations"
       ],
       "sources": [
         {
-          "publisher": "marketech apac",
-          "url": "https://marketech-apac.com/capsule-japan-pony-canyon-partner-to-take-anime-ip-experiential-across-asia-pacific/",
+          "publisher": "LBB - Little Black Book",
+          "url": "https://lbbonline.com/news/t-mobile-highdive-anomaly-usa-agency-ai-brand-strategy-t-studios",
           "access": "free",
-          "published_at": "2026-11-06T09:48:31+00:00",
+          "published_at": "2026-11-09T17:16:42+00:00",
           "kind": "reporting"
         }
       ],
       "score": 75
     },
     {
-      "headline": "Particular Audience Integrates CDP Audience Targeting into Organic Search and Merchandising Platform",
-      "summary": "Retail media personalization platform Particular Audience has added Customer Data Platform audience targeting to its suite, allowing retailers to attach audience segments directly to organic search rules and merchandising workflows. The integration enables in-house teams to boost or hide products based on CDP segments across both site-wide search and retail media placements.",
-      "why_it_matters": "By connecting customer data platform segments directly to organic search and merchandising rules, merchandisers can maintain existing stacks while applying real-time personalization without migrating to a CDP vendor's toolset.",
-      "category": "marketing",
-      "companies": [
-        "Particular Audience",
-        "Adobe"
-      ],
+      "headline": "Dutch Startup Optics11 in Talks with Dozens of Navies for Optical-Fiber Underwater Sensing Tech",
+      "summary": "Dutch startup Optics11 is in talks with dozens of navies about using its optical-fiber sensing technology for underwater monitoring and threat detection, with between five and ten navies already signed on as clients. The company will conduct approximately 35 paid trials this year with navies testing its specialized acoustic vibration detection systems.",
+      "why_it_matters": "Advanced fiber-optic sensing offers higher resolution than traditional passive sonar, making it an attractive next-generation capability for submarine and seabed monitoring programs.",
+      "category": "industry",
+      "companies": [],
       "topics": [
-        "Retail Media",
-        "Customer Data Platforms",
-        "Search Personalization"
+        "Naval",
+        "Autonomous Systems",
+        "Procurement"
       ],
       "sources": [
         {
-          "publisher": "ADWEEK",
-          "url": "https://www.adweek.com/adweek-wire/particular-audience-adds-cdp-audience-targeting-to-its-organic-search-and-merchandising-platform/",
-          "access": "free",
-          "published_at": "2026-11-05T09:18:14+00:00",
+          "publisher": "Defense News",
+          "url": "https://www.defensenews.com/global/europe/2026/11/09/dutch-firm-optics11-in-talks-with-navies-on-secretive-underwater-listening-tech/",
+          "access": "unknown",
+          "published_at": "2026-11-09T17:52:01+00:00",
           "kind": "reporting"
         }
       ],
-      "score": 74
+      "score": 73
     },
     {
-      "headline": "MINT Square and IAS Partner to Integrate Brand Safety Across Programmatic Workflows",
-      "summary": "MINT Square has integrated Integral Ad Science technology into major programmatic platforms including Active Agent, Adform, and The Trade Desk. The integration provides mid-market agencies and their clients with automated brand safety, viewability, and fraud protection embedded directly into campaign setups.",
-      "why_it_matters": "Embedding verification tools into structured agency membership models reduces operational friction, allowing mid-sized buyers to allocate more budget directly to media while maintaining safety standards.",
+      "headline": "Optus Launches Enterprise Brand Platform 'Here for every next' via Apparent",
+      "summary": "Optus launched a new enterprise brand platform titled 'Here for every next' to reinforce its role as a technology partner for Australian organizations. Developed by Apparent, the multichannel campaign uses real customer stories to highlight long-term business transformation and collaboration.",
+      "why_it_matters": "B2B tech marketing often relies on generic feature lists, but anchoring a platform in long-term customer partnerships differentiates utility-driven commodity services. This approach provides a repeatable creative template for B2B brands looking to move the conversation from transactional product sales to strategic partnership.",
       "category": "marketing",
       "companies": [
-        "MINT Square",
-        "Integral Ad Science",
-        "The Trade Desk",
-        "Adform"
+        "Apparent"
       ],
       "topics": [
-        "Programmatic Advertising",
-        "Brand Safety",
-        "Ad Verification"
+        "brand platform",
+        "B2B campaigns",
+        "enterprise connectivity"
       ],
       "sources": [
         {
-          "publisher": "ADWEEK",
-          "url": "https://www.adweek.com/adweek-wire/mint-square-and-ias-partner-to-simplify-access-to-ad-measurement-and-brand-safety/",
+          "publisher": "LBB - Little Black Book",
+          "url": "https://lbbonline.com/news/optus-here-for-every-next-apparent",
           "access": "free",
-          "published_at": "2026-11-05T08:28:35+00:00",
+          "published_at": "2026-11-08T23:22:57+00:00",
           "kind": "reporting"
         }
       ],
-      "score": 72
+      "score": 70
     }
   ],
-  "coverage_start": "2026-11-04T05:24:00.466449+00:00",
-  "coverage_end": "2026-11-06T11:11:34.684626+00:00",
-  "today_in_a_sentence": "Shield AI has agreed to acquire radar startup Echodyne for $5.3 billion to enhance autonomous drone warfighting capabilities. Meanwhile, defense investments and partnerships expand, featuring Lockheed Martin's $420 million facility expansion in Arkansas and Saildrone joining forces with Umoe Mandal to produce unmanned surface vessels in Norway. Additionally, Entain and LUMO launched an interactive 3D campaign in Auckland featuring a new screen."
+  "coverage_start": "2026-11-06T05:11:34.684626+00:00",
+  "coverage_end": "2026-11-09T20:43:31.991169+00:00",
+  "today_in_a_sentence": "Ogilvy and Creative Artists Agency launched ECHO, a consent-based AI platform designed to protect talent rights, while T-Mobile appointed Anomaly and Highdive to restructure its creative operations. Meanwhile, defense developments included the Royal Navy commissioning its first autonomous squadron, RTX securing $70 billion in multiyear Pentagon missile contracts, and Boeing planning to cut 5% of its commercial airplane workforce amid slower production."
 }

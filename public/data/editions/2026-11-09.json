@@ -1,0 +1,237 @@
+{
+  "date": "2026-11-09",
+  "published_at": "2026-11-09T20:43:31.991169+00:00",
+  "stories": [
+    {
+      "headline": "Ogilvy and CAA Launch Consent-Based Creative AI Platform ECHO",
+      "summary": "Ogilvy partnered with Creative Artists Agency to launch ECHO, a proprietary AI platform that transforms single ambassador production shoots into real-time creative content systems. Integrated with the CAA Vault, the platform protects talent rights and IP by requiring mandatory talent sign-off on every asset before publication.",
+      "why_it_matters": "By embedding machine-enforceable contracts and verified talent scans directly into enterprise production workflows, ECHO creates a scalable blueprint for resolving the tension between rapid content generation and intellectual property protection. This consent-first architecture offers a viable framework for brands navigating AI risk while scaling high-craft campaigns.",
+      "category": "marketing",
+      "companies": [
+        "Ogilvy",
+        "Creative Artists Agency",
+        "WPP"
+      ],
+      "topics": [
+        "artificial intelligence",
+        "brand platforms",
+        "intellectual property"
+      ],
+      "sources": [
+        {
+          "publisher": "Roastbrief US",
+          "url": "https://roastbrief.us/ogilvy-launches-echo-the-industrys-first-talent-consent-based-creative-ai-platform/",
+          "access": "free",
+          "published_at": "2026-11-09T17:40:13+00:00",
+          "kind": "reporting"
+        },
+        {
+          "publisher": "LBB - Little Black Book",
+          "url": "https://lbbonline.com/news/ogilvy-caa-echo-ai-production-wpp",
+          "access": "free",
+          "published_at": "2026-11-09T15:36:40+00:00",
+          "kind": "reporting"
+        }
+      ],
+      "score": 90
+    },
+    {
+      "headline": "Royal Navy Commissions First Autonomous Squadron at Portsmouth",
+      "summary": "The 1st Autonomous Squadron was formally commissioned in a ceremony on November 5 at His Majesty's Naval Base Portsmouth, in front of more than 200 Navy personnel, dignitaries, media, families, and friends. The unit will operate uncrewed surface vessels like the Kraken and Rattler to integrate uncrewed technology into frontline operations.",
+      "why_it_matters": "Formalizing a dedicated uncrewed squadron marks a structural shift toward a hybrid naval fleet backed by sustained multi-year investments in operational autonomy.",
+      "category": "industry",
+      "companies": [],
+      "topics": [
+        "Naval",
+        "Autonomous Systems",
+        "Drones"
+      ],
+      "sources": [
+        {
+          "publisher": "Ocean News & Technology",
+          "url": "https://oceannews.com/news/defense/royal-navy-commissions-first-autonomous-squadron-at-portsmouth/",
+          "access": "free",
+          "published_at": "2026-11-09T14:26:41+00:00",
+          "kind": "reporting"
+        },
+        {
+          "publisher": "Defense Mirror",
+          "url": "https://defensemirror.com/news/42328/U_K__Royal_Navy_Launches_First_Autonomous_Squadron_for_Front_Line_Operations",
+          "access": "free",
+          "published_at": "2026-11-09T05:40:36+00:00",
+          "kind": "reporting"
+        },
+        {
+          "publisher": "The Herald",
+          "url": "https://www.heraldscotland.com/news/26709897.royal-navy-launches-first-autonomous-squadron-boats/",
+          "access": "free",
+          "published_at": "2026-11-09T00:02:39+00:00",
+          "kind": "reporting"
+        }
+      ],
+      "score": 85
+    },
+    {
+      "headline": "RTX Enters Multiyear Pentagon Contracts Worth $70 Billion to Surge Missile Production",
+      "summary": "RTX has entered into four multiyear Pentagon contracts worth approximately $70 billion to increase production capacity for its Tomahawk, AMRAAM, SM-6, and SM-3 IB missiles. By 2030, the aerospace and defense company is expected to ramp up production across all four critical munitions programs, with output acceleration gathering pace over the next two years.",
+      "why_it_matters": "These massive multiyear commitments provide long-term supply chain visibility and secure production scalability to address persistent munitions backlogs.",
+      "category": "industry",
+      "companies": [
+        "RTX"
+      ],
+      "topics": [
+        "Missiles",
+        "Procurement",
+        "Manufacturing",
+        "Supply Chains"
+      ],
+      "sources": [
+        {
+          "publisher": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/economy/policy/articles/tomahawk-amraam-missiles-could-see-200236897.html",
+          "access": "free",
+          "published_at": "2026-11-09T20:02:36+00:00",
+          "kind": "reporting"
+        }
+      ],
+      "score": 82
+    },
+    {
+      "headline": "Boeing to Cut 5% of Commercial Airplane Workforce Amid Slower Production Ramp-Up",
+      "summary": "Boeing plans to reduce its commercial airplane workforce by approximately 5% as slower production increases leave the division overstaffed. The reduction will involve a combination of attrition and involuntary layoffs, with notifications beginning in December.",
+      "why_it_matters": "Slower production schedules and supply chain bottlenecks continue to force workforce corrections across major aerospace manufacturing programs.",
+      "category": "industry",
+      "companies": [
+        "Boeing"
+      ],
+      "topics": [
+        "Aviation",
+        "Manufacturing",
+        "Supply Chains"
+      ],
+      "sources": [
+        {
+          "publisher": "Anadolu Ajansı",
+          "url": "https://aa.com.tr/en/economy/boeing-to-cut-5-of-commercial-airplane-workforce-as-production-ramp-up-slows/4117929",
+          "access": "free",
+          "published_at": "2026-11-09T19:41:58+00:00",
+          "kind": "reporting"
+        },
+        {
+          "publisher": "CNBC",
+          "url": "https://www.cnbc.com/2026/11/09/boeing-layoffs-commercial-airplane.html",
+          "access": "free",
+          "published_at": "2026-11-09T17:47:05+00:00",
+          "kind": "reporting"
+        }
+      ],
+      "score": 80
+    },
+    {
+      "headline": "Pentagon Grants Neros Technologies $450 Million Loan for Domestic Drone Component Production",
+      "summary": "The Department of Defense has provided California-based drone manufacturer Neros Technologies with a conditional $450 million loan to expand domestic production of small-drone components. The company also plans to invest another $165 million in the project, bringing total investment to $615 million.",
+      "why_it_matters": "Targeted federal lending programs aim to onshore critical components and eliminate dependence on foreign supply chains for small uncrewed aerial systems.",
+      "category": "industry",
+      "companies": [
+        "Neros Technologies"
+      ],
+      "topics": [
+        "Drones",
+        "Procurement",
+        "Supply Chains",
+        "Manufacturing"
+      ],
+      "sources": [
+        {
+          "publisher": "UA.NEWS",
+          "url": "https://ua.news/en/dovkolo-svitu/pentagon-nadav-neros-poziku-na-450-mln-dlia-virobnitstva-droniv-defense-news",
+          "access": "free",
+          "published_at": "2026-11-09T16:00:43+00:00",
+          "kind": "reporting"
+        },
+        {
+          "publisher": "Defense News",
+          "url": "https://www.defensenews.com/industry/techwatch/2026/11/09/neros-to-expand-domestic-drone-production-with-450m-pentagon-loan/",
+          "access": "unknown",
+          "published_at": "2026-11-09T15:45:23+00:00",
+          "kind": "reporting"
+        }
+      ],
+      "score": 78
+    },
+    {
+      "headline": "T-Mobile Appoints Anomaly and Highdive in Creative Operations Restructuring",
+      "summary": "T-Mobile restructured its creative operations by naming Anomaly its strategic brand transformation partner and Highdive as its lead creative advertising agency. The changes support the telecommunications company's expansion beyond wireless while integrating AI-powered tools within its in-house studio, T-Studios.",
+      "why_it_matters": "Splitting strategic enterprise transformation from tactical campaign execution allows brands to manage dual pressures of long-term business diversification and high-frequency digital engagement. This structural model demonstrates how large enterprises can combine specialized agency partnerships with scaled in-house production capabilities.",
+      "category": "marketing",
+      "companies": [
+        "Anomaly",
+        "Highdive"
+      ],
+      "topics": [
+        "brand strategy",
+        "agency restructuring",
+        "creative operations"
+      ],
+      "sources": [
+        {
+          "publisher": "LBB - Little Black Book",
+          "url": "https://lbbonline.com/news/t-mobile-highdive-anomaly-usa-agency-ai-brand-strategy-t-studios",
+          "access": "free",
+          "published_at": "2026-11-09T17:16:42+00:00",
+          "kind": "reporting"
+        }
+      ],
+      "score": 75
+    },
+    {
+      "headline": "Dutch Startup Optics11 in Talks with Dozens of Navies for Optical-Fiber Underwater Sensing Tech",
+      "summary": "Dutch startup Optics11 is in talks with dozens of navies about using its optical-fiber sensing technology for underwater monitoring and threat detection, with between five and ten navies already signed on as clients. The company will conduct approximately 35 paid trials this year with navies testing its specialized acoustic vibration detection systems.",
+      "why_it_matters": "Advanced fiber-optic sensing offers higher resolution than traditional passive sonar, making it an attractive next-generation capability for submarine and seabed monitoring programs.",
+      "category": "industry",
+      "companies": [],
+      "topics": [
+        "Naval",
+        "Autonomous Systems",
+        "Procurement"
+      ],
+      "sources": [
+        {
+          "publisher": "Defense News",
+          "url": "https://www.defensenews.com/global/europe/2026/11/09/dutch-firm-optics11-in-talks-with-navies-on-secretive-underwater-listening-tech/",
+          "access": "unknown",
+          "published_at": "2026-11-09T17:52:01+00:00",
+          "kind": "reporting"
+        }
+      ],
+      "score": 73
+    },
+    {
+      "headline": "Optus Launches Enterprise Brand Platform 'Here for every next' via Apparent",
+      "summary": "Optus launched a new enterprise brand platform titled 'Here for every next' to reinforce its role as a technology partner for Australian organizations. Developed by Apparent, the multichannel campaign uses real customer stories to highlight long-term business transformation and collaboration.",
+      "why_it_matters": "B2B tech marketing often relies on generic feature lists, but anchoring a platform in long-term customer partnerships differentiates utility-driven commodity services. This approach provides a repeatable creative template for B2B brands looking to move the conversation from transactional product sales to strategic partnership.",
+      "category": "marketing",
+      "companies": [
+        "Apparent"
+      ],
+      "topics": [
+        "brand platform",
+        "B2B campaigns",
+        "enterprise connectivity"
+      ],
+      "sources": [
+        {
+          "publisher": "LBB - Little Black Book",
+          "url": "https://lbbonline.com/news/optus-here-for-every-next-apparent",
+          "access": "free",
+          "published_at": "2026-11-08T23:22:57+00:00",
+          "kind": "reporting"
+        }
+      ],
+      "score": 70
+    }
+  ],
+  "coverage_start": "2026-11-06T05:11:34.684626+00:00",
+  "coverage_end": "2026-11-09T20:43:31.991169+00:00",
+  "today_in_a_sentence": "Ogilvy and Creative Artists Agency launched ECHO, a consent-based AI platform designed to protect talent rights, while T-Mobile appointed Anomaly and Highdive to restructure its creative operations. Meanwhile, defense developments included the Royal Navy commissioning its first autonomous squadron, RTX securing $70 billion in multiyear Pentagon missile contracts, and Boeing planning to cut 5% of its commercial airplane workforce amid slower production."
+}
