@@ -1,0 +1,289 @@
+{
+  "date": "2026-11-11",
+  "published_at": "2026-11-11T17:53:30.271658+00:00",
+  "stories": [
+    {
+      "headline": "Shield AI's Hivemind Autonomous Software Successfully Flies First Multi-Ship CCA Formation",
+      "summary": "Semi-autonomous drones under the US Air Force's Collaborative Combat Aircraft program have for the first time flown in formation and performed air combat maneuvers. Shield's Hivemind, the autonomy software that runs Collaborative Combat Aircraft flights, helped multiple CCAs fly in a multi-ship formation and execute beyond-visual-range counter-air tactics, according to a recent company release.",
+      "why_it_matters": "Demonstrating multi-ship formation flight under autonomous control represents a critical maturity milestone for the Collaborative Combat Aircraft program, validating that software-defined flight architectures can successfully execute complex tactical maneuvers without direct human piloting.",
+      "category": "industry",
+      "companies": [
+        "Shield AI"
+      ],
+      "topics": [
+        "Autonomous Systems",
+        "Drones",
+        "Procurement"
+      ],
+      "sources": [
+        {
+          "publisher": "UA.NEWS",
+          "url": "https://ua.news/en/dovkolo-svitu/napivavtonomni-bezpilotniki-vps-ssha-vpershe-vikonali-grupovii-polit-defense-news",
+          "access": "free",
+          "published_at": "2026-11-10T18:29:25+00:00",
+          "kind": "reporting"
+        },
+        {
+          "publisher": "Defense News",
+          "url": "https://www.defensenews.com/industry/techwatch/2026/11/10/first-ever-collaborative-combat-aircraft-fly-in-formation-demonstrate-air-combat-maneuvers/",
+          "access": "unknown",
+          "published_at": "2026-11-10T18:17:13+00:00",
+          "kind": "reporting"
+        }
+      ],
+      "score": 92
+    },
+    {
+      "headline": "France Awards Airbus and Thales $1.7 Billion Contract for IRIS Military Satellites",
+      "summary": "France's Directorate General of Armament has awarded €1.5 billion to Airbus Defence and Space and Thales Alenia Space to procure two high-resolution Earth-observation satellites for the French armed forces. The contract is for Paris' next-generation military satellite program, dubbed IRIS, which is designed to provide strategic intelligence and surveillance capabilities to its military.",
+      "why_it_matters": "This multi-billion-euro procurement anchors European sovereign defense capabilities, securing long-term optical imagery intelligence and reinforcing regional aerospace manufacturing supply chains.",
+      "category": "industry",
+      "companies": [
+        "Airbus"
+      ],
+      "topics": [
+        "Space",
+        "Procurement",
+        "Manufacturing"
+      ],
+      "sources": [
+        {
+          "publisher": "Breaking Defense",
+          "url": "https://breakingdefense.com/2026/11/france-awards-1-7-billion-contract-to-airbus-thales-team-for-new-military-satellites/",
+          "access": "free",
+          "published_at": "2026-11-10T19:48:41+00:00",
+          "kind": "reporting"
+        }
+      ],
+      "score": 88
+    },
+    {
+      "headline": "Lockheed Martin Delivers 100,000th GMLRS Rocket and Tests New Solid Rocket Motor",
+      "summary": "Lockheed Martin announced today that it has reached two major milestones in the accelerated production of GMLRS rockets, a critical weapon for the U.S. Army and America's allies. Its collaboration with General Dynamics Ordnance and Tactical Systems recently completed the first test of a new solid rocket motor for GMLRS.",
+      "why_it_matters": "Reaching high production volume alongside active supply chain diversification strengthens industrial capacity and reduces single-source bottlenecks for crucial precision munitions programs.",
+      "category": "industry",
+      "companies": [
+        "Lockheed Martin"
+      ],
+      "topics": [
+        "Missiles",
+        "Manufacturing",
+        "Supply Chains"
+      ],
+      "sources": [
+        {
+          "publisher": "PR Newswire",
+          "url": "https://www.prnewswire.com/news-releases/more-rockets-faster-lockheed-martin-reaches-major-gmlrs-production-milestone-302935201.html",
+          "access": "free",
+          "published_at": "2026-11-10T16:30:00+00:00",
+          "kind": "distributed press release"
+        }
+      ],
+      "score": 86
+    },
+    {
+      "headline": "Rafael Unveils Super Ice 1,000-Pound Long-Range Cruise Missile",
+      "summary": "Israel's Rafael has unveiled a new, large cruise missile, dubbed the Super Ice, which the company says will come with a 1,000-pound warhead and is capable of being launched from air, land or sea. The missile is part of Rafael's relatively new group of cruise missiles.",
+      "why_it_matters": "The introduction of a heavy standoff missile with multi-domain launch compatibility expands strategic strike options for buyers seeking long-range precision against heavily defended targets.",
+      "category": "industry",
+      "companies": [
+        "Rafael"
+      ],
+      "topics": [
+        "Missiles",
+        "Procurement",
+        "Aviation"
+      ],
+      "sources": [
+        {
+          "publisher": "Breaking Defense",
+          "url": "https://breakingdefense.com/2026/11/israels-rafael-unveils-new-larger-cruise-missile-dubbed-super-ice/",
+          "access": "free",
+          "published_at": "2026-11-11T08:03:56+00:00",
+          "kind": "reporting"
+        }
+      ],
+      "score": 85
+    },
+    {
+      "headline": "Space Force Awards Viasat $450 Million Contract for Space Data Network Mission Operations Center",
+      "summary": "Space Systems Command recently awarded Viasat a contract with a $450 million ceiling to design and field a mission operations center for the command's burgeoning Space Data Network. The mission ops center will act as the central integration hub for the SDN, which Space Force officials say will consist of both government and commercial satellites.",
+      "why_it_matters": "Establishing a centralized mission operations center is a prerequisite for unifying multi-vendor commercial and government satellite constellations into a resilient hybrid architecture.",
+      "category": "industry",
+      "companies": [],
+      "topics": [
+        "Space",
+        "Cyber",
+        "Procurement"
+      ],
+      "sources": [
+        {
+          "publisher": "Air & Space Forces Magazine",
+          "url": "https://www.airandspaceforces.com/space-force-viasat-450m-ops-center-data-network/",
+          "access": "free",
+          "published_at": "2026-11-10T11:20:57+00:00",
+          "kind": "reporting"
+        }
+      ],
+      "score": 82
+    },
+    {
+      "headline": "Adobe Opens Creative Cloud to Third-Party AI Agents Using Model Context Protocol",
+      "summary": "Adobe has unveiled plans to open its flagship Creative Cloud applications to third-party AI agents, allowing creative professionals to delegate work directly within Photoshop, Illustrator, Premiere and After Effects. The integrations will use Model Context Protocol, an open standard that allows AI agents to connect with external tools and services.",
+      "why_it_matters": "Opening production software native file environments to external AI agents demonstrates a transferable creative principle where teams can delegate multi-stage workflows while retaining fine-grained layer control.",
+      "category": "marketing",
+      "companies": [
+        "Adobe"
+      ],
+      "topics": [
+        "B2B Creativity",
+        "Creative Automation",
+        "AI Agents"
+      ],
+      "sources": [
+        {
+          "publisher": "LBB - Little Black Book",
+          "url": "https://lbbonline.com/news/adobe-to-open-creative-cloud-to-third-party-ai-agents-in-major-production-shift",
+          "access": "free",
+          "published_at": "2026-11-10T14:06:55+00:00",
+          "kind": "reporting"
+        }
+      ],
+      "score": 80
+    },
+    {
+      "headline": "Ondas Secures Digital Bat Purchase Order and Prepares ARAN Acquisition for Attack Drone Production",
+      "summary": "Ondas Inc. announced that it has received a purchase order under its previously awarded Digital Bat program for the development and production of next-generation low-cost tactical attack drones. Together with the planned acquisition of ARAN Defense, Ondas intends to combine advanced autonomous strike technologies with dedicated engineering, industrialization and manufacturing capabilities.",
+      "why_it_matters": "Securing early manufacturing purchase orders alongside industrial acquisitions provides smaller autonomous systems developers with the physical infrastructure required to scale production.",
+      "category": "industry",
+      "companies": [],
+      "topics": [
+        "Drones",
+        "Autonomous Systems",
+        "M&A"
+      ],
+      "sources": [
+        {
+          "publisher": "Ondas inc.",
+          "url": "https://ir.ondas.com/press-releases/detail/340/ondas-receives-purchase-order-for-next-generation-tactical",
+          "access": "free",
+          "published_at": "2026-11-10T13:32:26+00:00",
+          "kind": "reporting"
+        },
+        {
+          "publisher": "ASDNews",
+          "url": "https://www.asdnews.com/news/defense/2026/11/10/ondas-receives-purchase-order-nextgen-tactical-attack-drones-aims-leverage-planned-aran-defense-acquisition-manufacture-thousands-systems",
+          "access": "free",
+          "published_at": "2026-11-10T13:30:03+00:00",
+          "kind": "reporting"
+        },
+        {
+          "publisher": "Stock Titan",
+          "url": "https://www.stocktitan.net/news/ONDS/ondas-receives-purchase-order-for-next-generation-tactical-attack-tt8cirnx0rpg.html",
+          "access": "free",
+          "published_at": "2026-11-10T13:30:00+00:00",
+          "kind": "reporting"
+        }
+      ],
+      "score": 79
+    },
+    {
+      "headline": "Trelleborg Relocates Boeing 737 MAX and 777X Seal Production to Morocco",
+      "summary": "Swedish group Trelleborg Sealing Solutions is relocating production of seals for Boeing 737 MAX and 777X aircraft to Morocco. The seals will be manufactured at the group's new factory in the Midparc industrial zone in Nouaceur, near Casablanca.",
+      "why_it_matters": "Aerospace component suppliers continue to optimize regional manufacturing footprints to align with major aircraft program requirements and long-term cost structures.",
+      "category": "industry",
+      "companies": [
+        "Boeing"
+      ],
+      "topics": [
+        "Aviation",
+        "Manufacturing",
+        "Supply Chains"
+      ],
+      "sources": [
+        {
+          "publisher": "Yabiladi.com",
+          "url": "https://en.yabiladi.com/articles/details/207378/aerospace-morocco-takes-over-production.html",
+          "access": "free",
+          "published_at": "2026-11-11T13:22:53+00:00",
+          "kind": "reporting"
+        }
+      ],
+      "score": 75
+    },
+    {
+      "headline": "Redwire Secures $40 Million NASA Contract for Lunar Solar Power Demonstration",
+      "summary": "Redwire Corporation has been awarded a contract valued at approximately $40 million to develop an integrated power generation system for NASA's Moon Base programme, supporting plans to demonstrate solar energy technology near the Moon's South Pole. The aerospace company will adapt its Roll-Out Solar Array technology for NASA's Mini-Communications and Solar Tower initiative.",
+      "why_it_matters": "This award reinforces the commercial viability of deployable solar architectures for deep space infrastructure and validates scalable power generation solutions for sustained lunar operations.",
+      "category": "industry",
+      "companies": [
+        "Redwire Corporation",
+        "Boeing"
+      ],
+      "topics": [
+        "Space",
+        "Procurement",
+        "Supply Chains"
+      ],
+      "sources": [
+        {
+          "publisher": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/energy/articles/redwire-secures-40-million-nasa-151014300.html",
+          "access": "free",
+          "published_at": "2026-11-10T15:10:14+00:00",
+          "kind": "reporting"
+        }
+      ],
+      "score": 75
+    },
+    {
+      "headline": "Kai Extends Autonomous Defense Platform with EASM Capability and Launches Kai Labs Research Unit",
+      "summary": "Kai announced External Attack Surface Management, now available on the Kai Autonomous Defense Platform. The company also launched Kai Labs, an expanded research team focused on the hardest open problems where AI meets security.",
+      "why_it_matters": "Integrating internal exposure tracking with external adversary-perspective views enables security teams to automate remediation plans across fragmented enterprise systems.",
+      "category": "industry",
+      "companies": [],
+      "topics": [
+        "Cyber",
+        "Autonomous Systems"
+      ],
+      "sources": [
+        {
+          "publisher": "PR Newswire",
+          "url": "https://www.prnewswire.com/news-releases/kai-extends-autonomous-defense-platform-to-the-external-attack-surface-and-launches-kai-labs-302935905.html",
+          "access": "free",
+          "published_at": "2026-11-11T14:00:00+00:00",
+          "kind": "distributed press release"
+        }
+      ],
+      "score": 74
+    },
+    {
+      "headline": "Bannerflow Expands Creative Automation Operations into UK and US Markets",
+      "summary": "Bannerflow has expanded into the UK and US, opening offices in London and New York as the creative automation platform accelerates its international growth with backing from B2B software investor Tenzing. The expansion gives Bannerflow a presence in two major digital advertising markets, where demand for creative automation is increasing.",
+      "why_it_matters": "Entering mature global advertising hubs highlights how creative intelligence software providers are scaling enterprise offerings to meet complex cross-channel production demands.",
+      "category": "marketing",
+      "companies": [
+        "Bannerflow",
+        "Tenzing"
+      ],
+      "topics": [
+        "B2B Creativity",
+        "Creative Automation",
+        "Market Expansion"
+      ],
+      "sources": [
+        {
+          "publisher": "https://marketingreport.one/",
+          "url": "https://marketingreport.one/creation/bannerflow-expands-into-uk-and-us-markets.html",
+          "access": "free",
+          "published_at": "2026-11-11T08:37:15+00:00",
+          "kind": "reporting"
+        }
+      ],
+      "score": 65
+    }
+  ],
+  "coverage_start": "2026-11-09T14:43:31.991169+00:00",
+  "coverage_end": "2026-11-11T17:53:30.271658+00:00",
+  "today_in_a_sentence": "Shield AI successfully flew its first multi-ship Collaborative Combat Aircraft formation using Hivemind autonomy software. Meanwhile, Adobe announced plans to open its Creative Cloud applications to third-party AI agents, and France awarded a $1.7 billion contract to Airbus and Thales for military satellites."
+}

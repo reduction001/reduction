@@ -1,105 +1,196 @@
 {
-  "date": "2026-11-09",
-  "published_at": "2026-11-09T20:43:31.991169+00:00",
+  "date": "2026-11-11",
+  "published_at": "2026-11-11T17:53:30.271658+00:00",
   "stories": [
     {
-      "headline": "Ogilvy and CAA Launch Consent-Based Creative AI Platform ECHO",
-      "summary": "Ogilvy partnered with Creative Artists Agency to launch ECHO, a proprietary AI platform that transforms single ambassador production shoots into real-time creative content systems. Integrated with the CAA Vault, the platform protects talent rights and IP by requiring mandatory talent sign-off on every asset before publication.",
-      "why_it_matters": "By embedding machine-enforceable contracts and verified talent scans directly into enterprise production workflows, ECHO creates a scalable blueprint for resolving the tension between rapid content generation and intellectual property protection. This consent-first architecture offers a viable framework for brands navigating AI risk while scaling high-craft campaigns.",
-      "category": "marketing",
+      "headline": "Shield AI's Hivemind Autonomous Software Successfully Flies First Multi-Ship CCA Formation",
+      "summary": "Semi-autonomous drones under the US Air Force's Collaborative Combat Aircraft program have for the first time flown in formation and performed air combat maneuvers. Shield's Hivemind, the autonomy software that runs Collaborative Combat Aircraft flights, helped multiple CCAs fly in a multi-ship formation and execute beyond-visual-range counter-air tactics, according to a recent company release.",
+      "why_it_matters": "Demonstrating multi-ship formation flight under autonomous control represents a critical maturity milestone for the Collaborative Combat Aircraft program, validating that software-defined flight architectures can successfully execute complex tactical maneuvers without direct human piloting.",
+      "category": "industry",
       "companies": [
-        "Ogilvy",
-        "Creative Artists Agency",
-        "WPP"
+        "Shield AI"
       ],
       "topics": [
-        "artificial intelligence",
-        "brand platforms",
-        "intellectual property"
+        "Autonomous Systems",
+        "Drones",
+        "Procurement"
       ],
       "sources": [
         {
-          "publisher": "Roastbrief US",
-          "url": "https://roastbrief.us/ogilvy-launches-echo-the-industrys-first-talent-consent-based-creative-ai-platform/",
+          "publisher": "UA.NEWS",
+          "url": "https://ua.news/en/dovkolo-svitu/napivavtonomni-bezpilotniki-vps-ssha-vpershe-vikonali-grupovii-polit-defense-news",
           "access": "free",
-          "published_at": "2026-11-09T17:40:13+00:00",
+          "published_at": "2026-11-10T18:29:25+00:00",
           "kind": "reporting"
         },
         {
-          "publisher": "LBB - Little Black Book",
-          "url": "https://lbbonline.com/news/ogilvy-caa-echo-ai-production-wpp",
-          "access": "free",
-          "published_at": "2026-11-09T15:36:40+00:00",
+          "publisher": "Defense News",
+          "url": "https://www.defensenews.com/industry/techwatch/2026/11/10/first-ever-collaborative-combat-aircraft-fly-in-formation-demonstrate-air-combat-maneuvers/",
+          "access": "unknown",
+          "published_at": "2026-11-10T18:17:13+00:00",
           "kind": "reporting"
         }
       ],
-      "score": 90
+      "score": 92
     },
     {
-      "headline": "Royal Navy Commissions First Autonomous Squadron at Portsmouth",
-      "summary": "The 1st Autonomous Squadron was formally commissioned in a ceremony on November 5 at His Majesty's Naval Base Portsmouth, in front of more than 200 Navy personnel, dignitaries, media, families, and friends. The unit will operate uncrewed surface vessels like the Kraken and Rattler to integrate uncrewed technology into frontline operations.",
-      "why_it_matters": "Formalizing a dedicated uncrewed squadron marks a structural shift toward a hybrid naval fleet backed by sustained multi-year investments in operational autonomy.",
+      "headline": "France Awards Airbus and Thales $1.7 Billion Contract for IRIS Military Satellites",
+      "summary": "France's Directorate General of Armament has awarded €1.5 billion to Airbus Defence and Space and Thales Alenia Space to procure two high-resolution Earth-observation satellites for the French armed forces. The contract is for Paris' next-generation military satellite program, dubbed IRIS, which is designed to provide strategic intelligence and surveillance capabilities to its military.",
+      "why_it_matters": "This multi-billion-euro procurement anchors European sovereign defense capabilities, securing long-term optical imagery intelligence and reinforcing regional aerospace manufacturing supply chains.",
       "category": "industry",
-      "companies": [],
+      "companies": [
+        "Airbus"
+      ],
       "topics": [
-        "Naval",
-        "Autonomous Systems",
-        "Drones"
+        "Space",
+        "Procurement",
+        "Manufacturing"
       ],
       "sources": [
         {
-          "publisher": "Ocean News & Technology",
-          "url": "https://oceannews.com/news/defense/royal-navy-commissions-first-autonomous-squadron-at-portsmouth/",
+          "publisher": "Breaking Defense",
+          "url": "https://breakingdefense.com/2026/11/france-awards-1-7-billion-contract-to-airbus-thales-team-for-new-military-satellites/",
           "access": "free",
-          "published_at": "2026-11-09T14:26:41+00:00",
+          "published_at": "2026-11-10T19:48:41+00:00",
           "kind": "reporting"
-        },
+        }
+      ],
+      "score": 88
+    },
+    {
+      "headline": "Lockheed Martin Delivers 100,000th GMLRS Rocket and Tests New Solid Rocket Motor",
+      "summary": "Lockheed Martin announced today that it has reached two major milestones in the accelerated production of GMLRS rockets, a critical weapon for the U.S. Army and America's allies. Its collaboration with General Dynamics Ordnance and Tactical Systems recently completed the first test of a new solid rocket motor for GMLRS.",
+      "why_it_matters": "Reaching high production volume alongside active supply chain diversification strengthens industrial capacity and reduces single-source bottlenecks for crucial precision munitions programs.",
+      "category": "industry",
+      "companies": [
+        "Lockheed Martin"
+      ],
+      "topics": [
+        "Missiles",
+        "Manufacturing",
+        "Supply Chains"
+      ],
+      "sources": [
         {
-          "publisher": "Defense Mirror",
-          "url": "https://defensemirror.com/news/42328/U_K__Royal_Navy_Launches_First_Autonomous_Squadron_for_Front_Line_Operations",
+          "publisher": "PR Newswire",
+          "url": "https://www.prnewswire.com/news-releases/more-rockets-faster-lockheed-martin-reaches-major-gmlrs-production-milestone-302935201.html",
           "access": "free",
-          "published_at": "2026-11-09T05:40:36+00:00",
-          "kind": "reporting"
-        },
+          "published_at": "2026-11-10T16:30:00+00:00",
+          "kind": "distributed press release"
+        }
+      ],
+      "score": 86
+    },
+    {
+      "headline": "Rafael Unveils Super Ice 1,000-Pound Long-Range Cruise Missile",
+      "summary": "Israel's Rafael has unveiled a new, large cruise missile, dubbed the Super Ice, which the company says will come with a 1,000-pound warhead and is capable of being launched from air, land or sea. The missile is part of Rafael's relatively new group of cruise missiles.",
+      "why_it_matters": "The introduction of a heavy standoff missile with multi-domain launch compatibility expands strategic strike options for buyers seeking long-range precision against heavily defended targets.",
+      "category": "industry",
+      "companies": [
+        "Rafael"
+      ],
+      "topics": [
+        "Missiles",
+        "Procurement",
+        "Aviation"
+      ],
+      "sources": [
         {
-          "publisher": "The Herald",
-          "url": "https://www.heraldscotland.com/news/26709897.royal-navy-launches-first-autonomous-squadron-boats/",
+          "publisher": "Breaking Defense",
+          "url": "https://breakingdefense.com/2026/11/israels-rafael-unveils-new-larger-cruise-missile-dubbed-super-ice/",
           "access": "free",
-          "published_at": "2026-11-09T00:02:39+00:00",
+          "published_at": "2026-11-11T08:03:56+00:00",
           "kind": "reporting"
         }
       ],
       "score": 85
     },
     {
-      "headline": "RTX Enters Multiyear Pentagon Contracts Worth $70 Billion to Surge Missile Production",
-      "summary": "RTX has entered into four multiyear Pentagon contracts worth approximately $70 billion to increase production capacity for its Tomahawk, AMRAAM, SM-6, and SM-3 IB missiles. By 2030, the aerospace and defense company is expected to ramp up production across all four critical munitions programs, with output acceleration gathering pace over the next two years.",
-      "why_it_matters": "These massive multiyear commitments provide long-term supply chain visibility and secure production scalability to address persistent munitions backlogs.",
+      "headline": "Space Force Awards Viasat $450 Million Contract for Space Data Network Mission Operations Center",
+      "summary": "Space Systems Command recently awarded Viasat a contract with a $450 million ceiling to design and field a mission operations center for the command's burgeoning Space Data Network. The mission ops center will act as the central integration hub for the SDN, which Space Force officials say will consist of both government and commercial satellites.",
+      "why_it_matters": "Establishing a centralized mission operations center is a prerequisite for unifying multi-vendor commercial and government satellite constellations into a resilient hybrid architecture.",
       "category": "industry",
-      "companies": [
-        "RTX"
-      ],
+      "companies": [],
       "topics": [
-        "Missiles",
-        "Procurement",
-        "Manufacturing",
-        "Supply Chains"
+        "Space",
+        "Cyber",
+        "Procurement"
       ],
       "sources": [
         {
-          "publisher": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/economy/policy/articles/tomahawk-amraam-missiles-could-see-200236897.html",
+          "publisher": "Air & Space Forces Magazine",
+          "url": "https://www.airandspaceforces.com/space-force-viasat-450m-ops-center-data-network/",
           "access": "free",
-          "published_at": "2026-11-09T20:02:36+00:00",
+          "published_at": "2026-11-10T11:20:57+00:00",
           "kind": "reporting"
         }
       ],
       "score": 82
     },
     {
-      "headline": "Boeing to Cut 5% of Commercial Airplane Workforce Amid Slower Production Ramp-Up",
-      "summary": "Boeing plans to reduce its commercial airplane workforce by approximately 5% as slower production increases leave the division overstaffed. The reduction will involve a combination of attrition and involuntary layoffs, with notifications beginning in December.",
-      "why_it_matters": "Slower production schedules and supply chain bottlenecks continue to force workforce corrections across major aerospace manufacturing programs.",
+      "headline": "Adobe Opens Creative Cloud to Third-Party AI Agents Using Model Context Protocol",
+      "summary": "Adobe has unveiled plans to open its flagship Creative Cloud applications to third-party AI agents, allowing creative professionals to delegate work directly within Photoshop, Illustrator, Premiere and After Effects. The integrations will use Model Context Protocol, an open standard that allows AI agents to connect with external tools and services.",
+      "why_it_matters": "Opening production software native file environments to external AI agents demonstrates a transferable creative principle where teams can delegate multi-stage workflows while retaining fine-grained layer control.",
+      "category": "marketing",
+      "companies": [
+        "Adobe"
+      ],
+      "topics": [
+        "B2B Creativity",
+        "Creative Automation",
+        "AI Agents"
+      ],
+      "sources": [
+        {
+          "publisher": "LBB - Little Black Book",
+          "url": "https://lbbonline.com/news/adobe-to-open-creative-cloud-to-third-party-ai-agents-in-major-production-shift",
+          "access": "free",
+          "published_at": "2026-11-10T14:06:55+00:00",
+          "kind": "reporting"
+        }
+      ],
+      "score": 80
+    },
+    {
+      "headline": "Ondas Secures Digital Bat Purchase Order and Prepares ARAN Acquisition for Attack Drone Production",
+      "summary": "Ondas Inc. announced that it has received a purchase order under its previously awarded Digital Bat program for the development and production of next-generation low-cost tactical attack drones. Together with the planned acquisition of ARAN Defense, Ondas intends to combine advanced autonomous strike technologies with dedicated engineering, industrialization and manufacturing capabilities.",
+      "why_it_matters": "Securing early manufacturing purchase orders alongside industrial acquisitions provides smaller autonomous systems developers with the physical infrastructure required to scale production.",
+      "category": "industry",
+      "companies": [],
+      "topics": [
+        "Drones",
+        "Autonomous Systems",
+        "M&A"
+      ],
+      "sources": [
+        {
+          "publisher": "Ondas inc.",
+          "url": "https://ir.ondas.com/press-releases/detail/340/ondas-receives-purchase-order-for-next-generation-tactical",
+          "access": "free",
+          "published_at": "2026-11-10T13:32:26+00:00",
+          "kind": "reporting"
+        },
+        {
+          "publisher": "ASDNews",
+          "url": "https://www.asdnews.com/news/defense/2026/11/10/ondas-receives-purchase-order-nextgen-tactical-attack-drones-aims-leverage-planned-aran-defense-acquisition-manufacture-thousands-systems",
+          "access": "free",
+          "published_at": "2026-11-10T13:30:03+00:00",
+          "kind": "reporting"
+        },
+        {
+          "publisher": "Stock Titan",
+          "url": "https://www.stocktitan.net/news/ONDS/ondas-receives-purchase-order-for-next-generation-tactical-attack-tt8cirnx0rpg.html",
+          "access": "free",
+          "published_at": "2026-11-10T13:30:00+00:00",
+          "kind": "reporting"
+        }
+      ],
+      "score": 79
+    },
+    {
+      "headline": "Trelleborg Relocates Boeing 737 MAX and 777X Seal Production to Morocco",
+      "summary": "Swedish group Trelleborg Sealing Solutions is relocating production of seals for Boeing 737 MAX and 777X aircraft to Morocco. The seals will be manufactured at the group's new factory in the Midparc industrial zone in Nouaceur, near Casablanca.",
+      "why_it_matters": "Aerospace component suppliers continue to optimize regional manufacturing footprints to align with major aircraft program requirements and long-term cost structures.",
       "category": "industry",
       "companies": [
         "Boeing"
@@ -111,127 +202,88 @@
       ],
       "sources": [
         {
-          "publisher": "Anadolu Ajansı",
-          "url": "https://aa.com.tr/en/economy/boeing-to-cut-5-of-commercial-airplane-workforce-as-production-ramp-up-slows/4117929",
+          "publisher": "Yabiladi.com",
+          "url": "https://en.yabiladi.com/articles/details/207378/aerospace-morocco-takes-over-production.html",
           "access": "free",
-          "published_at": "2026-11-09T19:41:58+00:00",
-          "kind": "reporting"
-        },
-        {
-          "publisher": "CNBC",
-          "url": "https://www.cnbc.com/2026/11/09/boeing-layoffs-commercial-airplane.html",
-          "access": "free",
-          "published_at": "2026-11-09T17:47:05+00:00",
-          "kind": "reporting"
-        }
-      ],
-      "score": 80
-    },
-    {
-      "headline": "Pentagon Grants Neros Technologies $450 Million Loan for Domestic Drone Component Production",
-      "summary": "The Department of Defense has provided California-based drone manufacturer Neros Technologies with a conditional $450 million loan to expand domestic production of small-drone components. The company also plans to invest another $165 million in the project, bringing total investment to $615 million.",
-      "why_it_matters": "Targeted federal lending programs aim to onshore critical components and eliminate dependence on foreign supply chains for small uncrewed aerial systems.",
-      "category": "industry",
-      "companies": [
-        "Neros Technologies"
-      ],
-      "topics": [
-        "Drones",
-        "Procurement",
-        "Supply Chains",
-        "Manufacturing"
-      ],
-      "sources": [
-        {
-          "publisher": "UA.NEWS",
-          "url": "https://ua.news/en/dovkolo-svitu/pentagon-nadav-neros-poziku-na-450-mln-dlia-virobnitstva-droniv-defense-news",
-          "access": "free",
-          "published_at": "2026-11-09T16:00:43+00:00",
-          "kind": "reporting"
-        },
-        {
-          "publisher": "Defense News",
-          "url": "https://www.defensenews.com/industry/techwatch/2026/11/09/neros-to-expand-domestic-drone-production-with-450m-pentagon-loan/",
-          "access": "unknown",
-          "published_at": "2026-11-09T15:45:23+00:00",
-          "kind": "reporting"
-        }
-      ],
-      "score": 78
-    },
-    {
-      "headline": "T-Mobile Appoints Anomaly and Highdive in Creative Operations Restructuring",
-      "summary": "T-Mobile restructured its creative operations by naming Anomaly its strategic brand transformation partner and Highdive as its lead creative advertising agency. The changes support the telecommunications company's expansion beyond wireless while integrating AI-powered tools within its in-house studio, T-Studios.",
-      "why_it_matters": "Splitting strategic enterprise transformation from tactical campaign execution allows brands to manage dual pressures of long-term business diversification and high-frequency digital engagement. This structural model demonstrates how large enterprises can combine specialized agency partnerships with scaled in-house production capabilities.",
-      "category": "marketing",
-      "companies": [
-        "Anomaly",
-        "Highdive"
-      ],
-      "topics": [
-        "brand strategy",
-        "agency restructuring",
-        "creative operations"
-      ],
-      "sources": [
-        {
-          "publisher": "LBB - Little Black Book",
-          "url": "https://lbbonline.com/news/t-mobile-highdive-anomaly-usa-agency-ai-brand-strategy-t-studios",
-          "access": "free",
-          "published_at": "2026-11-09T17:16:42+00:00",
+          "published_at": "2026-11-11T13:22:53+00:00",
           "kind": "reporting"
         }
       ],
       "score": 75
     },
     {
-      "headline": "Dutch Startup Optics11 in Talks with Dozens of Navies for Optical-Fiber Underwater Sensing Tech",
-      "summary": "Dutch startup Optics11 is in talks with dozens of navies about using its optical-fiber sensing technology for underwater monitoring and threat detection, with between five and ten navies already signed on as clients. The company will conduct approximately 35 paid trials this year with navies testing its specialized acoustic vibration detection systems.",
-      "why_it_matters": "Advanced fiber-optic sensing offers higher resolution than traditional passive sonar, making it an attractive next-generation capability for submarine and seabed monitoring programs.",
+      "headline": "Redwire Secures $40 Million NASA Contract for Lunar Solar Power Demonstration",
+      "summary": "Redwire Corporation has been awarded a contract valued at approximately $40 million to develop an integrated power generation system for NASA's Moon Base programme, supporting plans to demonstrate solar energy technology near the Moon's South Pole. The aerospace company will adapt its Roll-Out Solar Array technology for NASA's Mini-Communications and Solar Tower initiative.",
+      "why_it_matters": "This award reinforces the commercial viability of deployable solar architectures for deep space infrastructure and validates scalable power generation solutions for sustained lunar operations.",
+      "category": "industry",
+      "companies": [
+        "Redwire Corporation",
+        "Boeing"
+      ],
+      "topics": [
+        "Space",
+        "Procurement",
+        "Supply Chains"
+      ],
+      "sources": [
+        {
+          "publisher": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/energy/articles/redwire-secures-40-million-nasa-151014300.html",
+          "access": "free",
+          "published_at": "2026-11-10T15:10:14+00:00",
+          "kind": "reporting"
+        }
+      ],
+      "score": 75
+    },
+    {
+      "headline": "Kai Extends Autonomous Defense Platform with EASM Capability and Launches Kai Labs Research Unit",
+      "summary": "Kai announced External Attack Surface Management, now available on the Kai Autonomous Defense Platform. The company also launched Kai Labs, an expanded research team focused on the hardest open problems where AI meets security.",
+      "why_it_matters": "Integrating internal exposure tracking with external adversary-perspective views enables security teams to automate remediation plans across fragmented enterprise systems.",
       "category": "industry",
       "companies": [],
       "topics": [
-        "Naval",
-        "Autonomous Systems",
-        "Procurement"
+        "Cyber",
+        "Autonomous Systems"
       ],
       "sources": [
         {
-          "publisher": "Defense News",
-          "url": "https://www.defensenews.com/global/europe/2026/11/09/dutch-firm-optics11-in-talks-with-navies-on-secretive-underwater-listening-tech/",
-          "access": "unknown",
-          "published_at": "2026-11-09T17:52:01+00:00",
-          "kind": "reporting"
+          "publisher": "PR Newswire",
+          "url": "https://www.prnewswire.com/news-releases/kai-extends-autonomous-defense-platform-to-the-external-attack-surface-and-launches-kai-labs-302935905.html",
+          "access": "free",
+          "published_at": "2026-11-11T14:00:00+00:00",
+          "kind": "distributed press release"
         }
       ],
-      "score": 73
+      "score": 74
     },
     {
-      "headline": "Optus Launches Enterprise Brand Platform 'Here for every next' via Apparent",
-      "summary": "Optus launched a new enterprise brand platform titled 'Here for every next' to reinforce its role as a technology partner for Australian organizations. Developed by Apparent, the multichannel campaign uses real customer stories to highlight long-term business transformation and collaboration.",
-      "why_it_matters": "B2B tech marketing often relies on generic feature lists, but anchoring a platform in long-term customer partnerships differentiates utility-driven commodity services. This approach provides a repeatable creative template for B2B brands looking to move the conversation from transactional product sales to strategic partnership.",
+      "headline": "Bannerflow Expands Creative Automation Operations into UK and US Markets",
+      "summary": "Bannerflow has expanded into the UK and US, opening offices in London and New York as the creative automation platform accelerates its international growth with backing from B2B software investor Tenzing. The expansion gives Bannerflow a presence in two major digital advertising markets, where demand for creative automation is increasing.",
+      "why_it_matters": "Entering mature global advertising hubs highlights how creative intelligence software providers are scaling enterprise offerings to meet complex cross-channel production demands.",
       "category": "marketing",
       "companies": [
-        "Apparent"
+        "Bannerflow",
+        "Tenzing"
       ],
       "topics": [
-        "brand platform",
-        "B2B campaigns",
-        "enterprise connectivity"
+        "B2B Creativity",
+        "Creative Automation",
+        "Market Expansion"
       ],
       "sources": [
         {
-          "publisher": "LBB - Little Black Book",
-          "url": "https://lbbonline.com/news/optus-here-for-every-next-apparent",
+          "publisher": "https://marketingreport.one/",
+          "url": "https://marketingreport.one/creation/bannerflow-expands-into-uk-and-us-markets.html",
           "access": "free",
-          "published_at": "2026-11-08T23:22:57+00:00",
+          "published_at": "2026-11-11T08:37:15+00:00",
           "kind": "reporting"
         }
       ],
-      "score": 70
+      "score": 65
     }
   ],
-  "coverage_start": "2026-11-06T05:11:34.684626+00:00",
-  "coverage_end": "2026-11-09T20:43:31.991169+00:00",
-  "today_in_a_sentence": "Ogilvy and Creative Artists Agency launched ECHO, a consent-based AI platform designed to protect talent rights, while T-Mobile appointed Anomaly and Highdive to restructure its creative operations. Meanwhile, defense developments included the Royal Navy commissioning its first autonomous squadron, RTX securing $70 billion in multiyear Pentagon missile contracts, and Boeing planning to cut 5% of its commercial airplane workforce amid slower production."
+  "coverage_start": "2026-11-09T14:43:31.991169+00:00",
+  "coverage_end": "2026-11-11T17:53:30.271658+00:00",
+  "today_in_a_sentence": "Shield AI successfully flew its first multi-ship Collaborative Combat Aircraft formation using Hivemind autonomy software. Meanwhile, Adobe announced plans to open its Creative Cloud applications to third-party AI agents, and France awarded a $1.7 billion contract to Airbus and Thales for military satellites."
 }
