@@ -1,0 +1,206 @@
+{
+  "date": "2026-11-13",
+  "published_at": "2026-11-13T17:44:20.022805+00:00",
+  "stories": [
+    {
+      "headline": "Northrop Grumman and USAF Confirm First Weapons Release Demonstration for B-21 Raider",
+      "summary": "The US Air Force's B-21 Raider stealth bomber has demonstrated weapons release, taking the aircraft into weapons testing as Northrop Grumman expands production ahead of the first bombers arriving at Ellsworth Air Force Base in 2027, according to the company. The program is accelerating both production and test ahead of aircraft on the ramp at Ellsworth Air Force Base in 2027.",
+      "why_it_matters": "Demonstrating weapon release capability transitions the B-21 from basic flight sciences into concrete warfighting validation, lowering programmatic risk for the Air Force's long-range strike strategy.",
+      "category": "industry",
+      "companies": [
+        "Northrop Grumman"
+      ],
+      "topics": [
+        "bombers",
+        "procurement",
+        "flight testing"
+      ],
+      "sources": [
+        {
+          "publisher": "UK Defence Journal",
+          "url": "https://ukdefencejournal.org.uk/new-american-stealth-bomber-begins-testing-powerful-weapons/",
+          "access": "free",
+          "published_at": "2026-11-13T16:08:28+00:00",
+          "kind": "reporting"
+        },
+        {
+          "publisher": "Northrop Grumman",
+          "url": "https://news.northropgrumman.com/b-21/b-21-raider-advances-into-weapons-testing",
+          "access": "free",
+          "published_at": "2026-11-13T11:59:30+00:00",
+          "kind": "company announcement"
+        }
+      ],
+      "score": 90
+    },
+    {
+      "headline": "UFORCE Secures $700 Million Series A Round at $6 Billion Valuation for Battle-Tested Drones",
+      "summary": "Ukrainian defense technology company UFORCE has raised $700 million in a funding round valuing it at $6 billion, as investor interest grows in autonomous weapons systems tested on the battlefield in Ukraine. The Series A round was co-led by Valor Equity Partners and the U.K.'s National Wealth Fund, with participation from investors across Silicon Valley, Europe and Asia, the company announced Thursday.",
+      "why_it_matters": "Massive private capital infusions into combat-proven startups reflect a structural shift toward rapid iterative hardware deployment driven by active conflict feedback loops.",
+      "category": "industry",
+      "companies": [],
+      "topics": [
+        "drones",
+        "defense tech",
+        "venture capital"
+      ],
+      "sources": [
+        {
+          "publisher": "CNBC",
+          "url": "https://www.cnbc.com/2026/11/12/uforce-defense-tech-drones-warfare-ukraine.html",
+          "access": "free",
+          "published_at": "2026-11-12T09:05:22+00:00",
+          "kind": "reporting"
+        }
+      ],
+      "score": 88
+    },
+    {
+      "headline": "UK Launches £90M Atlantic Net Autonomous Undersea Surveillance Framework with Ocean Infinity",
+      "summary": "The new framework with British company Ocean Infinity Solutions, will strengthen the Royal Navy's ability to protect crucial shipping routes and undersea infrastructure. The advanced system, known as Atlantic Net will see the Navy equipped with a new network of autonomous systems operating across the North Atlantic.",
+      "why_it_matters": "Integrating uncrewed systems into a single surveillance architecture provides the Royal Navy with a scalable defense layer for critical seabed infrastructure across the North Atlantic.",
+      "category": "industry",
+      "companies": [
+        "Ocean Infinity Solutions"
+      ],
+      "topics": [
+        "autonomous systems",
+        "naval",
+        "undersea surveillance"
+      ],
+      "sources": [
+        {
+          "publisher": "Naval News",
+          "url": "https://www.navalnews.com/naval-news/2026/11/90-million-investment-for-new-drones-and-sensors-to-protect-undersea-cables-and-hunt-russian-submarines/",
+          "access": "free",
+          "published_at": "2026-11-13T15:26:01+00:00",
+          "kind": "reporting"
+        }
+      ],
+      "score": 85
+    },
+    {
+      "headline": "Anduril Satellite Integrates Long-Wave Infrared Sensor for Nighttime Orbital Tracking",
+      "summary": "Anduril revealed that its first on-orbit satellite utilizes an advanced long-wave infrared sensor adapted from autonomous weapons to track spacecraft through Earth's shadow during eclipse periods. Orbital systems chief Adam Thurn stated that the sensor finally lets the company see adversaries maneuvering during eclipse periods, where previously operators were fairly blind.",
+      "why_it_matters": "By demonstrating space domain awareness during orbital eclipse periods, Anduril provides defense buyers with a viable technical solution to mitigate persistent gaps in night-time tracking.",
+      "category": "industry",
+      "companies": [
+        "Anduril",
+        "SpaceX",
+        "Apex Space",
+        "Impulse Space"
+      ],
+      "topics": [
+        "space",
+        "satellites",
+        "sensors",
+        "autonomy"
+      ],
+      "sources": [
+        {
+          "publisher": "TechSpot",
+          "url": "https://www.techspot.com/news/114543-anduril-first-satellite-has-night-vision-catching-rivals.html",
+          "access": "free",
+          "published_at": "2026-11-13T12:54:00+00:00",
+          "kind": "reporting"
+        }
+      ],
+      "score": 85
+    },
+    {
+      "headline": "Oko Camera Expands Operations with New Entity and Production Facility in the Netherlands",
+      "summary": "Oko Camera, a Ukrainian developer and manufacturer of combat thermal cameras, opened a company in Eindhoven, the Netherlands, according to its announcement on Nov. 12. The company plans to reach a volume of 100,000 units a year by the end of 2027.",
+      "why_it_matters": "Establishing EU-based manufacturing entities allows Ukrainian defense tech innovators to tap into Western engineering talent and institutional funding while scaling production capacity safely.",
+      "category": "industry",
+      "companies": [],
+      "topics": [
+        "manufacturing",
+        "thermal imaging",
+        "supply chain"
+      ],
+      "sources": [
+        {
+          "publisher": "The New Voice of Ukraine",
+          "url": "https://english.nv.ua/nation/production-of-oko-camera-military-thermal-imaging-cameras-begins-in-netherlands-50659003.html",
+          "access": "free",
+          "published_at": "2026-11-13T15:20:00+00:00",
+          "kind": "reporting"
+        }
+      ],
+      "score": 82
+    },
+    {
+      "headline": "UK and Norway Formalize Agreement to Procure Three Mine-Hunting Drone Motherships",
+      "summary": "Under the UK-Norway Lunna House Agreement, signed last December, the British government announced its intention to join the Norwegian P1118 Standardized Vessel Program to develop offshore support vessels as motherships for autonomous mine-hunting systems. The first ship is expected to arrive in 2031, and the deal includes an option for London to order three more.",
+      "why_it_matters": "Bilateral procurement frameworks allow allied navies to pool resources for specialized auxiliary vessels while standardizing autonomous mine-countermeasure operations.",
+      "category": "industry",
+      "companies": [],
+      "topics": [
+        "naval",
+        "autonomous systems",
+        "procurement"
+      ],
+      "sources": [
+        {
+          "publisher": "Breaking Defense",
+          "url": "https://breakingdefense.com/2026/11/uk-to-buy-three-new-mine-hunting-drone-motherships-under-norway-agreement/",
+          "access": "free",
+          "published_at": "2026-11-13T14:23:46+00:00",
+          "kind": "reporting"
+        }
+      ],
+      "score": 78
+    },
+    {
+      "headline": "MUJI Singapore Launches Travel, Every Day. Brand Communication Campaign via ANAK",
+      "summary": "MUJI Singapore and agency ANAK introduced a localized brand campaign integrating MUJI to GO travel accessories into everyday urban routines through a lifestyle-focused creative concept. The campaign uses paired visuals and a mirrored film structure to demonstrate how functional travel design supports both commuting and getaway routines.",
+      "why_it_matters": "Using a mirrored comparative narrative allows legacy product lines to expand past occasional use cases by mapping functional utility directly onto mundane daily habits.",
+      "category": "marketing",
+      "companies": [
+        "MUJI",
+        "ANAK"
+      ],
+      "topics": [
+        "brand communication",
+        "campaign launch",
+        "creative concept",
+        "retail marketing"
+      ],
+      "sources": [
+        {
+          "publisher": "LBB - Little Black Book",
+          "url": "https://lbbonline.com/news/muji-singapore-muji-to-go-anak",
+          "access": "free",
+          "published_at": "2026-11-13T10:02:44+00:00",
+          "kind": "reporting"
+        }
+      ],
+      "score": 78
+    },
+    {
+      "headline": "SATIM Secures Polish Ministry Contract to Supply AI-Based Radar Image Analysis Software",
+      "summary": "SATIM, a Polish maker of AI-based analysis tools for synthetic aperture radar (SAR) imagery, has obtained a contract from Poland's Ministry of National Defence to supply software for the automated analysis of satellite imagery. The solution will support Warsaw's MikroSAR earth-observation program, SATIM said in a Nov. 12 statement.",
+      "why_it_matters": "Automated SAR image processing addresses intelligence bottlenecks by rapidly extracting reliable object classifications from cloud-obscured satellite feeds.",
+      "category": "industry",
+      "companies": [],
+      "topics": [
+        "AI",
+        "space",
+        "intelligence"
+      ],
+      "sources": [
+        {
+          "publisher": "Defense News",
+          "url": "https://www.defensenews.com/global/europe/2026/11/12/germany-poland-tap-satim-to-analyze-military-satellite-imagery/",
+          "access": "unknown",
+          "published_at": "2026-11-12T16:58:38+00:00",
+          "kind": "reporting"
+        }
+      ],
+      "score": 77
+    }
+  ],
+  "coverage_start": "2026-11-11T11:53:30.271658+00:00",
+  "coverage_end": "2026-11-13T17:44:20.022805+00:00",
+  "today_in_a_sentence": "Defense developments span major autonomy and surveillance expansions, including the B-21 Raider entering weapons testing, UFORCE securing a $700 million Series A round, and new UK naval surveillance frameworks. Additionally, MUJI Singapore launched a localized brand campaign via ANAK integrating travel accessories into everyday urban routines."
+}

@@ -1,289 +1,206 @@
 {
-  "date": "2026-11-11",
-  "published_at": "2026-11-11T17:53:30.271658+00:00",
+  "date": "2026-11-13",
+  "published_at": "2026-11-13T17:44:20.022805+00:00",
   "stories": [
     {
-      "headline": "Shield AI's Hivemind Autonomous Software Successfully Flies First Multi-Ship CCA Formation",
-      "summary": "Semi-autonomous drones under the US Air Force's Collaborative Combat Aircraft program have for the first time flown in formation and performed air combat maneuvers. Shield's Hivemind, the autonomy software that runs Collaborative Combat Aircraft flights, helped multiple CCAs fly in a multi-ship formation and execute beyond-visual-range counter-air tactics, according to a recent company release.",
-      "why_it_matters": "Demonstrating multi-ship formation flight under autonomous control represents a critical maturity milestone for the Collaborative Combat Aircraft program, validating that software-defined flight architectures can successfully execute complex tactical maneuvers without direct human piloting.",
+      "headline": "Northrop Grumman and USAF Confirm First Weapons Release Demonstration for B-21 Raider",
+      "summary": "The US Air Force's B-21 Raider stealth bomber has demonstrated weapons release, taking the aircraft into weapons testing as Northrop Grumman expands production ahead of the first bombers arriving at Ellsworth Air Force Base in 2027, according to the company. The program is accelerating both production and test ahead of aircraft on the ramp at Ellsworth Air Force Base in 2027.",
+      "why_it_matters": "Demonstrating weapon release capability transitions the B-21 from basic flight sciences into concrete warfighting validation, lowering programmatic risk for the Air Force's long-range strike strategy.",
       "category": "industry",
       "companies": [
-        "Shield AI"
+        "Northrop Grumman"
       ],
       "topics": [
-        "Autonomous Systems",
-        "Drones",
-        "Procurement"
+        "bombers",
+        "procurement",
+        "flight testing"
       ],
       "sources": [
         {
-          "publisher": "UA.NEWS",
-          "url": "https://ua.news/en/dovkolo-svitu/napivavtonomni-bezpilotniki-vps-ssha-vpershe-vikonali-grupovii-polit-defense-news",
+          "publisher": "UK Defence Journal",
+          "url": "https://ukdefencejournal.org.uk/new-american-stealth-bomber-begins-testing-powerful-weapons/",
           "access": "free",
-          "published_at": "2026-11-10T18:29:25+00:00",
+          "published_at": "2026-11-13T16:08:28+00:00",
           "kind": "reporting"
         },
         {
-          "publisher": "Defense News",
-          "url": "https://www.defensenews.com/industry/techwatch/2026/11/10/first-ever-collaborative-combat-aircraft-fly-in-formation-demonstrate-air-combat-maneuvers/",
-          "access": "unknown",
-          "published_at": "2026-11-10T18:17:13+00:00",
-          "kind": "reporting"
+          "publisher": "Northrop Grumman",
+          "url": "https://news.northropgrumman.com/b-21/b-21-raider-advances-into-weapons-testing",
+          "access": "free",
+          "published_at": "2026-11-13T11:59:30+00:00",
+          "kind": "company announcement"
         }
       ],
-      "score": 92
+      "score": 90
     },
     {
-      "headline": "France Awards Airbus and Thales $1.7 Billion Contract for IRIS Military Satellites",
-      "summary": "France's Directorate General of Armament has awarded €1.5 billion to Airbus Defence and Space and Thales Alenia Space to procure two high-resolution Earth-observation satellites for the French armed forces. The contract is for Paris' next-generation military satellite program, dubbed IRIS, which is designed to provide strategic intelligence and surveillance capabilities to its military.",
-      "why_it_matters": "This multi-billion-euro procurement anchors European sovereign defense capabilities, securing long-term optical imagery intelligence and reinforcing regional aerospace manufacturing supply chains.",
+      "headline": "UFORCE Secures $700 Million Series A Round at $6 Billion Valuation for Battle-Tested Drones",
+      "summary": "Ukrainian defense technology company UFORCE has raised $700 million in a funding round valuing it at $6 billion, as investor interest grows in autonomous weapons systems tested on the battlefield in Ukraine. The Series A round was co-led by Valor Equity Partners and the U.K.'s National Wealth Fund, with participation from investors across Silicon Valley, Europe and Asia, the company announced Thursday.",
+      "why_it_matters": "Massive private capital infusions into combat-proven startups reflect a structural shift toward rapid iterative hardware deployment driven by active conflict feedback loops.",
       "category": "industry",
-      "companies": [
-        "Airbus"
-      ],
+      "companies": [],
       "topics": [
-        "Space",
-        "Procurement",
-        "Manufacturing"
+        "drones",
+        "defense tech",
+        "venture capital"
       ],
       "sources": [
         {
-          "publisher": "Breaking Defense",
-          "url": "https://breakingdefense.com/2026/11/france-awards-1-7-billion-contract-to-airbus-thales-team-for-new-military-satellites/",
+          "publisher": "CNBC",
+          "url": "https://www.cnbc.com/2026/11/12/uforce-defense-tech-drones-warfare-ukraine.html",
           "access": "free",
-          "published_at": "2026-11-10T19:48:41+00:00",
+          "published_at": "2026-11-12T09:05:22+00:00",
           "kind": "reporting"
         }
       ],
       "score": 88
     },
     {
-      "headline": "Lockheed Martin Delivers 100,000th GMLRS Rocket and Tests New Solid Rocket Motor",
-      "summary": "Lockheed Martin announced today that it has reached two major milestones in the accelerated production of GMLRS rockets, a critical weapon for the U.S. Army and America's allies. Its collaboration with General Dynamics Ordnance and Tactical Systems recently completed the first test of a new solid rocket motor for GMLRS.",
-      "why_it_matters": "Reaching high production volume alongside active supply chain diversification strengthens industrial capacity and reduces single-source bottlenecks for crucial precision munitions programs.",
+      "headline": "UK Launches £90M Atlantic Net Autonomous Undersea Surveillance Framework with Ocean Infinity",
+      "summary": "The new framework with British company Ocean Infinity Solutions, will strengthen the Royal Navy's ability to protect crucial shipping routes and undersea infrastructure. The advanced system, known as Atlantic Net will see the Navy equipped with a new network of autonomous systems operating across the North Atlantic.",
+      "why_it_matters": "Integrating uncrewed systems into a single surveillance architecture provides the Royal Navy with a scalable defense layer for critical seabed infrastructure across the North Atlantic.",
       "category": "industry",
       "companies": [
-        "Lockheed Martin"
+        "Ocean Infinity Solutions"
       ],
       "topics": [
-        "Missiles",
-        "Manufacturing",
-        "Supply Chains"
+        "autonomous systems",
+        "naval",
+        "undersea surveillance"
       ],
       "sources": [
         {
-          "publisher": "PR Newswire",
-          "url": "https://www.prnewswire.com/news-releases/more-rockets-faster-lockheed-martin-reaches-major-gmlrs-production-milestone-302935201.html",
+          "publisher": "Naval News",
+          "url": "https://www.navalnews.com/naval-news/2026/11/90-million-investment-for-new-drones-and-sensors-to-protect-undersea-cables-and-hunt-russian-submarines/",
           "access": "free",
-          "published_at": "2026-11-10T16:30:00+00:00",
-          "kind": "distributed press release"
-        }
-      ],
-      "score": 86
-    },
-    {
-      "headline": "Rafael Unveils Super Ice 1,000-Pound Long-Range Cruise Missile",
-      "summary": "Israel's Rafael has unveiled a new, large cruise missile, dubbed the Super Ice, which the company says will come with a 1,000-pound warhead and is capable of being launched from air, land or sea. The missile is part of Rafael's relatively new group of cruise missiles.",
-      "why_it_matters": "The introduction of a heavy standoff missile with multi-domain launch compatibility expands strategic strike options for buyers seeking long-range precision against heavily defended targets.",
-      "category": "industry",
-      "companies": [
-        "Rafael"
-      ],
-      "topics": [
-        "Missiles",
-        "Procurement",
-        "Aviation"
-      ],
-      "sources": [
-        {
-          "publisher": "Breaking Defense",
-          "url": "https://breakingdefense.com/2026/11/israels-rafael-unveils-new-larger-cruise-missile-dubbed-super-ice/",
-          "access": "free",
-          "published_at": "2026-11-11T08:03:56+00:00",
+          "published_at": "2026-11-13T15:26:01+00:00",
           "kind": "reporting"
         }
       ],
       "score": 85
     },
     {
-      "headline": "Space Force Awards Viasat $450 Million Contract for Space Data Network Mission Operations Center",
-      "summary": "Space Systems Command recently awarded Viasat a contract with a $450 million ceiling to design and field a mission operations center for the command's burgeoning Space Data Network. The mission ops center will act as the central integration hub for the SDN, which Space Force officials say will consist of both government and commercial satellites.",
-      "why_it_matters": "Establishing a centralized mission operations center is a prerequisite for unifying multi-vendor commercial and government satellite constellations into a resilient hybrid architecture.",
+      "headline": "Anduril Satellite Integrates Long-Wave Infrared Sensor for Nighttime Orbital Tracking",
+      "summary": "Anduril revealed that its first on-orbit satellite utilizes an advanced long-wave infrared sensor adapted from autonomous weapons to track spacecraft through Earth's shadow during eclipse periods. Orbital systems chief Adam Thurn stated that the sensor finally lets the company see adversaries maneuvering during eclipse periods, where previously operators were fairly blind.",
+      "why_it_matters": "By demonstrating space domain awareness during orbital eclipse periods, Anduril provides defense buyers with a viable technical solution to mitigate persistent gaps in night-time tracking.",
       "category": "industry",
-      "companies": [],
+      "companies": [
+        "Anduril",
+        "SpaceX",
+        "Apex Space",
+        "Impulse Space"
+      ],
       "topics": [
-        "Space",
-        "Cyber",
-        "Procurement"
+        "space",
+        "satellites",
+        "sensors",
+        "autonomy"
       ],
       "sources": [
         {
-          "publisher": "Air & Space Forces Magazine",
-          "url": "https://www.airandspaceforces.com/space-force-viasat-450m-ops-center-data-network/",
+          "publisher": "TechSpot",
+          "url": "https://www.techspot.com/news/114543-anduril-first-satellite-has-night-vision-catching-rivals.html",
           "access": "free",
-          "published_at": "2026-11-10T11:20:57+00:00",
+          "published_at": "2026-11-13T12:54:00+00:00",
+          "kind": "reporting"
+        }
+      ],
+      "score": 85
+    },
+    {
+      "headline": "Oko Camera Expands Operations with New Entity and Production Facility in the Netherlands",
+      "summary": "Oko Camera, a Ukrainian developer and manufacturer of combat thermal cameras, opened a company in Eindhoven, the Netherlands, according to its announcement on Nov. 12. The company plans to reach a volume of 100,000 units a year by the end of 2027.",
+      "why_it_matters": "Establishing EU-based manufacturing entities allows Ukrainian defense tech innovators to tap into Western engineering talent and institutional funding while scaling production capacity safely.",
+      "category": "industry",
+      "companies": [],
+      "topics": [
+        "manufacturing",
+        "thermal imaging",
+        "supply chain"
+      ],
+      "sources": [
+        {
+          "publisher": "The New Voice of Ukraine",
+          "url": "https://english.nv.ua/nation/production-of-oko-camera-military-thermal-imaging-cameras-begins-in-netherlands-50659003.html",
+          "access": "free",
+          "published_at": "2026-11-13T15:20:00+00:00",
           "kind": "reporting"
         }
       ],
       "score": 82
     },
     {
-      "headline": "Adobe Opens Creative Cloud to Third-Party AI Agents Using Model Context Protocol",
-      "summary": "Adobe has unveiled plans to open its flagship Creative Cloud applications to third-party AI agents, allowing creative professionals to delegate work directly within Photoshop, Illustrator, Premiere and After Effects. The integrations will use Model Context Protocol, an open standard that allows AI agents to connect with external tools and services.",
-      "why_it_matters": "Opening production software native file environments to external AI agents demonstrates a transferable creative principle where teams can delegate multi-stage workflows while retaining fine-grained layer control.",
+      "headline": "UK and Norway Formalize Agreement to Procure Three Mine-Hunting Drone Motherships",
+      "summary": "Under the UK-Norway Lunna House Agreement, signed last December, the British government announced its intention to join the Norwegian P1118 Standardized Vessel Program to develop offshore support vessels as motherships for autonomous mine-hunting systems. The first ship is expected to arrive in 2031, and the deal includes an option for London to order three more.",
+      "why_it_matters": "Bilateral procurement frameworks allow allied navies to pool resources for specialized auxiliary vessels while standardizing autonomous mine-countermeasure operations.",
+      "category": "industry",
+      "companies": [],
+      "topics": [
+        "naval",
+        "autonomous systems",
+        "procurement"
+      ],
+      "sources": [
+        {
+          "publisher": "Breaking Defense",
+          "url": "https://breakingdefense.com/2026/11/uk-to-buy-three-new-mine-hunting-drone-motherships-under-norway-agreement/",
+          "access": "free",
+          "published_at": "2026-11-13T14:23:46+00:00",
+          "kind": "reporting"
+        }
+      ],
+      "score": 78
+    },
+    {
+      "headline": "MUJI Singapore Launches Travel, Every Day. Brand Communication Campaign via ANAK",
+      "summary": "MUJI Singapore and agency ANAK introduced a localized brand campaign integrating MUJI to GO travel accessories into everyday urban routines through a lifestyle-focused creative concept. The campaign uses paired visuals and a mirrored film structure to demonstrate how functional travel design supports both commuting and getaway routines.",
+      "why_it_matters": "Using a mirrored comparative narrative allows legacy product lines to expand past occasional use cases by mapping functional utility directly onto mundane daily habits.",
       "category": "marketing",
       "companies": [
-        "Adobe"
+        "MUJI",
+        "ANAK"
       ],
       "topics": [
-        "B2B Creativity",
-        "Creative Automation",
-        "AI Agents"
+        "brand communication",
+        "campaign launch",
+        "creative concept",
+        "retail marketing"
       ],
       "sources": [
         {
           "publisher": "LBB - Little Black Book",
-          "url": "https://lbbonline.com/news/adobe-to-open-creative-cloud-to-third-party-ai-agents-in-major-production-shift",
+          "url": "https://lbbonline.com/news/muji-singapore-muji-to-go-anak",
           "access": "free",
-          "published_at": "2026-11-10T14:06:55+00:00",
+          "published_at": "2026-11-13T10:02:44+00:00",
           "kind": "reporting"
         }
       ],
-      "score": 80
+      "score": 78
     },
     {
-      "headline": "Ondas Secures Digital Bat Purchase Order and Prepares ARAN Acquisition for Attack Drone Production",
-      "summary": "Ondas Inc. announced that it has received a purchase order under its previously awarded Digital Bat program for the development and production of next-generation low-cost tactical attack drones. Together with the planned acquisition of ARAN Defense, Ondas intends to combine advanced autonomous strike technologies with dedicated engineering, industrialization and manufacturing capabilities.",
-      "why_it_matters": "Securing early manufacturing purchase orders alongside industrial acquisitions provides smaller autonomous systems developers with the physical infrastructure required to scale production.",
+      "headline": "SATIM Secures Polish Ministry Contract to Supply AI-Based Radar Image Analysis Software",
+      "summary": "SATIM, a Polish maker of AI-based analysis tools for synthetic aperture radar (SAR) imagery, has obtained a contract from Poland's Ministry of National Defence to supply software for the automated analysis of satellite imagery. The solution will support Warsaw's MikroSAR earth-observation program, SATIM said in a Nov. 12 statement.",
+      "why_it_matters": "Automated SAR image processing addresses intelligence bottlenecks by rapidly extracting reliable object classifications from cloud-obscured satellite feeds.",
       "category": "industry",
       "companies": [],
       "topics": [
-        "Drones",
-        "Autonomous Systems",
-        "M&A"
+        "AI",
+        "space",
+        "intelligence"
       ],
       "sources": [
         {
-          "publisher": "Ondas inc.",
-          "url": "https://ir.ondas.com/press-releases/detail/340/ondas-receives-purchase-order-for-next-generation-tactical",
-          "access": "free",
-          "published_at": "2026-11-10T13:32:26+00:00",
-          "kind": "reporting"
-        },
-        {
-          "publisher": "ASDNews",
-          "url": "https://www.asdnews.com/news/defense/2026/11/10/ondas-receives-purchase-order-nextgen-tactical-attack-drones-aims-leverage-planned-aran-defense-acquisition-manufacture-thousands-systems",
-          "access": "free",
-          "published_at": "2026-11-10T13:30:03+00:00",
-          "kind": "reporting"
-        },
-        {
-          "publisher": "Stock Titan",
-          "url": "https://www.stocktitan.net/news/ONDS/ondas-receives-purchase-order-for-next-generation-tactical-attack-tt8cirnx0rpg.html",
-          "access": "free",
-          "published_at": "2026-11-10T13:30:00+00:00",
+          "publisher": "Defense News",
+          "url": "https://www.defensenews.com/global/europe/2026/11/12/germany-poland-tap-satim-to-analyze-military-satellite-imagery/",
+          "access": "unknown",
+          "published_at": "2026-11-12T16:58:38+00:00",
           "kind": "reporting"
         }
       ],
-      "score": 79
-    },
-    {
-      "headline": "Trelleborg Relocates Boeing 737 MAX and 777X Seal Production to Morocco",
-      "summary": "Swedish group Trelleborg Sealing Solutions is relocating production of seals for Boeing 737 MAX and 777X aircraft to Morocco. The seals will be manufactured at the group's new factory in the Midparc industrial zone in Nouaceur, near Casablanca.",
-      "why_it_matters": "Aerospace component suppliers continue to optimize regional manufacturing footprints to align with major aircraft program requirements and long-term cost structures.",
-      "category": "industry",
-      "companies": [
-        "Boeing"
-      ],
-      "topics": [
-        "Aviation",
-        "Manufacturing",
-        "Supply Chains"
-      ],
-      "sources": [
-        {
-          "publisher": "Yabiladi.com",
-          "url": "https://en.yabiladi.com/articles/details/207378/aerospace-morocco-takes-over-production.html",
-          "access": "free",
-          "published_at": "2026-11-11T13:22:53+00:00",
-          "kind": "reporting"
-        }
-      ],
-      "score": 75
-    },
-    {
-      "headline": "Redwire Secures $40 Million NASA Contract for Lunar Solar Power Demonstration",
-      "summary": "Redwire Corporation has been awarded a contract valued at approximately $40 million to develop an integrated power generation system for NASA's Moon Base programme, supporting plans to demonstrate solar energy technology near the Moon's South Pole. The aerospace company will adapt its Roll-Out Solar Array technology for NASA's Mini-Communications and Solar Tower initiative.",
-      "why_it_matters": "This award reinforces the commercial viability of deployable solar architectures for deep space infrastructure and validates scalable power generation solutions for sustained lunar operations.",
-      "category": "industry",
-      "companies": [
-        "Redwire Corporation",
-        "Boeing"
-      ],
-      "topics": [
-        "Space",
-        "Procurement",
-        "Supply Chains"
-      ],
-      "sources": [
-        {
-          "publisher": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/energy/articles/redwire-secures-40-million-nasa-151014300.html",
-          "access": "free",
-          "published_at": "2026-11-10T15:10:14+00:00",
-          "kind": "reporting"
-        }
-      ],
-      "score": 75
-    },
-    {
-      "headline": "Kai Extends Autonomous Defense Platform with EASM Capability and Launches Kai Labs Research Unit",
-      "summary": "Kai announced External Attack Surface Management, now available on the Kai Autonomous Defense Platform. The company also launched Kai Labs, an expanded research team focused on the hardest open problems where AI meets security.",
-      "why_it_matters": "Integrating internal exposure tracking with external adversary-perspective views enables security teams to automate remediation plans across fragmented enterprise systems.",
-      "category": "industry",
-      "companies": [],
-      "topics": [
-        "Cyber",
-        "Autonomous Systems"
-      ],
-      "sources": [
-        {
-          "publisher": "PR Newswire",
-          "url": "https://www.prnewswire.com/news-releases/kai-extends-autonomous-defense-platform-to-the-external-attack-surface-and-launches-kai-labs-302935905.html",
-          "access": "free",
-          "published_at": "2026-11-11T14:00:00+00:00",
-          "kind": "distributed press release"
-        }
-      ],
-      "score": 74
-    },
-    {
-      "headline": "Bannerflow Expands Creative Automation Operations into UK and US Markets",
-      "summary": "Bannerflow has expanded into the UK and US, opening offices in London and New York as the creative automation platform accelerates its international growth with backing from B2B software investor Tenzing. The expansion gives Bannerflow a presence in two major digital advertising markets, where demand for creative automation is increasing.",
-      "why_it_matters": "Entering mature global advertising hubs highlights how creative intelligence software providers are scaling enterprise offerings to meet complex cross-channel production demands.",
-      "category": "marketing",
-      "companies": [
-        "Bannerflow",
-        "Tenzing"
-      ],
-      "topics": [
-        "B2B Creativity",
-        "Creative Automation",
-        "Market Expansion"
-      ],
-      "sources": [
-        {
-          "publisher": "https://marketingreport.one/",
-          "url": "https://marketingreport.one/creation/bannerflow-expands-into-uk-and-us-markets.html",
-          "access": "free",
-          "published_at": "2026-11-11T08:37:15+00:00",
-          "kind": "reporting"
-        }
-      ],
-      "score": 65
+      "score": 77
     }
   ],
-  "coverage_start": "2026-11-09T14:43:31.991169+00:00",
-  "coverage_end": "2026-11-11T17:53:30.271658+00:00",
-  "today_in_a_sentence": "Shield AI successfully flew its first multi-ship Collaborative Combat Aircraft formation using Hivemind autonomy software. Meanwhile, Adobe announced plans to open its Creative Cloud applications to third-party AI agents, and France awarded a $1.7 billion contract to Airbus and Thales for military satellites."
+  "coverage_start": "2026-11-11T11:53:30.271658+00:00",
+  "coverage_end": "2026-11-13T17:44:20.022805+00:00",
+  "today_in_a_sentence": "Defense developments span major autonomy and surveillance expansions, including the B-21 Raider entering weapons testing, UFORCE securing a $700 million Series A round, and new UK naval surveillance frameworks. Additionally, MUJI Singapore launched a localized brand campaign via ANAK integrating travel accessories into everyday urban routines."
 }
