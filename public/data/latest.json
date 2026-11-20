@@ -1,261 +1,280 @@
 {
-  "date": "2026-11-19",
-  "published_at": "2026-11-19T18:58:52.526430+00:00",
+  "date": "2026-11-20",
+  "published_at": "2026-11-20T18:36:37.818710+00:00",
   "stories": [
     {
-      "headline": "France and Sweden Hold First Joint Nuclear-Deterrence Exercise Over Northern Sweden",
-      "summary": "France and Sweden held their first joint exercise under the forward deterrence initiative proposed by French President Emmanuel Macron, with French nuclear-capable Rafale jets and an Airbus A330 MRTT tanker aircraft operating over Sweden alongside Swedish Gripen fighters. The exercise, dubbed Excalibur, was held in northern Sweden on Nov. 16 to 18, with the aim of improving interoperability between the French and Swedish air forces, the two countries' armed forces said in statements on Thursday.",
-      "why_it_matters": "This exercise signals a concrete step toward operationalizing European forward deterrence independent of traditional U.S. guarantees, creating new defense integration opportunities for continental aerospace contractors.",
+      "headline": "Auterion and Skyfall Form Joint Venture for High-Volume German Drone Manufacturing",
+      "summary": "American autonomous software firm Auterion and Ukrainian drone producer Skyfall plan to form a joint venture to manufacture drones for Ukraine at high volume in a new factory in Germany, Auterion announced today. The new venture, called Skyfall X Auterion, is being established under the auspices of the official Build with Ukraine defense cooperation framework, the announcement said.",
+      "why_it_matters": "This transnational manufacturing joint venture establishes a secure European production node outside active strike zones while maintaining short innovation feedback loops from front-line Ukrainian units, offering defense buyers a scalable model for resilient industrial cooperation.",
       "category": "industry",
       "companies": [
-        "Airbus"
+        "Auterion",
+        "Skyfall"
       ],
       "topics": [
-        "aviation",
-        "procurement",
-        "drones"
+        "drones",
+        "autonomy",
+        "manufacturing",
+        "supply chain"
       ],
       "sources": [
         {
-          "publisher": "Defense News",
-          "url": "https://www.defensenews.com/global/europe/2026/11/19/france-and-sweden-hold-first-joint-nuclear-deterrence-exercise/",
-          "access": "unknown",
-          "published_at": "2026-11-19T18:24:10+00:00",
+          "publisher": "Breaking Defense",
+          "url": "https://breakingdefense.com/2026/11/autonomy-firm-auterion-to-launch-joint-venture-with-ukrainian-drone-maker-skyfall/",
+          "access": "free",
+          "published_at": "2026-11-20T18:24:08+00:00",
+          "kind": "reporting"
+        }
+      ],
+      "score": 92
+    },
+    {
+      "headline": "U.S. Army Certifies First Operational Patriot Battery on Integrated Battle Command System in South Korea",
+      "summary": "The U.S. Army has certified its first operational Patriot air defense missile battery on the Integrated Battle Command System (IBCS). During operational validation in South Korea, Delta Battery demonstrated the ability to disperse radar sensors and launchers independently from its fire-control unit across a shared battle network.",
+      "why_it_matters": "Network-centric air defense architectures unlock tactical flexibility for ground commanders, allowing dispersed sensors and effectors to interoperate across shared command layers to mitigate single-point vulnerabilities.",
+      "category": "industry",
+      "companies": [
+        "Lockheed Martin"
+      ],
+      "topics": [
+        "air defense",
+        "missiles",
+        "procurement",
+        "autonomy"
+      ],
+      "sources": [
+        {
+          "publisher": "Army Recognition",
+          "url": "https://www.armyrecognition.com/news/army-news/2026/u-s-army-certifies-first-operational-patriot-air-defense-missile-battery-with-new-command-system",
+          "access": "free",
+          "published_at": "2026-11-20T17:04:44+00:00",
+          "kind": "reporting"
+        }
+      ],
+      "score": 90
+    },
+    {
+      "headline": "Estonia Christens 45-Metre EUROGUARD Modular Warship Prototype for Autonomous Systems Trials",
+      "summary": "The European Union has presented in Estonia a semi-autonomous 45-meter-long vessel, developed with community funding, to strengthen maritime surveillance in the Baltic Sea and protect critical infrastructure. The prototype serves as a testbed for GENSA, a common system architecture developed for European naval vessels to integrate technologies from multiple industrial suppliers.",
+      "why_it_matters": "Standardized modular open architectures allow European naval shipbuilders to accelerate multi-supplier integration, offering a blueprint for collaborative multi-nation shipbuilding programs.",
+      "category": "industry",
+      "companies": [
+        "Thales",
+        "Leonardo",
+        "Naval Group",
+        "Navantia",
+        "Kongsberg",
+        "Damen"
+      ],
+      "topics": [
+        "naval",
+        "autonomy",
+        "manufacturing",
+        "supply chain"
+      ],
+      "sources": [
+        {
+          "publisher": "Escudo Digital",
+          "url": "https://www.escudodigital.com/en/defense/europe/eu-deploys-semi-autonomous-vessel-in-estonia-to-protect-undersea-cables.html",
+          "access": "free",
+          "published_at": "2026-11-20T05:15:02+00:00",
+          "kind": "reporting"
+        },
+        {
+          "publisher": "Defence Industry Europe",
+          "url": "https://defence-industry.eu/baltic-workboats-launches-euroguard-modular-naval-prototype-ahead-of-autonomous-systems-trials-in-2027/",
+          "access": "free",
+          "published_at": "2026-11-20T08:23:10+00:00",
+          "kind": "reporting"
+        },
+        {
+          "publisher": "Naval News",
+          "url": "https://www.navalnews.com/naval-news/2026/11/estonian-president-christens-first-euroguard-the-largest-warship-ever-built-in-the-country/",
+          "access": "free",
+          "published_at": "2026-11-19T18:35:34+00:00",
+          "kind": "reporting"
+        }
+      ],
+      "score": 89
+    },
+    {
+      "headline": "Exiger Secured $12 Million U.S. Air Force Contract for ICBM Supply Chain Illumination",
+      "summary": "Exiger has been awarded a $12 million contract to support the U.S. Air Force Nuclear Weapons Center's Intercontinental Ballistic Missile Systems Directorate with supply chain illumination and Defense Industrial Base analysis. The platform will help identify obsolescence risk, single-source dependencies, supply chain fragility, vendor viability concerns, and material shortages across the nuclear triad.",
+      "why_it_matters": "Deep-tier supply chain illumination contracts underscore the Department of Defense's urgent priority to replace high-level company monitoring with granular, parts-level risk analytics to guarantee strategic weapons system readiness.",
+      "category": "industry",
+      "companies": [
+        "Exiger"
+      ],
+      "topics": [
+        "supply chain",
+        "procurement",
+        "manufacturing",
+        "cyber"
+      ],
+      "sources": [
+        {
+          "publisher": "Defense and Munitions",
+          "url": "https://www.defenseandmunitions.com/news/us-air-force-awards-exiger-12-million-dollar-contract-to-support-intercontinental-ballistic-missile-supply-chain-illumination-defense-industrial-base-analysis/",
+          "access": "free",
+          "published_at": "2026-11-20T08:00:00+00:00",
+          "kind": "reporting"
+        }
+      ],
+      "score": 87
+    },
+    {
+      "headline": "VisionWave Acquires Critical Minerals Intelligence Platform for $11 Million in Milestone-Tied Deal",
+      "summary": "VisionWave has agreed to acquire a critical-minerals intelligence platform from Litial Ltd for $11 million in deferred, revenue-milestone-tied consideration, with no upfront cash or shares. The acquisition is intended to establish a new commercial technology offering with the potential to generate recurring revenue through subscriptions, compliance-related services and transaction-based fees.",
+      "why_it_matters": "Expanding software and data capabilities into supply-chain transparency allows defense-industrial technology firms to capture high-margin recurring revenues by mitigating geopolitical export risks for critical materials like tungsten and antimony.",
+      "category": "industry",
+      "companies": [
+        "VisionWave"
+      ],
+      "topics": [
+        "supply chain",
+        "manufacturing",
+        "M&A",
+        "cyber"
+      ],
+      "sources": [
+        {
+          "publisher": "Investorideas.com",
+          "url": "https://www.investorideas.com/CO/VWAV/news/2026/11201-defense-stock-visionwave-nasdaq-vwav-positions-for-recurring-revenue-in-defense-supply-chain-intelligence-with-milestone-tied-critical-minerals-platform-acquisition.asp",
+          "access": "free",
+          "published_at": "2026-11-20T13:40:00+00:00",
+          "kind": "reporting"
+        },
+        {
+          "publisher": "Quiver Quantitative",
+          "url": "https://www.quiverquant.com/news/VisionWave+Announces+Planned+Acquisition+of+Critical+Minerals+Intelligence+Platform+to+Expand+Defense+Supply-Chain+Intelligence+Capabilities",
+          "access": "free",
+          "published_at": "2026-11-20T11:10:00+00:00",
           "kind": "reporting"
         }
       ],
       "score": 85
     },
     {
-      "headline": "MBDA and Atmos Space Cargo Team Up to Study Orbital Deep-Strike Reentry Vehicles",
-      "summary": "Pan-European missile maker MBDA and German startup Atmos Space Cargo are teaming up to study deploying deep-strike weapons from Earth orbit using reentry vehicles. The firms agreed to jointly assess the feasibility and pursue development of a precision orbital deep strike capability, combining military payloads with orbital transport and reentry vehicles, they said on Wednesday.",
-      "why_it_matters": "Exploration of orbital assets for conventional deep strike points toward emerging defense capability layers outside conventional atmospheric options.",
-      "category": "industry",
-      "companies": [
-        "Airbus"
-      ],
-      "topics": [
-        "space",
-        "missiles"
-      ],
-      "sources": [
-        {
-          "publisher": "Defense News",
-          "url": "https://www.defensenews.com/global/europe/2026/11/19/mbda-and-german-startup-atmos-team-up-to-study-space-based-strike-weapons/",
-          "access": "unknown",
-          "published_at": "2026-11-19T10:36:23+00:00",
-          "kind": "reporting"
-        }
-      ],
-      "score": 82
-    },
-    {
-      "headline": "Clinch Integrates Higgsfield and ByteDance Generative AI Models Into Flight Control Workflow",
-      "summary": "Clinch announced new integrations with Higgsfield and ByteDance's Seedream and Seedance models in content orchestration platform, Flight Control. The new integrations significantly expand Flight Control's creative engine.",
-      "why_it_matters": "Embedding model-agnostic generative engines directly inside governed ad orchestration platforms lets creative teams experiment with advanced video models without fragmenting their production stacks. The operational challenge shifts from raw model choice to maintaining brand safety across automated asset variations.",
-      "category": "marketing",
-      "companies": [
-        "Clinch"
-      ],
-      "topics": [
-        "Generative AI",
-        "Creative Automation",
-        "Workflow Integration"
-      ],
-      "sources": [
-        {
-          "publisher": "PR Newswire",
-          "url": "https://www.prnewswire.com/news-releases/clinch-expands-generative-ai-capabilities-with-higgsfield-and-bytedance-integrations-302944811.html",
-          "access": "free",
-          "published_at": "2026-11-19T14:00:00+00:00",
-          "kind": "distributed press release"
-        }
-      ],
-      "score": 82
-    },
-    {
-      "headline": "CycloKinetics Secures $86.3 Million Pentagon Contract for Alternative Military Propellants",
-      "summary": "The Pentagon has awarded startup CycloKinetics an $86.3 million contract to advance the development of alternative fuel sources that could power US military aircraft, space launch and weapons, the company exclusively told Breaking Defense. The new award from the Pentagon, revealed today, is to set a process prototype for demonstrating ultimately what scalability will look like when we go full commercial, he said ahead of the announcement.",
-      "why_it_matters": "Alternative drop-in propellants offer defense buyers a pathway to extend platform operational range without costly engine redesigns, representing a strategic supply chain enhancement.",
+      "headline": "Czechoslovak Group Showcases FNSS-Based Karpat Medium Tank in First Live-Fire Demonstration",
+      "summary": "Czechoslovak Group introduced the CFL-120 Karpat medium tank, based on the Kaplan tracked platform developed by Turkish defense company FNSS, to potential customers at a dynamic demonstration held in Slovakia. During the event at the Záhorie Military Training Area, the vehicle was showcased maneuvering in terrain conditions and firing at targets with its 120 mm main gun.",
+      "why_it_matters": "Combining tracked platforms with international turret systems provides regional armed forces with main battle tank-level firepower at a reduced logistical burden, driving cross-border manufacturing partnerships.",
       "category": "industry",
       "companies": [],
       "topics": [
-        "aviation",
-        "space",
-        "missiles",
-        "procurement"
-      ],
-      "sources": [
-        {
-          "publisher": "Breaking Defense",
-          "url": "https://breakingdefense.com/2026/11/cyclokinetics-wins-86-3-million-pentagon-contract-for-alternative-fuels/",
-          "access": "free",
-          "published_at": "2026-11-19T14:03:49+00:00",
-          "kind": "reporting"
-        }
-      ],
-      "score": 80
-    },
-    {
-      "headline": "Northrop Grumman Demonstrates M-ACE Counter-UAS Mobility with Bushmaster Chain Guns",
-      "summary": "Northrop Grumman demonstrated an integrated, mobile solution for short-range counter-unmanned aircraft system defense during a recent live-fire exercise using its Bushmaster Chain Gun, advanced ammunition and Mobile Acquisition Cueing and Effector system. In a realistic operational scenario, the M-ACE system detected, identified and tracked drones, then cued a nearby Bushmaster Chain Gun with a precise target location.",
-      "why_it_matters": "Mobile, integrated counter-UAS systems address urgent frontline requirements for tactical drone defense, combining sensor cueing with kinetic effectors on the move.",
-      "category": "industry",
-      "companies": [
-        "Northrop Grumman"
-      ],
-      "topics": [
-        "drones",
-        "manufacturing"
-      ],
-      "sources": [
-        {
-          "publisher": "Northrop Grumman",
-          "url": "https://news.northropgrumman.com/bushmaster/northrop-grumman-proves-short-range-counter-uas-dominance-with-bushmaster-chain-guns-and-m-ace-system",
-          "access": "free",
-          "published_at": "2026-11-17T12:15:55+00:00",
-          "kind": "company announcement"
-        }
-      ],
-      "score": 79
-    },
-    {
-      "headline": "Eutelsat Wins Over $60 Million U.S. Space Force Contract for Warrior Plans Initiative",
-      "summary": "Eutelsat Network Solutions today announced that it has been awarded a contract under the U.S. Space Force Commercial Satellite Communications Office Warrior Plans initiative. The contract, estimated at more than $60 Million, streamlines access to resilient, adaptable commercial connectivity by providing approved operational users across the Department of War with mission-ready LEO satellite communication hardware and services, alternative Positioning, Navigation, and Timing solutions, and support.",
-      "why_it_matters": "Expanding military reliance on low-Earth orbit multi-orbit architectures accelerates commercial sector integration into resilient tactical communications networks.",
-      "category": "industry",
-      "companies": [],
-      "topics": [
-        "space",
-        "procurement",
-        "cyber"
-      ],
-      "sources": [
-        {
-          "publisher": "PR Newswire",
-          "url": "https://www.prnewswire.com/news-releases/eutelsat-network-solutions-awarded-us-space-force-csco-contract-to-support-warrior-plans-initiative-302941689.html",
-          "access": "free",
-          "published_at": "2026-11-17T14:03:00+00:00",
-          "kind": "distributed press release"
-        }
-      ],
-      "score": 78
-    },
-    {
-      "headline": "Dentsu Launches B2B Audiences Capability to Advance Total Person Intelligence Platform",
-      "summary": "Dentsu has launched B2B Audiences, a new AI-enabled capability within dentsu.Connect that advances dentsu B2B's Total Person Intelligence (TPI) approach. Powered by dentsu's industry-leading identity capabilities, data and AI, B2B Audiences introduces a new category of buyer intelligence, designed to help brands to translate Total Person Intelligence into addressable audiences and experiences.",
-      "why_it_matters": "B2B enterprise marketing increasingly requires resolving fragmented individual behaviors across professional and personal touchpoints rather than targeting static job titles. Translating complex human intelligence into addressable programmatic audiences helps agencies demonstrate measurable pipeline impact.",
-      "category": "marketing",
-      "companies": [],
-      "topics": [
-        "B2B Marketing",
-        "Audience Intelligence",
-        "Identity Resolution"
-      ],
-      "sources": [
-        {
-          "publisher": "LBB - Little Black Book",
-          "url": "https://lbbonline.com/news/dentsu-launches-proprietary-b2b-audiences-capability",
-          "access": "free",
-          "published_at": "2026-11-19T15:49:52+00:00",
-          "kind": "reporting"
-        }
-      ],
-      "score": 78
-    },
-    {
-      "headline": "Nozomi Networks and Lockheed Martin Partner on DISA STIG Automated Cybersecurity Compliance",
-      "summary": "Nozomi Networks Inc. today announced a strategic collaboration with Lockheed Martin to accelerate and simplify how global government and defense organizations secure their environments and demonstrate configuration compliance across defense networks. As an offset project tied to the F-35 sale to Switzerland, Nozomi Networks developers, supported by Lockheed Martin cyber experts, are building significant new capabilities within the Nozomi Networks platform.",
-      "why_it_matters": "Automating security configuration assessments reduces reliance on manual spreadsheets, helping defense contractors scale cybersecurity compliance across complex operational technology.",
-      "category": "industry",
-      "companies": [
-        "Lockheed Martin"
-      ],
-      "topics": [
-        "cyber",
-        "procurement"
-      ],
-      "sources": [
-        {
-          "publisher": "PR Newswire",
-          "url": "https://www.prnewswire.com/news-releases/nozomi-networks-lands-co-development-project-with-lockheed-martin-to-strengthen-cybersecurity-for-government-and-defense-environments-302939296.html",
-          "access": "free",
-          "published_at": "2026-11-17T11:00:00+00:00",
-          "kind": "distributed press release"
-        }
-      ],
-      "score": 77
-    },
-    {
-      "headline": "Middle East Airlines Takes Delivery of First Airbus A321XLR to Modernize Fleet",
-      "summary": "Middle East Airlines, Lebanon's national carrier, has taken delivery of the first of five Airbus A321XLR aircraft on order. MEA was the first airline to place a firm order for the type in 2019, and the delivery marks a key milestone in MEA's fleet modernisation strategy and further expands its all-Airbus fleet.",
-      "why_it_matters": "Commercial operators adopting long-range single-aisle aircraft demonstrate how airlines are restructuring network economics for thinner, long-haul routes.",
-      "category": "industry",
-      "companies": [
-        "Airbus"
-      ],
-      "topics": [
-        "aviation",
         "manufacturing",
-        "supply chains"
+        "procurement",
+        "supply chain"
       ],
       "sources": [
         {
-          "publisher": "Airbus",
-          "url": "https://www.airbus.com/en/newsroom/press-releases/2026-11-middle-east-airlines-takes-delivery-of-its-first-airbus-a321xlr",
+          "publisher": "Defensehere",
+          "url": "https://defensehere.com/en/fnss-kaplan-based-karpat-tank-conducts-its-first-live-fire-demonstration/",
           "access": "free",
-          "published_at": "2026-11-17T11:47:54+00:00",
-          "kind": "company announcement"
+          "published_at": "2026-11-20T15:34:45+00:00",
+          "kind": "reporting"
         }
       ],
-      "score": 75
+      "score": 84
     },
     {
-      "headline": "Pro Star Aviation Completes Gogo Galileo HDX Installation on Gulfstream G280 Within 10 Days",
-      "summary": "Pro Star Aviation installed a Low-Earth Orbit (LEO) satellite in-flight connectivity (IFC) system, the Gogo Galileo HDX, on a Gulfstream G280 within a planned 10-day installation window. The installation, documentation, testing and system activation were all completed within the planned 10-day window, and the aircraft returned to service as scheduled.",
-      "why_it_matters": "For Part 135 operators, predictability of aircraft downtime matters as much as hardware specs when executing connectivity retrofits. Integrators that bundle documentation and activation into pre-planned installation windows eliminate costly schedule overruns.",
-      "category": "marketing",
-      "companies": [],
+      "headline": "Collins Aerospace Breaks Ground on Bengaluru Propeller Repair Facility for Regional and Military Turboprops",
+      "summary": "Collins Aerospace broke ground on a propeller blade repair shop near Bengaluru that it expects to have running by 2028 for ATR 42/72 and C295 aircraft. It will start with existing vendors, including European suppliers, and shift work to Indian suppliers gradually as they clear two-to-three-year certification timelines.",
+      "why_it_matters": "This infrastructure investment highlights the lengthy certification timelines required for aerospace supply chain localization in emerging markets, forcing prime contractors to maintain dual-sourcing strategies. For B2B industrial marketers, navigating stringent aerospace qualification windows remains a core challenge when targeting tier-1 expansion programs.",
+      "category": "industry",
+      "companies": [
+        "Collins Aerospace",
+        "RTX",
+        "Airbus"
+      ],
       "topics": [
-        "Aviation",
-        "Connectivity",
-        "Retrofit"
+        "Aerospace",
+        "MRO",
+        "Supply Chain",
+        "Manufacturing"
       ],
       "sources": [
         {
-          "publisher": "Avi-Go",
-          "url": "https://avi-go.com/news/articles/442ba115501d848fabf476ad33a6111e",
+          "publisher": "MarketScale",
+          "url": "https://www.marketscale.com/industries/transportation/why-collins-aerospaces-bengaluru-propeller-shop-will-start-with-suppliers-it-already-uses",
           "access": "free",
-          "published_at": "2026-11-19T17:03:22+00:00",
+          "published_at": "2026-11-20T11:03:00+00:00",
+          "kind": "reporting"
+        }
+      ],
+      "score": 82
+    },
+    {
+      "headline": "Middle East Airlines Takes Delivery of First Airbus A321XLR to Advance Fleet Modernization",
+      "summary": "Middle East Airlines has taken delivery of the first of five Airbus A321XLR aircraft it ordered. The delivery forms part of its fleet modernisation programme and adds to its all-Airbus fleet.",
+      "why_it_matters": "The introduction of the long-range narrowbody type gives regional carriers extended route flexibility and widebody-style amenities on single-aisle economics. This milestone signals ongoing commercial appetite for high-efficiency narrowbodies despite broader supply chain constraints.",
+      "category": "industry",
+      "companies": [
+        "Airbus"
+      ],
+      "topics": [
+        "Commercial Aviation",
+        "Fleet Modernization",
+        "Procurement"
+      ],
+      "sources": [
+        {
+          "publisher": "https://safariindia.com/",
+          "url": "https://safariindia.com/middle-east-airlines-delivery-first-airbus-a321xlr/",
+          "access": "free",
+          "published_at": "2026-11-20T10:51:22+00:00",
           "kind": "reporting"
         }
       ],
       "score": 75
     },
     {
-      "headline": "Haymarket Media Group Selects Permutive to Standardize Automotive Audience Targeting",
-      "summary": "Haymarket Media Group, a specialist media and information company, today announced that it has selected Permutive, the leading agentic data collaboration and activation platform, to improve audience targeting capabilities across its Automotive web properties. Haymarket's publications, including What Car? and Autocar, now have access to Permutive's leading supply-side technology, including lookalike tools, audience visualisation, and post-campaign measurement.",
-      "why_it_matters": "Specialist and B2B publishers are adopting advanced first-party data collaboration tools to simplify rate cards and streamline inventory packaging for buyers. Unifying disparate audience signals under a single ad platform allows publishers to demonstrate concrete post-campaign attribution.",
+      "headline": "Modern Skies Coalition Launches 'ACT NOW' National Advertising Campaign for FAA Funding",
+      "summary": "The Modern Skies Coalition launched a national advertising campaign Friday urging Congress to provide additional funding for air traffic control modernization. The campaign, called \"ACT NOW,\" includes a 30-second video advertisement scheduled to appear on television networks, streaming services and social media platforms.",
+      "why_it_matters": "High-stakes trade association campaigns utilize multi-channel video assets to pressure legislative bodies following critical infrastructure outages. This initiative demonstrates how coalitions leverage consumer-facing media channels to drive enterprise-level policy and funding decisions.",
       "category": "marketing",
       "companies": [],
       "topics": [
-        "Data Collaboration",
-        "Publisher Monetization",
-        "Audience Targeting"
+        "B2B Advertising",
+        "Trade Association",
+        "Aviation Infrastructure",
+        "Campaign"
       ],
       "sources": [
         {
-          "publisher": "ADWEEK",
-          "url": "https://www.adweek.com/adweek-wire/haymarket-media-group-selects-permutive-to-unlock-value-in-specialist-audiences/?itm_source=homepage&itm_medium=adweek-wire-edge&itm_campaign=1",
+          "publisher": "AVweb",
+          "url": "https://avweb.com/aviation-news/aviation-coalition-presses-congres-atc-fun/",
           "access": "free",
-          "published_at": "2026-11-17T04:24:24+00:00",
+          "published_at": "2026-11-20T17:45:25+00:00",
           "kind": "reporting"
         }
       ],
       "score": 74
+    },
+    {
+      "headline": "NEWWAVE Unveils New Brand Identity and Strategic Positioning to Mark 15th Anniversary",
+      "summary": "Marking its 15th anniversary, NEWWAVE announces a new brand identity and strategic positioning as a Trusted Technology Partner, building on its engineering expertise and evolving capabilities to address changing business needs in an era of AI and rapid technological advancement. The announcement reflects the Vietnam-based company's commitment to moving beyond software execution toward a more consultative, end-to-end partnership, helping global clients navigate technology complexity, make informed decisions, and implement reliable solutions that deliver lasting business value.",
+      "why_it_matters": "Comprehensive B2B brand repositioning efforts help engineering firms pivot from tactical execution vendors to consultative strategic partners in complex enterprise environments. Articulating core capabilities across digital consulting and AI provides a replicable template for technology service providers scaling globally.",
+      "category": "marketing",
+      "companies": [],
+      "topics": [
+        "Brand Identity",
+        "B2B Positioning",
+        "Technology Consulting",
+        "Enterprise Transformation"
+      ],
+      "sources": [
+        {
+          "publisher": "PR Newswire",
+          "url": "https://www.prnewswire.com/apac/news-releases/newwave-unveils-new-brand-identity-and-strategic-positioning-as-a-trusted-technology-partner-at-15-302945003.html",
+          "access": "free",
+          "published_at": "2026-11-20T06:02:05+00:00",
+          "kind": "distributed press release"
+        }
+      ],
+      "score": 68
     }
   ],
-  "coverage_start": "2026-11-13T11:44:20.022805+00:00",
-  "coverage_end": "2026-11-19T18:58:52.526430+00:00",
-  "today_in_a_sentence": "France and Sweden conducted their first joint nuclear-deterrence exercise, while the Pentagon awarded CycloKinetics an $86.3 million contract for alternative military propellants. Meanwhile, defense and industry developments featured Eutelsat winning a $60 million U.S. Space Force contract, and MBDA partnering with Atmos Space Cargo to study orbital deep-strike reentry vehicles."
+  "coverage_start": "2026-11-19T12:58:52.526430+00:00",
+  "coverage_end": "2026-11-20T18:36:37.818710+00:00",
+  "today_in_a_sentence": "Auterion and Skyfall are forming a joint venture to manufacture drones in Germany for Ukraine, while the U.S. Army certified its first operational Patriot battery on the Integrated Battle Command System in South Korea. Meanwhile, defense and aviation sectors advanced hardware and supply chain initiatives, including Estonia christening a modular warship prototype, Collins Aerospace breaking ground on a propeller repair facility, and Exiger securing a U.S. Air Force contract."
 }

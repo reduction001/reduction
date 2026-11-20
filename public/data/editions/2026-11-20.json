@@ -1,0 +1,280 @@
+{
+  "date": "2026-11-20",
+  "published_at": "2026-11-20T18:36:37.818710+00:00",
+  "stories": [
+    {
+      "headline": "Auterion and Skyfall Form Joint Venture for High-Volume German Drone Manufacturing",
+      "summary": "American autonomous software firm Auterion and Ukrainian drone producer Skyfall plan to form a joint venture to manufacture drones for Ukraine at high volume in a new factory in Germany, Auterion announced today. The new venture, called Skyfall X Auterion, is being established under the auspices of the official Build with Ukraine defense cooperation framework, the announcement said.",
+      "why_it_matters": "This transnational manufacturing joint venture establishes a secure European production node outside active strike zones while maintaining short innovation feedback loops from front-line Ukrainian units, offering defense buyers a scalable model for resilient industrial cooperation.",
+      "category": "industry",
+      "companies": [
+        "Auterion",
+        "Skyfall"
+      ],
+      "topics": [
+        "drones",
+        "autonomy",
+        "manufacturing",
+        "supply chain"
+      ],
+      "sources": [
+        {
+          "publisher": "Breaking Defense",
+          "url": "https://breakingdefense.com/2026/11/autonomy-firm-auterion-to-launch-joint-venture-with-ukrainian-drone-maker-skyfall/",
+          "access": "free",
+          "published_at": "2026-11-20T18:24:08+00:00",
+          "kind": "reporting"
+        }
+      ],
+      "score": 92
+    },
+    {
+      "headline": "U.S. Army Certifies First Operational Patriot Battery on Integrated Battle Command System in South Korea",
+      "summary": "The U.S. Army has certified its first operational Patriot air defense missile battery on the Integrated Battle Command System (IBCS). During operational validation in South Korea, Delta Battery demonstrated the ability to disperse radar sensors and launchers independently from its fire-control unit across a shared battle network.",
+      "why_it_matters": "Network-centric air defense architectures unlock tactical flexibility for ground commanders, allowing dispersed sensors and effectors to interoperate across shared command layers to mitigate single-point vulnerabilities.",
+      "category": "industry",
+      "companies": [
+        "Lockheed Martin"
+      ],
+      "topics": [
+        "air defense",
+        "missiles",
+        "procurement",
+        "autonomy"
+      ],
+      "sources": [
+        {
+          "publisher": "Army Recognition",
+          "url": "https://www.armyrecognition.com/news/army-news/2026/u-s-army-certifies-first-operational-patriot-air-defense-missile-battery-with-new-command-system",
+          "access": "free",
+          "published_at": "2026-11-20T17:04:44+00:00",
+          "kind": "reporting"
+        }
+      ],
+      "score": 90
+    },
+    {
+      "headline": "Estonia Christens 45-Metre EUROGUARD Modular Warship Prototype for Autonomous Systems Trials",
+      "summary": "The European Union has presented in Estonia a semi-autonomous 45-meter-long vessel, developed with community funding, to strengthen maritime surveillance in the Baltic Sea and protect critical infrastructure. The prototype serves as a testbed for GENSA, a common system architecture developed for European naval vessels to integrate technologies from multiple industrial suppliers.",
+      "why_it_matters": "Standardized modular open architectures allow European naval shipbuilders to accelerate multi-supplier integration, offering a blueprint for collaborative multi-nation shipbuilding programs.",
+      "category": "industry",
+      "companies": [
+        "Thales",
+        "Leonardo",
+        "Naval Group",
+        "Navantia",
+        "Kongsberg",
+        "Damen"
+      ],
+      "topics": [
+        "naval",
+        "autonomy",
+        "manufacturing",
+        "supply chain"
+      ],
+      "sources": [
+        {
+          "publisher": "Escudo Digital",
+          "url": "https://www.escudodigital.com/en/defense/europe/eu-deploys-semi-autonomous-vessel-in-estonia-to-protect-undersea-cables.html",
+          "access": "free",
+          "published_at": "2026-11-20T05:15:02+00:00",
+          "kind": "reporting"
+        },
+        {
+          "publisher": "Defence Industry Europe",
+          "url": "https://defence-industry.eu/baltic-workboats-launches-euroguard-modular-naval-prototype-ahead-of-autonomous-systems-trials-in-2027/",
+          "access": "free",
+          "published_at": "2026-11-20T08:23:10+00:00",
+          "kind": "reporting"
+        },
+        {
+          "publisher": "Naval News",
+          "url": "https://www.navalnews.com/naval-news/2026/11/estonian-president-christens-first-euroguard-the-largest-warship-ever-built-in-the-country/",
+          "access": "free",
+          "published_at": "2026-11-19T18:35:34+00:00",
+          "kind": "reporting"
+        }
+      ],
+      "score": 89
+    },
+    {
+      "headline": "Exiger Secured $12 Million U.S. Air Force Contract for ICBM Supply Chain Illumination",
+      "summary": "Exiger has been awarded a $12 million contract to support the U.S. Air Force Nuclear Weapons Center's Intercontinental Ballistic Missile Systems Directorate with supply chain illumination and Defense Industrial Base analysis. The platform will help identify obsolescence risk, single-source dependencies, supply chain fragility, vendor viability concerns, and material shortages across the nuclear triad.",
+      "why_it_matters": "Deep-tier supply chain illumination contracts underscore the Department of Defense's urgent priority to replace high-level company monitoring with granular, parts-level risk analytics to guarantee strategic weapons system readiness.",
+      "category": "industry",
+      "companies": [
+        "Exiger"
+      ],
+      "topics": [
+        "supply chain",
+        "procurement",
+        "manufacturing",
+        "cyber"
+      ],
+      "sources": [
+        {
+          "publisher": "Defense and Munitions",
+          "url": "https://www.defenseandmunitions.com/news/us-air-force-awards-exiger-12-million-dollar-contract-to-support-intercontinental-ballistic-missile-supply-chain-illumination-defense-industrial-base-analysis/",
+          "access": "free",
+          "published_at": "2026-11-20T08:00:00+00:00",
+          "kind": "reporting"
+        }
+      ],
+      "score": 87
+    },
+    {
+      "headline": "VisionWave Acquires Critical Minerals Intelligence Platform for $11 Million in Milestone-Tied Deal",
+      "summary": "VisionWave has agreed to acquire a critical-minerals intelligence platform from Litial Ltd for $11 million in deferred, revenue-milestone-tied consideration, with no upfront cash or shares. The acquisition is intended to establish a new commercial technology offering with the potential to generate recurring revenue through subscriptions, compliance-related services and transaction-based fees.",
+      "why_it_matters": "Expanding software and data capabilities into supply-chain transparency allows defense-industrial technology firms to capture high-margin recurring revenues by mitigating geopolitical export risks for critical materials like tungsten and antimony.",
+      "category": "industry",
+      "companies": [
+        "VisionWave"
+      ],
+      "topics": [
+        "supply chain",
+        "manufacturing",
+        "M&A",
+        "cyber"
+      ],
+      "sources": [
+        {
+          "publisher": "Investorideas.com",
+          "url": "https://www.investorideas.com/CO/VWAV/news/2026/11201-defense-stock-visionwave-nasdaq-vwav-positions-for-recurring-revenue-in-defense-supply-chain-intelligence-with-milestone-tied-critical-minerals-platform-acquisition.asp",
+          "access": "free",
+          "published_at": "2026-11-20T13:40:00+00:00",
+          "kind": "reporting"
+        },
+        {
+          "publisher": "Quiver Quantitative",
+          "url": "https://www.quiverquant.com/news/VisionWave+Announces+Planned+Acquisition+of+Critical+Minerals+Intelligence+Platform+to+Expand+Defense+Supply-Chain+Intelligence+Capabilities",
+          "access": "free",
+          "published_at": "2026-11-20T11:10:00+00:00",
+          "kind": "reporting"
+        }
+      ],
+      "score": 85
+    },
+    {
+      "headline": "Czechoslovak Group Showcases FNSS-Based Karpat Medium Tank in First Live-Fire Demonstration",
+      "summary": "Czechoslovak Group introduced the CFL-120 Karpat medium tank, based on the Kaplan tracked platform developed by Turkish defense company FNSS, to potential customers at a dynamic demonstration held in Slovakia. During the event at the Záhorie Military Training Area, the vehicle was showcased maneuvering in terrain conditions and firing at targets with its 120 mm main gun.",
+      "why_it_matters": "Combining tracked platforms with international turret systems provides regional armed forces with main battle tank-level firepower at a reduced logistical burden, driving cross-border manufacturing partnerships.",
+      "category": "industry",
+      "companies": [],
+      "topics": [
+        "manufacturing",
+        "procurement",
+        "supply chain"
+      ],
+      "sources": [
+        {
+          "publisher": "Defensehere",
+          "url": "https://defensehere.com/en/fnss-kaplan-based-karpat-tank-conducts-its-first-live-fire-demonstration/",
+          "access": "free",
+          "published_at": "2026-11-20T15:34:45+00:00",
+          "kind": "reporting"
+        }
+      ],
+      "score": 84
+    },
+    {
+      "headline": "Collins Aerospace Breaks Ground on Bengaluru Propeller Repair Facility for Regional and Military Turboprops",
+      "summary": "Collins Aerospace broke ground on a propeller blade repair shop near Bengaluru that it expects to have running by 2028 for ATR 42/72 and C295 aircraft. It will start with existing vendors, including European suppliers, and shift work to Indian suppliers gradually as they clear two-to-three-year certification timelines.",
+      "why_it_matters": "This infrastructure investment highlights the lengthy certification timelines required for aerospace supply chain localization in emerging markets, forcing prime contractors to maintain dual-sourcing strategies. For B2B industrial marketers, navigating stringent aerospace qualification windows remains a core challenge when targeting tier-1 expansion programs.",
+      "category": "industry",
+      "companies": [
+        "Collins Aerospace",
+        "RTX",
+        "Airbus"
+      ],
+      "topics": [
+        "Aerospace",
+        "MRO",
+        "Supply Chain",
+        "Manufacturing"
+      ],
+      "sources": [
+        {
+          "publisher": "MarketScale",
+          "url": "https://www.marketscale.com/industries/transportation/why-collins-aerospaces-bengaluru-propeller-shop-will-start-with-suppliers-it-already-uses",
+          "access": "free",
+          "published_at": "2026-11-20T11:03:00+00:00",
+          "kind": "reporting"
+        }
+      ],
+      "score": 82
+    },
+    {
+      "headline": "Middle East Airlines Takes Delivery of First Airbus A321XLR to Advance Fleet Modernization",
+      "summary": "Middle East Airlines has taken delivery of the first of five Airbus A321XLR aircraft it ordered. The delivery forms part of its fleet modernisation programme and adds to its all-Airbus fleet.",
+      "why_it_matters": "The introduction of the long-range narrowbody type gives regional carriers extended route flexibility and widebody-style amenities on single-aisle economics. This milestone signals ongoing commercial appetite for high-efficiency narrowbodies despite broader supply chain constraints.",
+      "category": "industry",
+      "companies": [
+        "Airbus"
+      ],
+      "topics": [
+        "Commercial Aviation",
+        "Fleet Modernization",
+        "Procurement"
+      ],
+      "sources": [
+        {
+          "publisher": "https://safariindia.com/",
+          "url": "https://safariindia.com/middle-east-airlines-delivery-first-airbus-a321xlr/",
+          "access": "free",
+          "published_at": "2026-11-20T10:51:22+00:00",
+          "kind": "reporting"
+        }
+      ],
+      "score": 75
+    },
+    {
+      "headline": "Modern Skies Coalition Launches 'ACT NOW' National Advertising Campaign for FAA Funding",
+      "summary": "The Modern Skies Coalition launched a national advertising campaign Friday urging Congress to provide additional funding for air traffic control modernization. The campaign, called \"ACT NOW,\" includes a 30-second video advertisement scheduled to appear on television networks, streaming services and social media platforms.",
+      "why_it_matters": "High-stakes trade association campaigns utilize multi-channel video assets to pressure legislative bodies following critical infrastructure outages. This initiative demonstrates how coalitions leverage consumer-facing media channels to drive enterprise-level policy and funding decisions.",
+      "category": "marketing",
+      "companies": [],
+      "topics": [
+        "B2B Advertising",
+        "Trade Association",
+        "Aviation Infrastructure",
+        "Campaign"
+      ],
+      "sources": [
+        {
+          "publisher": "AVweb",
+          "url": "https://avweb.com/aviation-news/aviation-coalition-presses-congres-atc-fun/",
+          "access": "free",
+          "published_at": "2026-11-20T17:45:25+00:00",
+          "kind": "reporting"
+        }
+      ],
+      "score": 74
+    },
+    {
+      "headline": "NEWWAVE Unveils New Brand Identity and Strategic Positioning to Mark 15th Anniversary",
+      "summary": "Marking its 15th anniversary, NEWWAVE announces a new brand identity and strategic positioning as a Trusted Technology Partner, building on its engineering expertise and evolving capabilities to address changing business needs in an era of AI and rapid technological advancement. The announcement reflects the Vietnam-based company's commitment to moving beyond software execution toward a more consultative, end-to-end partnership, helping global clients navigate technology complexity, make informed decisions, and implement reliable solutions that deliver lasting business value.",
+      "why_it_matters": "Comprehensive B2B brand repositioning efforts help engineering firms pivot from tactical execution vendors to consultative strategic partners in complex enterprise environments. Articulating core capabilities across digital consulting and AI provides a replicable template for technology service providers scaling globally.",
+      "category": "marketing",
+      "companies": [],
+      "topics": [
+        "Brand Identity",
+        "B2B Positioning",
+        "Technology Consulting",
+        "Enterprise Transformation"
+      ],
+      "sources": [
+        {
+          "publisher": "PR Newswire",
+          "url": "https://www.prnewswire.com/apac/news-releases/newwave-unveils-new-brand-identity-and-strategic-positioning-as-a-trusted-technology-partner-at-15-302945003.html",
+          "access": "free",
+          "published_at": "2026-11-20T06:02:05+00:00",
+          "kind": "distributed press release"
+        }
+      ],
+      "score": 68
+    }
+  ],
+  "coverage_start": "2026-11-19T12:58:52.526430+00:00",
+  "coverage_end": "2026-11-20T18:36:37.818710+00:00",
+  "today_in_a_sentence": "Auterion and Skyfall are forming a joint venture to manufacture drones in Germany for Ukraine, while the U.S. Army certified its first operational Patriot battery on the Integrated Battle Command System in South Korea. Meanwhile, defense and aviation sectors advanced hardware and supply chain initiatives, including Estonia christening a modular warship prototype, Collins Aerospace breaking ground on a propeller repair facility, and Exiger securing a U.S. Air Force contract."
+}
