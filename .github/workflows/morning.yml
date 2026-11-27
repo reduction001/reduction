@@ -53,19 +53,26 @@ jobs:
           PY
       - name: Install wider-discovery tools
         if: steps.gate.outputs.run == 'true'
-        run: python -m pip install -r pipeline/requirements-wide.txt     
+        run: python -m pip install -r pipeline/requirements-wide.txt
       - name: Build briefing
         if: steps.gate.outputs.run == 'true'
         env:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
-          GEMINI_MODEL: gemini-3.5-flash-lite
           PUBLISH: ${{ steps.gate.outputs.publish }}
         run: |
-          if [ "$PUBLISH" = "true" ]; then
-            python pipeline/wide_run.py --publish
-          else
-            python pipeline/wide_run.py
-          fi
+          for model in gemini-3.8-flash gemini-3.6-flash gemini-3.5-flash-lite; do
+            export GEMINI_MODEL="$model"
+            echo "Trying model: $model"
+            if [ "$PUBLISH" = "true" ]; then
+              python pipeline/wide_run.py --publish && exit 0
+            else
+              python pipeline/wide_run.py && exit 0
+            fi
+            echo "Model $model failed; waiting 90 seconds before fallback."
+            sleep 90
+          done
+          echo "All fallback models failed."
+          exit 1
       - name: Save diagnostics and draft
         if: always() && steps.gate.outputs.run == 'true'
         uses: actions/upload-artifact@v4
