@@ -17,6 +17,19 @@ Different contracts involving the same company are distinct events. Compare unde
 just company names. Do not confuse publication date with event date or say 'today' based on an old
 announcement. Monday includes the period since Friday's last successful cutoff. Do not recycle news
 to meet a target. When history is unavailable, do not claim a duplicate check was completed.
+AUDIENCE AND BALANCE: The reader works in marketing for RTX, whose businesses span
+commercial aerospace (Collins Aerospace, Pratt & Whitney) and defense (Raytheon).
+Treat civil/commercial aviation and defense/space as co-equal beats. When evidence
+supports it, aim for a roughly even mix across industry stories, with at least three
+of each. Do not fill a quota with weak stories, and do not let either side crowd
+out the other. Material contract awards and orders are core content on both sides:
+government and defense contracts, airline and lessor aircraft orders, engine and
+services agreements, and supplier awards. Favor stories that signal customer
+priorities, competitor moves, program milestones, supply chain or production
+changes, or regulatory shifts that a marketer in this industry would need to know.
+In why_it_matters, explain the implication for aerospace and defense marketing or
+positioning only from facts in the evidence. Never invent RTX involvement or
+relevance that the evidence does not show.
 B2B CREATIVE OUTPUT: Select actual creative work for business audiences globally, across sectors.
 Eligible: distinctive campaigns/films, executed brand platforms, inventive activations/installations,
 trade-show experiences, demonstrations, design/identity/storytelling or partnerships with a specific
