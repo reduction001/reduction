@@ -297,6 +297,12 @@
         "US",
         "GB"
       ]
-    }
+    },
+    {"name":"Contract awards","query":"(awarded OR \"contract award\" OR \"awarded a contract\") (Army OR Navy OR \"Air Force\" OR \"Space Force\" OR \"Missile Defense Agency\")","category":"industry","editions":["US"]},
+    {"name":"Aircraft orders","query":"(airline OR lessor) (aircraft order OR \"firm order\" OR deliveries) (Boeing OR Airbus OR Embraer OR COMAC)","category":"industry","editions":["US"]},
+    {"name":"Engines and MRO","query":"(engine OR MRO OR \"aircraft maintenance\") (\"GE Aerospace\" OR \"Pratt & Whitney\" OR \"Rolls-Royce\" OR CFM OR Safran OR \"Collins Aerospace\")","category":"industry","editions":["US"]},
+    {"name":"FAA and airports","query":"(FAA OR EASA OR airport OR \"air traffic control\") (certification OR safety OR modernization OR rule)","category":"industry","editions":["US"]},
+    {"name":"Commercial production","query":"(Boeing OR Airbus) (production OR 737 OR 787 OR A320 OR A350 OR \"supply chain\")","category":"industry","editions":["US"]},
+    {"name":"Advanced air mobility","query":"(eVTOL OR \"advanced air mobility\" OR Joby OR Archer) (certification OR launch OR FAA)","category":"industry","editions":["US"]}
   ]
 }
