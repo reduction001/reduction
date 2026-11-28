@@ -88,5 +88,32 @@
       "US",
       "GB"
     ]
+  },
+  {
+    "name": "A&D brand creative",
+    "query": "(Boeing OR Airbus OR Lockheed OR Northrop OR \"GE Aerospace\" OR Honeywell OR Embraer OR RTX) (campaign OR \"brand film\" OR activation OR \"air show\" OR sponsorship)",
+    "category": "marketing",
+    "editions": [
+      "US",
+      "GB"
+    ]
+  },
+  {
+    "name": "Air show and trade show experiences",
+    "query": "(aerospace OR aviation OR defense) (\"air show\" OR airshow OR \"trade show\" OR exhibit OR pavilion) (experience OR installation OR immersive OR demonstration)",
+    "category": "marketing",
+    "editions": [
+      "US",
+      "GB"
+    ]
+  },
+  {
+    "name": "Aerospace brand storytelling",
+    "query": "(aerospace OR aviation OR defense OR \"space company\") (\"brand film\" OR documentary OR \"brand story\" OR \"creative agency\" OR rebrand)",
+    "category": "marketing",
+    "editions": [
+      "US",
+      "GB"
+    ]
   }
 ]
