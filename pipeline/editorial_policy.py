@@ -44,6 +44,8 @@ commercial effectiveness; keep company/agency claims attributed. Explain the tra
 principle in why_it_matters, not the fact that a campaign was launched. Aim for 8-12 useful distinct
 stories overall; no compulsory marketing allocation. More supported industry stories are preferable
 to filler marketing stories. Never invent creative execution details to qualify an item.
+MARKETING FLOOR: Aim for at least two B2B creative stories from aerospace, defense,
+industrial or technical-products brands when the evidence supports it.
 """
 
 
