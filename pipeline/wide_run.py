@@ -21,7 +21,11 @@ PRIORITY_DOMAINS = [
     "lockheedmartin.com", "northropgrumman.com", "anduril.com", "shield.ai", "saronic.com",
     "thedrum.com", "campaignlive.co.uk", "adage.com", "adweek.com", "marketingweek.com",
     "marketingdive.com", "lbbonline.com", "b2bmarketing.net", "demandgenreport.com",
-    "dandad.org", "canneslions.com", "businesswire.com", "prnewswire.com"
+    "dandad.org", "canneslions.com", "businesswire.com", "prnewswire.com", 
+    "geaerospace.com", "collinsaerospace.com", "prattwhitney.com", "embraer.com",
+    "gulfstream.com", "safran-group.com", "rolls-royce.com", "honeywell.com",
+    "ainonline.com", "theaircurrent.com", "ch-aviation.com", "leehamnews.com",
+    "aerotime.aero", "easa.europa.eu", "iata.org",
 ]
 PRIMARY_DOMAINS = ["boeing.com", "boeing.mediaroom.com", "airbus.com", "rtx.com",
     "lockheedmartin.com", "northropgrumman.com", "anduril.com", "shield.ai", "saronic.com"]
