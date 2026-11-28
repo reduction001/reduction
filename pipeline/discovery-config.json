@@ -303,6 +303,7 @@
     {"name":"Engines and MRO","query":"(engine OR MRO OR \"aircraft maintenance\") (\"GE Aerospace\" OR \"Pratt & Whitney\" OR \"Rolls-Royce\" OR CFM OR Safran OR \"Collins Aerospace\")","category":"industry","editions":["US"]},
     {"name":"FAA and airports","query":"(FAA OR EASA OR airport OR \"air traffic control\") (certification OR safety OR modernization OR rule)","category":"industry","editions":["US"]},
     {"name":"Commercial production","query":"(Boeing OR Airbus) (production OR 737 OR 787 OR A320 OR A350 OR \"supply chain\")","category":"industry","editions":["US"]},
-    {"name":"Advanced air mobility","query":"(eVTOL OR \"advanced air mobility\" OR Joby OR Archer) (certification OR launch OR FAA)","category":"industry","editions":["US"]}
+    {"name":"Advanced air mobility","query":"(eVTOL OR \"advanced air mobility\" OR Joby OR Archer) (certification OR launch OR FAA)","category":"industry","editions":["US"]},
+    {"name":"A&D brand creative","query":"(Boeing OR Airbus OR Lockheed OR Northrop OR \"GE Aerospace\" OR Honeywell OR Embraer) (campaign OR \"brand film\" OR activation OR \"air show\" OR sponsorship)","category":"marketing","editions":["US","GB"]}
   ]
 }
