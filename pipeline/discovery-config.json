@@ -1,7 +1,7 @@
 {
   "lookback_days": 7,
   "max_discovered": 1800,
-  "max_extraction_attempts": 100,
+  "max_extraction_attempts": 160,
   "discovery_workers": 3,
   "evidence_workers": 3,
   "approved_text_domains": [
