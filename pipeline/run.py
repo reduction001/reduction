@@ -50,7 +50,7 @@ def fetch(url, data=None, headers=None, limit=3_000_000):
     req = urllib.request.Request(url, data=data, headers=headers or {
         "User-Agent": "Reduction/0.1 (+https://reduction.nyc/rtx; RSS briefing)"
     })
-    with urllib.request.urlopen(req, timeout=35) as r:
+    with urllib.request.urlopen(req, timeout=90) as r:
         body = r.read(limit + 1)
         if len(body) > limit: raise ValueError("Response exceeds safety limit")
         return body
